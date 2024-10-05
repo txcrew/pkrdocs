@@ -1,12 +1,12 @@
 ---
-title: PKR
+title: 
 toc: false
 ---
 
-
-## Explore
+Guide
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="guide" title="Guide" icon="book-open" >}}
+  {{< card link="releases" title="Release notes" icon="book-open" >}}
 
 {{< /cards >}}

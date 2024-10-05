@@ -1,7 +1,8 @@
 ---
-title: Docs
+title: Guide
 toc: false
-type: docs
+cascade:
+  type: docs
 ---
 
 This is a demo of the theme's documentation layout.
