@@ -18,12 +18,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Guide
+      pageRef: /guide
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Releases
+      pageRef: /releases
       weight: 2
+    - name: GitHub
+      weight: 10
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: circle-badge
     - name: Search
       weight: 4
       params:
