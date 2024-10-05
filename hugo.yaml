@@ -24,15 +24,15 @@ menu:
     - name: Releases
       pageRef: /releases
       weight: 2
-    - name: GitHub
-      weight: 10
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: circle-badge
     - name: Search
       weight: 4
       params:
         type: search
+    - name: My Park Ranger
+      weight: 10
+      url: "https://my.parkranger.app"
+      params:
+        icon: circle-badge
 
 params:
   navbar:
