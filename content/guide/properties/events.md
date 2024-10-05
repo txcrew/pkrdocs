@@ -1,5 +1,6 @@
 ---
 title: "Events"
+draft: true
 ---
 
 a scheduled occasion or activity designed to enhance visitor experiences, often featuring special attractions, performances, or themed celebrations

@@ -1,6 +1,6 @@
 ---
 title: "Areas"
-draft: true
+draft: false
 ---
 
 A distinct section within a property that is themed around a specific concept or topic.

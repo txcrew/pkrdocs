@@ -1,4 +1,5 @@
 ---
 title: "Shops"
+draft: true
 ---
 

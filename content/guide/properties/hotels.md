@@ -1,5 +1,6 @@
 ---
 title: "Hotels"
+draft: true
 ---
 
 Accommodations that are located on park property. 

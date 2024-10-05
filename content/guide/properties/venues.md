@@ -1,6 +1,5 @@
 ---
 title: "Venues"
-
 ---
 
 {{< icon "venue" >}} Venues are physical spaces that house one or more properties.
