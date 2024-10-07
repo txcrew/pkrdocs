@@ -3,20 +3,31 @@ title: "Sessions"
 ---
 
 
+## Overview
 
-Sessions are cumulative records of visits over a period of time.
+Sessions are cumulative records of visits over a period of time. 
 
-All of your visits are stored in trackers. And all of your trackers are what makes up a session.
+They're like an album; you choose what goes in. For example you can create sessions for your:
 
-{{< cards  >}}
+* Activity on a given day
+* Activity over a series of days
+* Historical activity over an unknown timeframe
 
-  {{< card link="create"  title="Create" subtitle="Start a session" >}}
+## How they work
 
-  {{< card link="organize"  title="Trackers" subtitle="Sort your sessions" >}}
-
-  {{< card link="share" title="Share" subtitle="share your activity with others">}}
-
-  {{< card link="edit" title="Edit" subtitle="share your activity with others">}}
+Every visit you log is stored in a session, with all visits automatically sorted into individual [trackers]({{< ref "trackers" >}}) for each property. Sessions are private by default but can be selectively [shared]({{< ref "share" >}}) publicly.
 
 
-{{< /cards >}}
+## Start a session
+
+Sessions are created automatically 🙌. You may also choose to manually create a session as needed.
+
+
+### Automatic
+Sessions are automatically created on your first logged visit of each calendar day. 
+
+By default, the name of each auto-generated session is today's date. This can be changed in the Edit session mode.
+
+### Manual
+
+For more tactical organization, a new session can be created at any point by tapping `New session`.
