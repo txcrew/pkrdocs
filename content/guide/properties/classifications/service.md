@@ -3,6 +3,10 @@ title: "Service type"
 linkTitle: "Service"
 ---
 
+<br />
+{{< badge "Dining" >}}
+
+
 The distinct manner in which food and beverages are prepared, presented, and delivered to customers. It encompasses various models that influence the dining experience.
 
 {{% details title="Counter service" closed="true" %}}

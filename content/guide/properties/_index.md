@@ -7,7 +7,7 @@ weight: 10
 All points of interest in Park Ranger are called `Properties`. There are various property types available to search and track.
 
 {{< cards  >}}
-  {{< card link="categories"  title="Categoires" icon="resort" >}}
-{{< card link="classifications"  title="Classifications" icon="resort" >}}
+  {{< card link="categories"  title="Categoires" >}}
+{{< card link="classifications"  title="Classifications" >}}
 
 {{< /cards >}}

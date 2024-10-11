@@ -2,12 +2,16 @@
 title: "Model"
 ---
 
+{{< badge "Attraction" >}}
+{{< badge "Coaster" >}}
+
 A standard, often pre-designed ride or experience created by manufacturers, which can be customized by parks to fit their brand or theme.
 
 ## A
 
 {{% details title="Accelerator" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Aerial Carousel" closed="true" %}}
@@ -34,6 +38,7 @@ something
 
 {{% details title="Blitz" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Body slide" closed="true" %}}
@@ -42,6 +47,7 @@ something
 
 {{% details title="Boomerang" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Bounce House" closed="true" %}}
@@ -96,6 +102,7 @@ something
 
 {{% details title="Corkscrew" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Crazy Bus" closed="true" %}}
@@ -118,6 +125,7 @@ something
 
 {{% details title="Dive" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Dodgems" closed="true" %}}
@@ -134,6 +142,7 @@ something
 
 {{% details title="Dueling" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## E
@@ -208,6 +217,7 @@ something
 
 {{% details title="Giga" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Giga Discovery" closed="true" %}}
@@ -230,16 +240,19 @@ something
 
 {{% details title="Hyper" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## I
 
 {{% details title="I-Box track" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Impulse" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 
@@ -293,6 +306,7 @@ something
 
 {{% details title="Möbius loop" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Monorail" closed="true" %}}
@@ -305,6 +319,7 @@ something
 
 {{% details title="Motorbike" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Mountain Glider" closed="true" %}}
@@ -351,12 +366,14 @@ something
 
 {{% details title="Powered" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## R
 
 {{% details title="Racing" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Raft slide" closed="true" %}}
@@ -369,6 +386,7 @@ something
 
 {{% details title="Raptor track" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Reverse bungee" closed="true" %}}
@@ -415,14 +433,17 @@ something
 
 {{% details title="Shuttle" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Side friction" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Single-rail" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Skater Coaster" closed="true" %}}
@@ -431,6 +452,7 @@ something
 
 {{% details title="Sky Rocket II" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Sky tram" closed="true" %}}
@@ -443,6 +465,7 @@ something
 
 {{% details title="Space Diver" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Space Shot" closed="true" %}}
@@ -463,6 +486,7 @@ something
 
 {{% details title="Steeplechase" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Super Air Race" closed="true" %}}
@@ -485,6 +509,7 @@ something
 
 {{% details title="T-Rex track" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Teacups" closed="true" %}}
@@ -513,6 +538,7 @@ something
 
 {{% details title="Topper track" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Tornado" closed="true" %}}
@@ -557,6 +583,7 @@ something
 
 {{% details title="Twin" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Twist 'n' Splash" closed="true" %}}
@@ -589,8 +616,10 @@ something
 
 {{% details title="Wild Moose" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Wild mouse" closed="true" %}}
 something
+{{< badge "Coaster" >}}
 {{% /details %}}
