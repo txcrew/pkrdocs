@@ -2,12 +2,16 @@
 title: "Cuisine"
 ---
 
+<br />
+{{< badge "Dining" >}}
+
 Specific styles or methods of cooking associated with a particular culture, region, or tradition
 
 ## A
 
 {{% details title="African cuisine" closed="true"%}}
 something
+
 {{% /details %}}
 
 {{% details title="Asian cuisine" closed="true"%}}
@@ -92,6 +96,7 @@ Customers are served at their tables by waitstaff.
 
 {{% details title="Sandwiches" closed="true" %}}
 Customers are served at their tables by waitstaff.
+{{< badge content="Dining" type="info" >}}
 {{% /details %}}
 
 {{% details title="Seafood" closed="true" %}}

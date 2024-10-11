@@ -2,6 +2,9 @@
 title: "Merchandise"
 ---
 
+<br />
+{{< badge "Shop" >}}
+
 The category or class of goods available for sale, distinguishing items based on their characteristics, uses or markets.
 
 {{% details title="Apparel" closed="true" %}}
@@ -33,10 +36,6 @@ something
 {{% /details %}}
 
 {{% details title="Jewelry" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Hair wrap" closed="true" %}}
 something
 {{% /details %}}
 

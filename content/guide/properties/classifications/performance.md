@@ -2,6 +2,9 @@
 title: "Performance"
 ---
 
+<br />
+{{< badge content="Entertainment" type="info" >}}
+
 Experiences often involving live actors, technical production, and storytelling elements.
 
 ## A

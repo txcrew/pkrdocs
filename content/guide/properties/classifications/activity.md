@@ -3,6 +3,9 @@ title: "Activity type"
 linkTitle: "Activity"
 ---
 
+<br />
+{{< badge "Concept: Activity" >}}
+
 Specific recreational or leisure activities based on their nature and the experiences they offer
 
 {{% details title="Face painting" closed="true" %}}
