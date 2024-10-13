@@ -34,7 +34,7 @@ something
 {{% /details %}}
 
 {{% details title="Busbar" closed="true" %}}
-something
+Conductive framework used to distribute electrical power to multiple circuits
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -74,7 +74,7 @@ something
 ## K
 
 {{% details title="KUKA arm" closed="true" %}}
-something
+Robotic arm manufactured by KUKA robotics commonly used in rides to create dynamic, controlled movements and simulate thrilling experiences
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -88,7 +88,7 @@ something
 ## O
 
 {{% details title="Omnimover" closed="true" %}}
-something
+A type of continuously moving transportation system
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -116,6 +116,11 @@ something
 {{% details title="Simulator" closed="true" %}}
 something
 {{< badge "Concept: Ride" >}}
+{{% /details %}}
+
+{{% details title="Single-rail" closed="true" %}}
+something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Steel track" closed="true" %}}

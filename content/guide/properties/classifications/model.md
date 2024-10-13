@@ -344,6 +344,11 @@ something
 
 ## P
 
+{{% details title="P'Sghetti Bowl" closed="true" %}}
+something
+{{< badge "Coaster" >}}
+{{% /details %}}
+
 {{% details title="Parachute Drop" closed="true" %}}
 something
 {{% /details %}}
@@ -441,11 +446,6 @@ something
 {{< badge "Coaster" >}}
 {{% /details %}}
 
-{{% details title="Single-rail" closed="true" %}}
-something
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Skater Coaster" closed="true" %}}
 something
 {{% /details %}}
@@ -461,6 +461,11 @@ something
 
 {{% details title="Skycoaster" closed="true" %}}
 something
+{{% /details %}}
+
+{{% details title="Skywarp Horizon" closed="true" %}}
+something
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Space Diver" closed="true" %}}
