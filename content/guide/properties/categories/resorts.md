@@ -1,6 +1,16 @@
 ---
 title: "Resorts"
-draft: true
+toc: false
 ---
 
-a comprehensive leisure destination that combines accommodations, dining, and recreational activities with entertainment attractions, typically including rides and attractions themed around specific narratives or experiences. These resorts offer guests a holistic vacation experience, allowing easy access to the theme park while providing amenities and services designed for relaxation and enjoyment, creating a seamless blend of adventure and comfort for visitors of all ages.
+# {{< icon "resort" >}}
+
+A complete leisure destination featuring accommodations, dining and recreation typically connected to parks with rides and attractions.
+
+## Example
+* Walt Disney World Resort in Orlando, FL.
+* Universal Orlando Resort in Orlando, FL.
+* Dollywood Resort in Piegon Forge, TN.
+
+## Tracking
+Resorts use inferred tracking based your activity within.

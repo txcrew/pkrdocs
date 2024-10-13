@@ -1,6 +1,8 @@
 ---
 title: "Dining"
-draft: true
+toc: false
 ---
 
-designated food establishments or vendors within a park setting, which may include picnic areas, cafes, food stalls, or restaurants that offer a variety of culinary options for visitors to savor in a natural, recreational environment.
+# {{< icon "dining" >}}
+
+Food vendors in parks including restaurants, cafés, booths and carts that typically offer diverse culinary options.
