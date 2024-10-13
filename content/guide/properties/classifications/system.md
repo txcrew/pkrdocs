@@ -45,6 +45,23 @@ something
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
+## D
+
+{{% details title="Dark ride" closed="true" %}}
+Indoor ride through themed environments utilizing elaborate sets, animatronics and special effects, typlically in low-light settings.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
+{{% details title="Dark coaster" closed="true" %}}
+Themed roller coasters featuring show scenes and dark ride segments that transition into intense coaster elements like steep drops and sharp turns.
+
+Example
+* Flight of Fear at Kings Island 
+* Blazing Fury at Dollywood
+* Revenge of the Mummy at Universal Studios Orlando
+{{< badge "Coaster" >}}
+{{% /details %}}
+
 ## E
 
 {{% details title="EMV" closed="true" %}}
@@ -76,6 +93,13 @@ something
 {{% details title="KUKA arm" closed="true" %}}
 Robotic arm manufactured by KUKA robotics commonly used in rides to create dynamic, controlled movements and simulate thrilling experiences
 {{< badge "Concept: Ride" >}}
+{{% /details %}}
+
+## L
+
+{{% details title="Launch" closed="true" %}}
+{{< badge "Attraction" >}}
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## M
@@ -116,11 +140,6 @@ something
 {{% details title="Simulator" closed="true" %}}
 something
 {{< badge "Concept: Ride" >}}
-{{% /details %}}
-
-{{% details title="Single-rail" closed="true" %}}
-something
-{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Steel track" closed="true" %}}

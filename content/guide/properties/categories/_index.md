@@ -1,7 +1,7 @@
 ---
 title: "Categories"
 date: 2024-10-02T21:41:49-05:00
-weight: 10
+weight: 15
 ---
 
 Groups of similar properties
