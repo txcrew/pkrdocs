@@ -4,7 +4,7 @@ linkTitle: "Park"
 ---
 
 <br />
-{{< badge content="Park" type="info" >}}
+{{< badge "Park" >}}
 
 Specific recreational or leisure activities based on their nature and the experiences they offer
 
