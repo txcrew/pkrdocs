@@ -101,16 +101,6 @@ This is the content of the details.
 
 ## D
 
-{{% details title="Dark ride" closed="true" %}}
-Indoor ride through themed environments utilizing elaborate sets, animatronics and special effects, typlically in low-light settings.
-{{< badge "Attraction" >}}
-{{% /details %}}
-
-{{% details title="Dark coaster" closed="true" %}}
-Themed roller coasters featuring show scenes and dark ride segments that transition into intense coaster elements like steep drops and sharp turns.
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Deli" closed="true" %}}
 This is the content of the details.
 {{< badge "Dining" >}}

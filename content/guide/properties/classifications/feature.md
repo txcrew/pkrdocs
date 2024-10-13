@@ -17,14 +17,14 @@ something
 {{% /details %}}
 
 {{% details title="4-D" closed="true" %}}
-something
+Immersive experience that combines 3-D visuals with physical effects such as motion, wind, water and scent
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## A
 
 {{% details title="Animatronics" closed="true" %}}
-something
+Robotic devices used to emulate living creatures
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{< badge "Dining" >}}
@@ -58,11 +58,6 @@ something
 {{% /details %}}
 
 ## L
-
-{{% details title="Launch" closed="true" %}}
-{{< badge "Attraction" >}}
-{{< badge "Coaster" >}}
-{{% /details %}}
 
 {{% details title="Live actors" closed="true" %}}
 {{< badge "Attraction" >}}
