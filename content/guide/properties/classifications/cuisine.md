@@ -53,7 +53,7 @@ something
 ## L
 
 {{% details title="Latin American cuisine" closed="true" %}}
-Speedy preparation and service.
+diverse range of culinary traditions and dishes from countries in Latin America, characterized by the use of indigenous ingredients, vibrant flavors, and influences from Spanish, Portuguese, African, and Asian cultures.
 {{% /details %}}
 
 {{% details title="Light fare" closed="true" %}}

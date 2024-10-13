@@ -1,14 +1,14 @@
 ---
 title: "Attractions"
+toc: false
 ---
 
-{{< icon "attraction" >}} Attractions are trackable experiences based on historical, cultural, natural, or entertainment value.
+# {{< icon "attraction" >}}
 
-## Examples
+Place or activity that draws people in for its distinctive experience or entertainment appeal. Attractions can be natural or manufactured experiences that are often rooted in historical or cultural significance.
 
-An abstract example of a `venue` is an an amphitheatre. The show that takes place inside the amphitheatre is a property that you track.
+## Example
 
-
-
-## Tracking
-Venues use inferred tracking based your activity within.
+* Spaceship Earth at EPCOT
+* London Eye in London, England
+* Hometown Fun Machine at Six Flags Great America

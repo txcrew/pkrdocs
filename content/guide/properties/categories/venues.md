@@ -1,12 +1,13 @@
 ---
 title: "Venues"
+toc: false
 ---
 
-{{< icon "venue" >}} Venues are physical spaces that house one or more properties.
+# {{< icon "venue" >}}
 
-They're often enclosed or semi-enclosed, but can also be completly open.
+Physical spaces that house one or more properties. They're often enclosed or semi-enclosed, but can also be completly open.
 
-## Examples
+## Example
 
 An abstract example of a `venue` is an an amphitheatre. The show that takes place inside the amphitheatre is a property that you track.
 
