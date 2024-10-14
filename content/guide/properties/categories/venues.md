@@ -11,16 +11,16 @@ Physical spaces that house one or more properties. They're often enclosed or sem
 
 An abstract example of a `venue` is an an amphitheatre. The show that takes place inside the amphitheatre is a property that you track.
 
-A park specific example: The `venue` for *Pirates of the Carribbean* is *Castillo Del Morro*.
+A park specific example: The `venue` for *Guardians of the Galaxy: Cosmic Rewind* is *Galaxarium*.
 
 {{< filetree/container >}}
   {{< filetree/folder name="Walt Disney World Resort" >}}
-    {{< filetree/folder name="Magic Kingdom" >}}
-    	{{< filetree/folder name="Adventureland" >}}
-    		{{< filetree/folder name="Castillo Del Morro" >}}
-    			{{< filetree/file name="Pirates of the Caribbean" >}}
+    {{< filetree/folder name="EPCOT" >}}
+    	{{< filetree/folder name="World Discovery" >}}
+    		{{< filetree/folder name="Galaxarium" >}}
+    			{{< filetree/file name="Guardians of the Galaxy: Cosmic Rewind" >}}
     		{{< /filetree/folder >}}
-    		{{< filetree/file name="The Magic Carpets of Aladdin" >}}
+    		{{< filetree/file name="Cool Wash" >}}
     	{{< /filetree/folder >}}
      {{< /filetree/folder >}}
   {{< /filetree/folder >}}
