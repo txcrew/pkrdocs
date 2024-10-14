@@ -5,4 +5,4 @@ cascade:
   type: docs
 ---
 
-This is a demo of the theme's documentation layout.
+Eventual index of things.

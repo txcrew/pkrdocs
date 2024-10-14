@@ -1,6 +1,8 @@
 ---
 title: "Classifications"
 weight: 20
+prev: /guide/properties/location
+next: activity
 ---
 
 {{< cards  >}}

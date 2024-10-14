@@ -3,40 +3,29 @@ title: "Properties"
 weight: 10
 ---
 
-A property refers to a point of interest on a map, encompassing a wide range of entities such as parks, attractions, characters, and snacks. They can be understood in the context of both physical locations and intellectual properties.
+A property refers to a point of interest on a map, encompassing a wide range of entities such as parks, attractions, characters, and snacks. 
+
+Properties can be understood in the context of both physical locations and intellectual properties.
 
 ## Essentials
 In addition to a `name`, at minimum all properties have:
 
 {{< cards cols="1" >}}
-  {{< card link="categories"  title="Category" subtitle="Type of property" >}}
-{{< card link="status"  title="Operational status" subtitle="Current physical state" >}}
-
+{{< card icon="folder" link="categories"  title="Category" subtitle="Groupings of similar properties">}}
+{{< card icon="status" link="status"  title="Operational status" subtitle="Physical state of the property">}}
 {{< /cards >}}
-
 
 ## More details
 
-Depending on category, a property can hold an array of optional information.
-
-### Location
-TBD
-
-
-
-### Profile
-
-Properties are organized into categories and classifications for clear context.
+Depending on the selected `category`, a property can hold an array of optional information.
 
 {{< cards cols="1" >}}
-{{< card link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
-{{< card link="specs"  title="Specs" subtitle="Subject matter">}}
-{{< card link="presentation"  title="Presentation" subtitle="Subject matter">}}
-{{< /cards >}}
+{{< card icon="map" link="location"  title="Location" >}}
 
-### History
+{{< card icon="tag" link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
+{{< card icon="ruler" link="specs"  title="Specs" subtitle="Subject matter">}}
+{{< card icon="brush" link="presentation"  title="Presentation" subtitle="Story and underlying themes">}}
 
-{{< cards cols="1" >}}
-{{< card link="timeline"  title="Timeline" subtitle="Significant milestones">}}
-{{< card link="team"  title="Creative team" subtitle="People who helped create the property">}}
+{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="Breakdown by specific criteria">}}
+{{< card icon="creative" link="team"  title="Creative team" subtitle="Key staff on the property">}}
 {{< /cards >}}
