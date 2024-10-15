@@ -9,19 +9,19 @@ Specifications for a property
 
 | Spec        | Summary                                                |
 | ------------- | ------------------------------------------------------ |
-| `Elevation`  | Date operational status became `active`             |
-| `Drop`     | Date operational status became  `defunct` |
-| `Descent angle`  | Any official property `name` alterations            |
-| `Length`   | Change in color palette, theme elements, story, or similar            |
-| `Top speed`   | Record of a major event               |
-| `G-force`   | When a sponsorship starts, ends or changes              |
-| `Inversions` | Property moves to a new location.     |
+| `Elevation`  | Vertical distance from the base to the peak of the structure           |
+| `Drop`     | Longest sudden descent or vertical plunge |
+| `Descent angle`  | Steepness of a track or ride segment            |
+| `Length`   | Overall length of a track courrse            |
+| `Top speed`   | Maximum speed an experience reaches during operation             |
+| `G-force`   | Maximum sustained g-forces expereinced              |
+| `Inversions` | Total number of inversions    |
 | `Footprint` | Area of the base of a structure as it contacts the ground    |
-| `Throughput` | The property area     |
-| `Capacity` | The property area     |
-| `Rooms` | The property area     |
-| `Decks` | Number of decks on a cruise ship    |
-| `Build cost` | The property area     |
+| `Throughput` | Number of passengers that can be accommodated per unit of time     |
+| `Capacity` | Number of passengers that can be accommodated at one time     |
+| `Rooms` | Space providing accommodations for guests    |
+| `Decks` | Number of decks on a Cruise ship    |
+| `Build cost` | The estimated cost of a build project    |
 
 
 ## Time

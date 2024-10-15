@@ -2,9 +2,6 @@
 title: "Sessions"
 ---
 
-
-## Overview
-
 Sessions are cumulative records of visits over a period of time. 
 
 They're like an album; you choose what goes in. For example you can create sessions for your:
@@ -13,12 +10,12 @@ They're like an album; you choose what goes in. For example you can create sessi
 * Activity over a series of days
 * Historical activity over an unknown timeframe
 
-## How they work
+## Overview
 
 Every visit you log is stored in a session, with all visits automatically sorted into individual [trackers]({{< ref "trackers" >}}) for each property. Sessions are private by default but can be selectively [shared]({{< ref "share" >}}) publicly.
 
 
-## Start a session
+## Starting a session
 
 Sessions are created automatically 🙌. You may also choose to manually create a session as needed.
 

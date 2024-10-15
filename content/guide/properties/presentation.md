@@ -49,3 +49,5 @@ The fictional owner or founder of the property
 
 ## Bio
 Bio is a section of presentation that's used for `Characters`. Details are typically added for comedic value.
+
+## Color palette

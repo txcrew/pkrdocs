@@ -65,26 +65,35 @@ Example
 ## E
 
 {{% details title="EMV" closed="true" %}}
-something
+An Enhanced Motion Vehicle (EMV) is a ride system that blends motion simulation with real movement, enabling vehicles to travel on tracks while tilting, swaying, or rotating for a more immersive experience.
+
+Example:
+* Indiana Jones Adventure at Disneyland
+* Dinosaur at Animal Kingdom
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## F
 
 {{% details title="Flat ride" closed="true" %}}
-something
+A ride operating on a mostly horizontal plane featuring various movements such as spinning, tilting or swinging without significant elevation changes.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Flying theater" closed="true" %}}
-something
+Simulates the sensation of flight by combining a moving platform with large, curved screens displaying scenic visuals enhanced by audio and special effects.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## G
 
 {{% details title="Giant slot car" closed="true" %}}
-something
+Slot car racing in oversized vehicles on a thrilling racetrack with speed, sharp turns and show scenes.
+
+Example:
+
+* Test Track at EPCOT
+* Radiator Springs Racers at California Adventure
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
