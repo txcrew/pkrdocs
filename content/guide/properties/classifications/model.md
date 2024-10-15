@@ -33,11 +33,12 @@ something
 {{% /details %}}
 
 {{% details title="Bayern Kurve" closed="true" %}}
-something
+Flat ride featuring a circular track with a series of swirling, banked curves
+{{< badge "System: Flat ride" >}}
 {{% /details %}}
 
 {{% details title="Blitz" closed="true" %}}
-something
+Coaster model featuring high-speed launches, multiple inversions and sudden turns, typically with a compact layout
 {{< badge "Coaster" >}}
 {{% /details %}}
 
@@ -46,7 +47,7 @@ something
 {{% /details %}}
 
 {{% details title="Boomerang" closed="true" %}}
-something
+Coaster model which sends riders forward up an incline, then inverted before descending backward through the same track layout creating a "boomerang" effect.
 {{< badge "Coaster" >}}
 {{% /details %}}
 

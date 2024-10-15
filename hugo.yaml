@@ -28,11 +28,6 @@ menu:
       weight: 4
       params:
         type: search
-    - name: My Park Ranger
-      weight: 10
-      url: "https://my.parkranger.app"
-      params:
-        icon: circle-badge
 
 params:
   navbar:

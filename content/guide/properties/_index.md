@@ -17,15 +17,15 @@ In addition to a `name`, at minimum all properties have:
 
 ## More details
 
-Depending on the selected `category`, a property can hold an array of optional information.
+Depending on a property's `category`, it can hold an array of optional information.
 
 {{< cards cols="1" >}}
-{{< card icon="map" link="location"  title="Location" >}}
+{{< card icon="map" link="location"  title="Location" subtitle="Physical location and coordinates" >}}
 
 {{< card icon="tag" link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
-{{< card icon="ruler" link="specs"  title="Specs" subtitle="Subject matter">}}
+{{< card icon="ruler" link="specs"  title="Specs" subtitle="Physical measurements and specifications">}}
 {{< card icon="brush" link="presentation"  title="Presentation" subtitle="Story and underlying themes">}}
 
-{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="Breakdown by specific criteria">}}
+{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="sequence of historical events">}}
 {{< card icon="creative" link="team"  title="Creative team" subtitle="Key staff on the property">}}
 {{< /cards >}}

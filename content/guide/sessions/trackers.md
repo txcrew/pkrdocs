@@ -11,7 +11,7 @@ Most tracker content is auto-populated to reduce your logging effort.
 
 ### Property details
 
-Trackers automatically summarize and display the property's location, classifications, and specifications for clear context.
+Trackers automatically summarize and display the property's location, classifications and select specifications for clear context.
 
 ### Visits
 

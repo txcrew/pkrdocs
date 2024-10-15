@@ -27,3 +27,11 @@ Something
 ### Profile
 * Classification
 * Specs
+
+
+## Example
+Properties go through a variety of refurbishments and changes throughout the course of it's service life. We have one guiding principal we follow:
+
+> Has the experience changed?
+
+This leans more into 
