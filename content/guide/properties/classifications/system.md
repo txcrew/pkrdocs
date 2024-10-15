@@ -11,25 +11,35 @@ The network of components and technologies that work together to operate, contro
 ## A
 
 {{% details title="Alpine Coaster" closed="true" %}}
-something
+A ride system combines elements of a roller coaster and a luge, featuring a track on which riders, seated in individual sleds are pulled uphill and then descend through a mountainous landscape at varying speeds
+
+Example
+* Rocky Top Mountain Coaster in Tennenssee
+* The Coaster at Goats on the Roof in Tennessee
+* Alpen Coaster in Oberammergau, Germany
+
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Alpine Slide" closed="true" %}}
-something
+A recreational slide where riders descend a narrow, winding track on sled-like vehicles, typically using gravity, often found on mountain resorts
 
+Example
+* Park City Alpine Slide in Utah
+* The Alpine Slide at Snow Valley in California
+* The Alpine Slide at the Great Escape in New York
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## B
 
 {{% details title="Balloon ride" closed="true" %}}
-something
+Passengers ascend in a tethered balloon for a gentle aerial experience.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Boat ride" closed="true" %}}
-something
+Boat that travels through scenic or adventurous environments, often featuring animatronics, storytelling and water effects
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -140,7 +150,10 @@ something
 ## R
 
 {{% details title="Rotating theater" closed="true" %}}
-something
+A circular seating area that rotates around a central axis, allowing audiences to view different scenes or displays without leaving their seats.
+
+Example
+* Carousel of Progress at Magic Kingdom
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
