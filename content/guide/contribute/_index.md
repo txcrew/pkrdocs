@@ -17,6 +17,11 @@ Use your Google or Apple ID
 
 ### Set operation status
 
+{{< cards cols="1" >}}
+{{< card icon="folder" link="categories"  title="Category" subtitle="Groupings of similar properties">}}
+{{< card icon="status" link="status"  title="Operational status" subtitle="Physical state of the property">}}
+{{< /cards >}}
+
 {{% /steps %}}
 
 ## Additional info
