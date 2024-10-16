@@ -11,7 +11,7 @@ The overarching idea that defines and shapes an experience.
 
 ## A
 {{% details title="Activity" closed="true" %}}
-This is the content of the details.
+An organized experience designed for guest participation
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -21,100 +21,100 @@ Facility or space that provides various recreational, social, and educational ac
 {{% /details %}}
 
 {{% details title="Animal exhibit" closed="true" %}}
-This is the content of the details.
+View, learn and sometimes interact with various animals; often aimed at education and conservation.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Aquarium" closed="true" %}}
-This is the content of the details.
+A showcase of aquatic life typically in immersive environments for education and entertainment.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Arcade" closed="true" %}}
-This is the content of the details.
+A collection of video games and/or skill-based games.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## B
 
 {{% details title="Bakery" closed="true" %}}
-This is the content of the details.
+Outlet that specializes in freshly baked goods such as breads, pastries and desserts.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Bar" closed="true" %}}
-This is the content of the details.
+Establishment where alcoholic beverages are served, often featuring themed décor and menu items.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Beverage station" closed="true" %}}
-This is the content of the details.
+Designated area where guests can access self-serve fountains or refill stations for convenience and hydration.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Bobsled" closed="true" %}}
-This is the content of the details.
+Type of roller coaster that mimics the experience of a bobsled run, featuring a course that twists and turns with banked curves.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Bowling alley" closed="true" %}}
-This is the content of the details.
+A recreational venue where guests can enjoy bowling games.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Buffet" closed="true" %}}
-This is the content of the details.
+A self-service dining option where guests pay a fixed price to enjoy an all-you-can-eat selection of various foods.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 ## C
 
 {{% details title="Café" closed="true" %}}
-This is the content of the details.
+Casual spot that offers a variety of food and beverages
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Cafeteria" closed="true" %}}
-This is the content of the details.
+Dining area where guests can choose from a variety of food options.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Casual dining" closed="true" %}}
-This is the content of the details.
+Typically relaxed, sit-down restaurants offering a menu in a comfortable atmosphere
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Character dining" closed="true" %}}
-This is the content of the details.
+Guests can enjoy food while interacting with costumed characters
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Character encounter" closed="true" %}}
-This is the content of the details.
+Scheduled interaction between guests and popular characters where visitors can meet, take photos, and receive autographs.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Community hall" closed="true" %}}
-This is the content of the details.
+Dedicated space used for gatherings, events, and activities that promote social interaction among visitors.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## D
 
 {{% details title="Deli" closed="true" %}}
-This is the content of the details.
+Establishment that serves a variety of freshly made sandwiches, salads and meats.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 ## E
 
 {{% details title="Escape room" closed="true" %}}
-This is the content of the details.
+Interactive experience where participants solve puzzles and complete challenges within a themed room to "escape" before time runs out.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Exhibit" closed="true" %}}
-This is the content of the details.
+A display designed to showcase a specific theme or story often involving interactive elements, educational content.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -122,12 +122,12 @@ This is the content of the details.
 ## F
 
 {{% details title="Family style" closed="true" %}}
-This is the content of the details.
+Meal service where food is served in large portions on shared platters or bowls, allowing guests to enjoy a communal dining experience.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Fast casual" closed="true" %}}
-This is the content of the details.
+Style of meal service where guests order food at a counter and enjoy a more relaxed atmosphere, often with higher-quality ingredients and menu options than traditional fast food.
 {{< badge "Dining" >}}
 {{% /details %}}
 
