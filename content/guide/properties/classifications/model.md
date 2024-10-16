@@ -293,10 +293,6 @@ something
 
 ## M
 
-{{% details title="Mat slide" closed="true" %}}
-something
-{{% /details %}}
-
 {{% details title="Matterhorn" closed="true" %}}
 something
 {{% /details %}}
@@ -380,10 +376,6 @@ something
 {{% details title="Racing" closed="true" %}}
 something
 {{< badge "Coaster" >}}
-{{% /details %}}
-
-{{% details title="Raft slide" closed="true" %}}
-something
 {{% /details %}}
 
 {{% details title="Railway" closed="true" %}}
@@ -576,10 +568,6 @@ something
 {{% /details %}}
 
 {{% details title="Trolley" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Tube slide" closed="true" %}}
 something
 {{% /details %}}
 
