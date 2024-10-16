@@ -11,25 +11,35 @@ The network of components and technologies that work together to operate, contro
 ## A
 
 {{% details title="Alpine Coaster" closed="true" %}}
-something
+A ride system combines elements of a roller coaster and a luge, featuring a track on which riders, seated in individual sleds are pulled uphill and then descend through a mountainous landscape at varying speeds
+
+Example
+* Rocky Top Mountain Coaster in Tennenssee
+* The Coaster at Goats on the Roof in Tennessee
+* Alpen Coaster in Oberammergau, Germany
+
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Alpine Slide" closed="true" %}}
-something
+A recreational slide where riders descend a narrow, winding track on sled-like vehicles, typically using gravity, often found on mountain resorts
 
+Example
+* Park City Alpine Slide in Utah
+* The Alpine Slide at Snow Valley in California
+* The Alpine Slide at the Great Escape in New York
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## B
 
 {{% details title="Balloon ride" closed="true" %}}
-something
+Passengers ascend in a tethered balloon for a gentle aerial experience.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Boat ride" closed="true" %}}
-something
+Boat that travels through scenic or adventurous environments, often featuring animatronics, storytelling and water effects
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -41,7 +51,7 @@ Conductive framework used to distribute electrical power to multiple circuits
 ## C
 
 {{% details title="Car ride" closed="true" %}}
-something
+Themed automotive vehicles that traverse a designated track or path, often featuring scenic displays
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -49,7 +59,7 @@ something
 
 {{% details title="Dark ride" closed="true" %}}
 Indoor ride through themed environments utilizing elaborate sets, animatronics and special effects, typlically in low-light settings.
-{{< badge "Attraction" >}}
+{{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Dark coaster" closed="true" %}}
@@ -107,14 +117,20 @@ Robotic arm manufactured by KUKA robotics commonly used in rides to create dynam
 ## L
 
 {{% details title="Launch" closed="true" %}}
+A rapid acceleration system
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 ## M
 
+{{% details title="Mat slide" closed="true" %}}
+A water slide designed for use with a flat, padded mat, typically accommodating one or two riders at a time for a fast and smooth descent.
+{{< badge "Concept: Water slide" >}}
+{{% /details %}}
+
 {{% details title="Moving walkway" closed="true" %}}
-something
+Continuously moving conveyor system that transports passengers while standing or walking
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -128,63 +144,75 @@ A type of continuously moving transportation system
 ## P
 
 {{% details title="Pendulum ride" closed="true" %}}
-something
+Swings riders back and forth on a large arm, resembling a pendulum.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Powered" closed="true" %}}
-something
+Combines elements of traditional roller coasters with an electric propulsion system, allowing vehicles to move on tracks without relying solely on gravity.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 ## R
 
+{{% details title="Raft slide" closed="true" %}}
+Type of water slide designed for 3 or more passengers, typically in an inflatable raft, allowing groups to ride together down a winding or steep chute.
+
+Example
+* Teamboat Springs at Blizzard Beach
+{{< badge "Concept: Water slide" >}}
+{{% /details %}}
+
 {{% details title="Rotating theater" closed="true" %}}
-something
+A circular seating area that rotates around a central axis, allowing audiences to view different scenes or displays without leaving their seats.
+
+Example
+* Carousel of Progress at Magic Kingdom
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## S
 
 {{% details title="Simulator" closed="true" %}}
-something
+An immersive experience that mimics real-life using motion and visual effects.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Steel track" closed="true" %}}
-something
+The metal framework that guides roller coasters along a designed path.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
 ## T
 
 {{% details title="Tower ride" closed="true" %}}
-something
+A vertically oriented ride that elevates and lowers; speeds vary based on [scope]({{< ref "scope" >}} "Scope").
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Trackless" closed="true" %}}
-something
+Ride system that uses autonomous vehicle technology to navigate freely without fixed tracks
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Tram" closed="true" %}}
-something
+A train of motorized vehicles designed to transport guests along designated routes.
 {{< badge "Scope: Tour" >}}
+{{% /details %}}
+
+{{% details title="Tube slide" closed="true" %}}
+Type of water slide designed for one or two passengers in an enclosed or open tube, typically features sharp turns and sudden drops.
+{{< badge "Concept: Water slide" >}}
 {{% /details %}}
 
 ## W
 
 {{% details title="Water ride" closed="true" %}}
-something
+Water-based vehicles or mechanisms, often incorporating splashes, waves or other water features often resulting in wet socks; often located in a dry-park. 
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
-{{% details title="Water slide" closed="true" %}}
-something
-{{% /details %}}
-
 {{% details title="Wood track" closed="true" %}}
-something
+Roller coaster that features a track made primarily of wooden materials, known for providing a classic, often rougher ride experience compared to steel track coasters.
 {{< badge "Coaster" >}}
 {{% /details %}}

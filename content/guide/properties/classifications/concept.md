@@ -322,6 +322,11 @@ This is the content of the details.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
+{{% details title="Water slide" closed="true" %}}
+Passengers slide down a smooth, sloped surface into a pool of water; often featuring twists and various elements.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
 {{% details title="Wave pool" closed="true" %}}
 This is the content of the details.
 {{< badge "Attraction" >}}
