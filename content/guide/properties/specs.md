@@ -23,7 +23,31 @@ Specifications for a property
 | `Decks` | Number of decks on a Cruise ship    |
 | `Build cost` | The estimated cost of a build project    |
 
-
 ## Time
 
+| Spec        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Duration`     | Total length of experience							 |
+| `Sustained air time`  | longest moment of sustained air time           |
+| `Total air time`   | Aggregate sum of all air time moments     	     |
+| `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
+
 ## Vehicle
+
+### Restraint system
+
+| Spec        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Restraint system`     | Total length of experience							 |
+| `Onboard features`  | longest moment of sustained air time           |
+| `Height restriction`   | Aggregate sum of all air time moments     	     |
+| `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
+
+### Onboard features
+
+| Spec        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Restraint system`     | Total length of experience							 |
+| `Onboard features`  | longest moment of sustained air time           |
+| `Height restriction`   | Aggregate sum of all air time moments     	     |
+| `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
