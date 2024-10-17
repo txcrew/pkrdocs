@@ -132,7 +132,7 @@ Style of meal service where guests order food at a counter and enjoy a more rela
 {{% /details %}}
 
 {{% details title="Fine dining" closed="true" %}}
-This is the content of the details.
+Signature restaurant that offers a refined culinary experience, featuring gourmet dishes, high-quality ingredients, attentive service and an elegant atmosphere.
 {{< badge "Dining" >}}
 {{% /details %}}
 
@@ -142,36 +142,36 @@ A fire pit is an outdoor feature designed for social gatherings, where people ca
 {{% /details %}}
 
 {{% details title="Food hall" closed="true" %}}
-This is the content of the details.
+Designated area featuring a variety of food vendors offering diverse dining options in a communal setting.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Food truck" closed="true" %}}
-This is the content of the details.
+Mobile vendor that offers a variety of quick-service meals and snacks
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Fun house" closed="true" %}}
-This is the content of the details.
+An enclosed or semi-enclosed experience designed with whimsical features and interactive elements, such as mirrors, mazes, and other playful obstacles.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## G
 
 {{% details title="Go-kart track" closed="true" %}}
-This is the content of the details.
+Racing circuit where drivers can pilot small, motorized karts for recreational competition and entertainment.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## H
 
 {{% details title="Haunted house" closed="true" %}}
-This is the content of the details.
+An experience designed to evoke fear and excitement, typically features unsettling decor, immersive storytelling, and live actors or animatronics that create a horror-themed environment.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="House of worship" closed="true" %}}
-This is the content of the details.
+Dedicated space or facility designed for religious practices, reflection or spiritual gatherings.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -192,7 +192,7 @@ This is the content of the details.
 ## M
 
 {{% details title="Midway games" closed="true" %}}
-This is the content of the details.
+Skill-based arcade-style games where players can win prizes by completing challenges. They are often set up along a central walkway or "midway" creating a festive atmosphere.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -216,7 +216,7 @@ This is the content of the details.
 ## O
 
 {{% details title="Overlay" closed="true" %}}
-This is the content of the details.
+A temporary or permanent change made to an existing attraction or area, enhancing its theme, atmosphere or experience through additional decor, special effects or themed programming.
 {{< badge "Attraction" >}}
 {{% /details %}}
 

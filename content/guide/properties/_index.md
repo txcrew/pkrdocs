@@ -3,7 +3,7 @@ title: "Properties"
 weight: 10
 ---
 
-A property refers to a point of interest. They can be understood in the context of both physical locations and intellectual properties.
+A property is a point of interest that can refer to a physical location or an intellectual property.
 
 {{< cards cols="2" >}}
 
@@ -15,7 +15,7 @@ A property refers to a point of interest. They can be understood in the context 
 
 {{< card icon="tag" link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
 
-{{< card icon="ruler" link="specs"  title="Specs" subtitle="Physical measurements and specifications">}}
+{{< card icon="ruler" link="specs"  title="Specs" subtitle="Measurements and facts">}}
 
 {{< card icon="brush" link="presentation"  title="Presentation" subtitle="Themes and lore">}}
 
