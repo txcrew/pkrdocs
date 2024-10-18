@@ -48,12 +48,12 @@ Specifications for a property
 
 | Type        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
-| `Audio`     | On vehicle speaker system						 |
-| `Screen`  | On vehicle display screen         |
-| `Lighting`   | On vehicle exterior or interior lights	     |
-| `Effects` |    HUNGRY! |
+| `Audio`     | Onboard speaker system						 |
+| `Screen`  | Onboard display screen         |
+| `Lighting`   | Onboard exterior or interior lights	     |
+| `Effects` |    Sensory enhancing effects such as mist and scents |
 | `Ornaments` | Exterior decorative elements, badges or accessories   |
-| `Animatronics` | On vehicle animatronics |
+| `Animatronics` | Onboard vehicle animatronics |
 
 ### Configuration
 
