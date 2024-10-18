@@ -298,6 +298,11 @@ This is the content of the details.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
+{{% details title="Tour" closed="true" %}}
+Guided journey or experience designed to showcase a variety of sights or activities.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
 {{% details title="Transport" closed="true" %}}
 This is the content of the details.
 {{< badge "Attraction" >}}
