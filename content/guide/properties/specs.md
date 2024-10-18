@@ -33,3 +33,42 @@ Specifications for a property
 | `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
 
 ## Vehicle
+
+### Restraint system
+
+| Type        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `back`     | Over the passenger back			 |
+| `lap`  | Over passenger lap      |
+| `leg`   | Over passenger legs/shins    	     |
+| `over the shoulder` | Over the shoulders    |
+| `seat belt` | Seat belt buckle   |
+
+### Onboard features
+
+| Type        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Audio`     | On vehicle speaker system						 |
+| `Screen`  | On vehicle display screen         |
+| `Lighting`   | On vehicle exterior or interior lights	     |
+| `Effects` |    HUNGRY! |
+| `Ornaments` | Exterior decorative elements, badges or accessories   |
+| `Animatronics` | On vehicle animatronics |
+
+### Configuration
+
+| Config        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Train`     | Vehicles are linked together						 |
+| `Individual vehicles`  | Vehicles operate independently           |
+
+### Arrangement
+
+| Spec        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Total trains`   | Total number of trains						 |
+| `Total vehicles`  | Total number of vehicles          |
+| `Vehicles per train`   | Number of vehicles per train     	 |
+| `Rows per vehicle` | Number of rows per vehicle    |
+| `Seats per row` | Number of seats in a horizontal row    |
+| `Passengers per train` | Total capacity of passengers per train |
