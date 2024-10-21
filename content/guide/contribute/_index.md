@@ -11,14 +11,17 @@ Contributing properties can do stuff
 
 ### Select category
 
+{{< cards cols="1" >}}
+{{< card icon="folder" link="/guide/properties/categories"  title="Category" subtitle="Groupings of similar properties">}}
+{{< /cards >}}
+
 ### Set the name
 
-Use your Google or Apple ID
+The proper name of the property; typically how it's represented on a map. This name doesn't have to be unique.
 
 ### Set operation status
 
 {{< cards cols="1" >}}
-{{< card icon="folder" link="categories"  title="Category" subtitle="Groupings of similar properties">}}
 {{< card icon="status" link="status"  title="Operational status" subtitle="Physical state of the property">}}
 {{< /cards >}}
 
@@ -28,10 +31,18 @@ Use your Google or Apple ID
 
 ### Location
 Something
+{{< cards cols="1" >}}
+{{< card icon="map" link="location"  title="Location" subtitle="Map and coordinates" >}}
+{{< /cards >}}
+
+
 
 ### Profile
-* Classification
-* Specs
+{{< cards cols="2" >}}
+{{< card icon="tag" link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
+{{< card icon="ruler" link="specs"  title="Specs" subtitle="Physical measurements">}}
+{{< card icon="brush" link="presentation"  title="Presentation" subtitle="Themes and lore">}}
+{{< /cards >}}
 
 
 ## Example

@@ -10,4 +10,4 @@ Small, easy-to-consume foods that reflect the park's unique culinary offerings, 
 ## Example
 * Dole Whip at Disneyland
 * Cinnamon Bread at Dollywood
-* Butterbeer at Universal Studios Orlando
+* Butterbeer at Universal Studios Florida
