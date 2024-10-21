@@ -25,6 +25,8 @@ next: activity
 
   {{< card link="performance" title="Performance" subtitle="Shows and things" >}}
 
+  {{< card link="position" title="Riding position" subtitle="Relative to the track" >}}
+
   {{< card link="scope" title="Scope" subtitle="Scale of experience" >}}
 
   {{< card link="service" title="Service" subtitle="Prep & presentation of food" >}}
@@ -32,3 +34,5 @@ next: activity
   {{< card link="system" title="System" subtitle="Components and technologies" >}}
 
 {{< /cards >}}
+
+

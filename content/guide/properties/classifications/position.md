@@ -5,8 +5,7 @@ linkTitle: "Position"
 {{< badge "Coaster" >}}
 {{< badge "Concept: Ride" >}}
 
-The orientation and seating arrangement of passengers, including their posture and position in relation to the track.
-
+Passengers' seating arrangement, posture and position relative to the track.
 
 {{% details title="Conventional" closed="true" %}}
 Passengers are seated in rows facing forward or backward above the track.
