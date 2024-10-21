@@ -15,7 +15,7 @@ A property is a point of interest that can refer to a physical location or an in
 
 {{< card icon="tag" link="classifications"  title="Classifications" subtitle="Breakdown by specific criteria">}}
 
-{{< card icon="ruler" link="specs"  title="Specs" subtitle="Measurements and facts">}}
+{{< card icon="ruler" link="specs"  title="Specs" subtitle="Physical measurements">}}
 
 {{< card icon="brush" link="presentation"  title="Presentation" subtitle="Themes and lore">}}
 

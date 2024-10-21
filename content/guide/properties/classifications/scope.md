@@ -39,4 +39,4 @@ Drop height reaches over 400ft/122m with a layout focusing on drop height and sp
 Targeted toward thrill-seekers with more intense excitement from speed, height or maneuvers.
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
-{{% /details %}
+{{% /details %}}

@@ -130,7 +130,7 @@ Customers are served at their tables by waitstaff.
 ## T
 
 {{% details title="Traditional park fare" closed="true" %}}
-Customers are served at their tables by waitstaff.
+Classic and popular foods commonly found in theme parks, such as hot dogs, hamburgers, funnel cakes, popcorn and cotton candy.
 {{% /details %}}
 
 
