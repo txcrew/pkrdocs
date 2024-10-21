@@ -1,5 +1,6 @@
 ---
 title: "Sessions"
+weight: 50
 ---
 
 Sessions are cumulative records of visits over a period of time. 

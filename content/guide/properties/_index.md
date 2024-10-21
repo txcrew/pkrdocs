@@ -1,6 +1,6 @@
 ---
 title: "Properties"
-weight: 10
+weight: 20
 ---
 
 A property is a point of interest that can refer to a physical location or an intellectual property.
@@ -19,7 +19,9 @@ A property is a point of interest that can refer to a physical location or an in
 
 {{< card icon="brush" link="presentation"  title="Presentation" subtitle="Themes and lore">}}
 
-{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="sequence of historical events">}}
+{{< card  icon="summary" link="summary"  title="Summary" subtitle="Anecdotes about a property">}}
+
+{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="Sequence of historical events">}}
 
 {{< card icon="creative" link="team"  title="Creative team" subtitle="Key staff on the property">}}
 

@@ -2,6 +2,7 @@
 title: "General"
 descirption: "Basic information about Park Ranger"
 draft: true
+weight: 10
 ---
 
 {{< cards  >}}
