@@ -42,10 +42,6 @@ Coaster model featuring high-speed launches, multiple inversions and sudden turn
 {{< badge "Coaster" >}}
 {{% /details %}}
 
-{{% details title="Body slide" closed="true" %}}
-something
-{{% /details %}}
-
 {{% details title="Boomerang" closed="true" %}}
 Coaster model which sends riders forward up an incline, then inverted before descending backward through the same track layout creating a "boomerang" effect.
 {{< badge "Coaster" >}}
@@ -124,11 +120,6 @@ something
 something
 {{% /details %}}
 
-{{% details title="Dive" closed="true" %}}
-something
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Dodgems" closed="true" %}}
 something
 {{% /details %}}
@@ -178,15 +169,7 @@ something
 something
 {{% /details %}}
 
-{{% details title="Flume" closed="true" %}}
-something
-{{% /details %}}
-
 {{% details title="Flying Scooters" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Fourth Dimension" closed="true" %}}
 something
 {{% /details %}}
 
@@ -216,11 +199,6 @@ something
 something
 {{% /details %}}
 
-{{% details title="Giga" closed="true" %}}
-something
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Giga Discovery" closed="true" %}}
 something
 {{% /details %}}
@@ -237,11 +215,6 @@ something
 
 {{% details title="Happy Swing" closed="true" %}}
 something
-{{% /details %}}
-
-{{% details title="Hyper" closed="true" %}}
-something
-{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## I
@@ -366,11 +339,6 @@ something
 something
 {{% /details %}}
 
-{{% details title="Powered" closed="true" %}}
-something
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 ## R
 
 {{% details title="Racing" closed="true" %}}
@@ -427,16 +395,6 @@ something
 
 {{% details title="Shoot the Chute" closed="true" %}}
 something
-{{% /details %}}
-
-{{% details title="Shuttle" closed="true" %}}
-something
-{{< badge "Coaster" >}}
-{{% /details %}}
-
-{{% details title="Side friction" closed="true" %}}
-something
-{{< badge "Coaster" >}}
 {{% /details %}}
 
 {{% details title="Skater Coaster" closed="true" %}}

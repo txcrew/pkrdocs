@@ -35,6 +35,19 @@ Robotic devices used to emulate living creatures
 {{< badge "Coaster" >}}
 {{% /details %}}
 
+## E
+
+{{% details title="Enclosed" closed="true" %}}
+Track lives within a structure intended solely for the coaster adding elements such as darkness, theming, show scenes, or controlled environments that transition into intense coaster elements.
+
+An enclosed roller coaster is a coaster which is built inside a structure intended solely for the ride.
+Example
+* Flight of Fear at Kings Island 
+* Blazing Fury at Dollywood
+* Revenge of the Mummy at Universal Studios Orlando
+{{< badge "Coaster" >}}
+{{% /details %}}
+
 ## G
 
 {{% details title="Gluten-free" closed="true" %}}

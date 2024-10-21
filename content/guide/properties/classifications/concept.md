@@ -52,11 +52,6 @@ Designated area where guests can access self-serve fountains or refill stations 
 {{< badge "Dining" >}}
 {{% /details %}}
 
-{{% details title="Bobsled" closed="true" %}}
-Type of roller coaster that mimics the experience of a bobsled run, featuring a course that twists and turns with banked curves.
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Bowling alley" closed="true" %}}
 A recreational venue where guests can enjoy bowling games.
 {{< badge "Attraction" >}}
@@ -175,13 +170,6 @@ Dedicated space or facility designed for religious practices, reflection or spir
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-## I
-
-{{% details title="Inverted" closed="true" %}}
-This is the content of the details.
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 ## L
 
 {{% details title="Lounge" closed="true" %}}
@@ -199,6 +187,17 @@ Skill-based arcade-style games where players can win prizes by completing challe
 {{% details title="Miniature golf course" closed="true" %}}
 This is the content of the details.
 {{< badge "Attraction" >}}
+{{% /details %}}
+
+{{% details title="Mountain coaster" closed="true" %}}
+Also referred to as an _Apline Coaster_, a ride system combines elements of a roller coaster and a luge, featuring a track on which riders, seated in individual sleds are pulled uphill and then descend through a mountainous landscape at varying speeds
+
+Example
+* Rocky Top Mountain Coaster in Tennenssee
+* The Coaster at Goats on the Roof in Tennessee
+* Alpen Coaster in Oberammergau, Germany
+
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## N
@@ -242,6 +241,11 @@ This is the content of the details.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
+{{% details title="Pop-up" closed="true" %}}
+Temporary dining establishments that may offer unique menus, often in unconventional locations, with various service styles.
+{{< badge "Dining" >}}
+{{% /details %}}
+
 {{% details title="Preview center" closed="true" %}}
 This is the content of the details.
 {{< badge "Attraction" >}}
@@ -266,11 +270,6 @@ This is the content of the details.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-{{% details title="Sit-Down" closed="true" %}}
-This is the content of the details.
-{{< badge "Coaster" >}}
-{{% /details %}}
-
 {{% details title="Spa" closed="true" %}}
 This is the content of the details.
 {{< badge "Attraction" >}}
@@ -281,20 +280,21 @@ This is the content of the details.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-{{% details title="Stand-up" closed="true" %}}
-This is the content of the details.
+{{% details title="Steel coaster" closed="true" %}}
+The metal framework that guides roller coasters along a designed path.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
-{{% details title="Suspended" closed="true" %}}
-This is the content of the details.
-{{< badge "Coaster" >}}
-{{% /details %}}
 
 ## T
 
 {{% details title="Theater" closed="true" %}}
 This is the content of the details.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
+{{% details title="Tour" closed="true" %}}
+Guided journey or experience designed to showcase a variety of sights or activities.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -323,7 +323,7 @@ This is the content of the details.
 {{% /details %}}
 
 {{% details title="Water slide" closed="true" %}}
-Passengers slide down a smooth, sloped surface into a pool of water; often featuring twists and various elements.
+Passengers slide down a smooth, sloped surface to an end point; often featuring twists and various elements.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -332,10 +332,11 @@ This is the content of the details.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-{{% details title="Wing" closed="true" %}}
-This is the content of the details.
+{{% details title="Wood coaster" closed="true" %}}
+Roller coaster that features a track made primarily of wooden materials, known for providing a classic, often rougher ride experience compared to steel track coasters.
 {{< badge "Coaster" >}}
 {{% /details %}}
+
 
 ## Z
 

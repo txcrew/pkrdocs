@@ -32,6 +32,28 @@ Specifications for a property
 | `Total air time`   | Aggregate sum of all air time moments     	     |
 | `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
 
+## Propulsion
+
+{{< badge "Concept: Ride" >}}
+{{< badge "Coaster" >}}
+
+| Type        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Busbar`     | Metal strip that collects and distributes electrical power to multiple circuits	{{< badge "Concept: Ride" >}}					 |
+| `Cable lift`  | Cable and pulley mechanism instead a chain           |
+| `Catch car`   | Pulls a train using a connected car  {{< badge "Coaster" >}} 	     |
+| `Chain lift` | Pulls the train up an incline  {{< badge "Coaster" >}}  |
+| `Compressed air` | Pressurized air used to propel the train; often employed in launch systems or brakes  {{< badge "Coaster" >}}  |
+| `Counterweight` | Stores energy by raising a heavy weight, which is then dropped to launch a train  {{< badge "Coaster" >}} |
+| `Electric lift` | Integrated electric motor pulling a train up an incline  {{< badge "Coaster" >}} |
+| `Elevator lift` | Raises the train vertically to a peak height, typically using a cable system, before allowing it to descend rapidly  {{< badge "Coaster" >}} |
+| `Ferris wheel lift` | raises a car like a gondola, with the car entering at the bottom and exiting at the top {{< badge "Coaster" >}}|
+| `Flywheel` | store energy from an electric motor for quick release, allowing trains to launch with minimal impact to power consumption    |
+| `Friction wheel` | Motorized component that adjusts a train's speed by creating friction with the ride vehicle.    |
+| `Hydraulic` | Acceleration using pressurized fluid chambers and a cable system connected to a powerful wheel-driven engine    |
+| `Magnetic` | Contactless electro-magnetic systems without moving parts    |
+
+
 ## Vehicle
 
 ### Restraint system
