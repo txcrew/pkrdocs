@@ -20,7 +20,7 @@ Passengers lie down horizontally, parallel to the track, to simulate the sensati
 {{% /details %}}
 
 {{% details title="Fourth Dimension" closed="true" %}}
-Seats are typically positioned alongside a central track and can rotate independently on a horizontal axis, allowing riders to experience dynamic movements throughout the course.
+Seats positioned alongside a central track and can rotate independently on a horizontal axis.
 {{% /details %}}
 
 {{% details title="Inverted" closed="true" %}}
