@@ -11,7 +11,7 @@ A distinct capability or functionality added to a product or service that enhanc
 ## # #
 
 {{% details title="3-D" closed="true" %}}
-something
+Three-dimensional imagery that creates depth perception through stereoscopic techniques, allowing viewers to see height, width, and depth, enhancing visual experiences.
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{% /details %}}
@@ -96,6 +96,7 @@ Example
 {{% /details %}}
 
 {{% details title="Pre-show" closed="true" %}}
+Short presentation or entertainment segment that occurs toward the end of the queue and before the main attraction, designed to set the story and enhance the experience.
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{% /details %}}
