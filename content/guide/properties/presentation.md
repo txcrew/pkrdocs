@@ -55,8 +55,6 @@ The presentation of the property focuses on how the story is told and the underl
 * Underwater
 * Village
 
-
-
 ## Details
 
 Features of a property that are presented as a fictional thematic adaptation.
@@ -79,24 +77,27 @@ Features of a property that are presented as a fictional thematic adaptation.
 | `Restraint` | Presented name of the restraining device used   |
 | `Accessory` | Presented name of accessiories used   |
 
-
 ## Bio
+{{< badge "Character" >}}
 Bio is a section of presentation that's used for `Characters`. Details are typically added for comedic value.
 
 | Detail        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
-| `Bio`   | Organized group engaged in commercial activities|
+| `Bio`   | Organized group engaged in commercial activities             |
 | `Height`   | Organized group engaged in commercial activities|
 | `Weight`  | Owner or manager of a fictional establishment     |
 | `Profession`   | Memorable phrase enhancing the narrtive   	     |
 | `Alias` | Presented title of operating crew members    |
 
 ## Color palette
+{{< badge "Coaster" >}}
 
-| Detail        | Summary                                  	             |
+Identifications of the primary color palette used in different components of a roller coaster.
+
+| Component        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
-| `Supports`   | Organized group engaged in commercial activities|
-| `Track`   | Organized group engaged in commercial activities|
-| `Vehicles`  | Owner or manager of a fictional establishment     |
-| `Seats`   | Memorable phrase enhancing the narrtive   	     |
-| `Restraint` | Presented title of operating crew members    |
+| `Supports`    | Steel framework that holds track |
+| `Track`       | Steel rails that guide the trains |
+| `Vehicles`  | Exterior body of a vehicle     |
+| `Seats`   | Interior seating on a vehicle   	     |
+| `Restraint` | Primary restraint    |
