@@ -4,11 +4,13 @@ weight: 19
 next: /guide/properties/classifications
 ---
 
-Most all properties have a physical location, save for cruise ships.
+Location refers to the specific coordinates that define a property’s position on a map, as well as its relationship to any encompassing parent property. 
 
-## Map
+Most all properties have a physical location, save for property types that travel (ex: Cruise ships).
 
-The map visualizes coordinates for a property using a pin to illustrate location.
+## Coordinates
+
+Numerical values that specify a precise location on a map, visualized with a pin to indicate the property's position.
 
 ## Located within
 

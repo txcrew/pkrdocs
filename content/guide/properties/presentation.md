@@ -6,48 +6,97 @@ The presentation of the property focuses on how the story is told and the underl
 
 ## Theme
 
+* Adventure
+* Alien
+* Archaeology
+* Arctic
+* Automotive
+* Aviation
+* Carnival
+* City
+* Comic book
+* Conservation
+* Cultural heritage
+* Desert
+* Discovery
+* Fantasy
+* Flying creature
+* Food
+* Forest
+* Future
+* Geographical region
+* Ghost
+* Grassland
+* History
+* Holiday
+* Illustrated character
+* Intellectual property
+* Interplanetary
+* Jungle
+* Land creature
+* Magic
+* Medieval
+* Monster
+* Movie set
+* Music
+* Mythical creature
+* Mythology
+* Natural disaster
+* Nautical
+* Old West
+* Prehistoric
+* Sci-Fi
+* Sea creature
+* Space
+* Sport
+* Superhero
+* Transportation
+* Tropical
+* Underwater
+* Village
+
+
+
 ## Details
 
 Features of a property that are presented as a fictional thematic adaptation.
 
-{{% details title="Corporate entity" closed="true" %}}
-Associated corporation or company
-{{% /details %}}
+### Example
 
-{{% details title="Proprietor" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
+* The `vehicle` on The Haunted Mansion is presented as `Doom Buggy`
+* The `guest role` on Back to the Future: the ride was `Time Travel Volunteer`
+* The `restraint` on Space Shuttle America was called `G-Force Restraining Order`
 
-{{% details title="Slogan" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Staff role" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Guest role" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Vehicle" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Vehicle name" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Restraint" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
-
-{{% details title="Accessory" closed="true" %}}
-The fictional owner or founder of the property
-{{% /details %}}
+| Detail        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Corporate entity`   | Organized group engaged in commercial activities|
+| `Proprietor`  | Owner or manager of a fictional establishment     |
+| `Slogan`   | Memorable phrase enhancing the narrtive   	     |
+| `Staff role` | Presented title of operating crew members    |
+| `Guest role` | Title given to guests during an experience   |
+| `Vehicle` | The presented model of a ride vehicle   |
+| `Vehicle name` | The proper noun given to a vehicle(s)  |
+| `Restraint` | Presented name of the restraining device used   |
+| `Accessory` | Presented name of accessiories used   |
 
 
 ## Bio
 Bio is a section of presentation that's used for `Characters`. Details are typically added for comedic value.
 
+| Detail        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Bio`   | Organized group engaged in commercial activities|
+| `Height`   | Organized group engaged in commercial activities|
+| `Weight`  | Owner or manager of a fictional establishment     |
+| `Profession`   | Memorable phrase enhancing the narrtive   	     |
+| `Alias` | Presented title of operating crew members    |
+
 ## Color palette
+
+| Detail        | Summary                                  	             |
+| ------------- | ------------------------------------------------------ |
+| `Supports`   | Organized group engaged in commercial activities|
+| `Track`   | Organized group engaged in commercial activities|
+| `Vehicles`  | Owner or manager of a fictional establishment     |
+| `Seats`   | Memorable phrase enhancing the narrtive   	     |
+| `Restraint` | Presented title of operating crew members    |
