@@ -56,6 +56,9 @@ Specifications for a property
 
 ## Vehicle
 
+{{< badge "Concept: Ride" >}}
+{{< badge "Coaster" >}}
+
 ### Restraint system
 
 | Type        | Summary                                  	             |
