@@ -57,7 +57,7 @@ The presentation of the property focuses on how the story is told and the underl
 
 ## Details
 
-Features of a property that are presented as a fictional thematic adaptation.
+Property features presented as a fictional theme, incorporating elements of the backstory or lore.
 
 ### Example
 
@@ -79,6 +79,7 @@ Features of a property that are presented as a fictional thematic adaptation.
 
 ## Bio
 {{< badge "Character" >}}
+
 Bio is a section of presentation that's used for `Characters`. Details are typically added for comedic value.
 
 | Detail        | Summary                                  	             |
