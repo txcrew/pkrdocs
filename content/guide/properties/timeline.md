@@ -9,13 +9,13 @@ Events on a timeline are represented as `points` with various types.
 ## Point types
 
 ### Start date
-The date operational status became `active`.
+The date [operation status]({{< ref "status" >}}) became `active`.
 
 A timeline can have multiple `Start dates` if a property is replaced, and later the original property is brought back to replace the new one.
 
 ### End date
 
-The date operational status became `defunct`.
+The date [operation status]({{< ref "status" >}}) became `defunct`.
 
 A timeline can have several `End dates`. For example, if a property is replaced by a new one, then the original property is brought back and later it gets replaced again by something completely different.
 
