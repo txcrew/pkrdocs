@@ -3,7 +3,7 @@ title: "Specs"
 weight: 30
 ---
 
-Specifications for a property
+Factual and quantitative assessments of a specific property, typically expressed in numerical values and units.
 
 ## Measurements
 
@@ -55,6 +55,9 @@ Specifications for a property
 
 
 ## Vehicle
+
+{{< badge "Concept: Ride" >}}
+{{< badge "Coaster" >}}
 
 ### Restraint system
 

@@ -5,7 +5,7 @@ weight: 15
 next: /guide/properties/status
 ---
 
-Groups of similar properties
+Distinct groupings of properties based on type.
 
 {{< cards  >}}
   {{< card link="areas" title="Areas" icon="area" >}}

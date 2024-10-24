@@ -33,17 +33,18 @@ The [operation status]({{< ref "status" >}} "Operation status") refers to the cu
 
 
 ## Location
-[Location]({{< ref "location" >}} "Location") refers to the specific coordinates that define a property's position on a map, as well as its relationship to any encompassing parent property or area.
+[Location]({{< ref "location" >}} "Location") refers to the specific coordinates that define a property's position on a map, as well as its relationship to any encompassing parent property.
 
 ### Coordinates
-Use `search` to add coordinates by property name. If the property cannot be found, search for the closest neighboring property.
+Use `search` to add coordinates by property name. 
 
-The point can be adjusted by relocating marker.
+* If the property cannot be found, search for the closest neighboring property.
+* The point can be adjusted by relocating marker.
 
 ### Located within
 Set the _closest_ property that new property is [located within]({{< ref "location/#located-within" >}} "Located within"). 
 
-This can be done by searching through existing property names. If `coordinates` were entered, suggested properties will appear.
+This can be done by using `search` across existing property names. If `coordinates` were entered, suggested properties will appear.
 
 {{< callout >}}
 Cruise ships and portable attractions don't have stationary locations.

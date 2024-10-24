@@ -14,3 +14,7 @@ The operational status reflects the physical state of a property. An operational
 | `development` | Doesn’t exist just yet, but it's planned!     |
 | `seasonal`    | Operates a few months out of the year            |
 | `unknown`     | Not sure about the status                |
+
+## Example
+
+`Horizons` at `Epcot` is `Defunct`

@@ -184,7 +184,7 @@ Coaster track system with trains that run on a single, elevated track.
 {{% /details %}}
 
 {{% details title="Spinning" closed="true" %}}
-Rotational movement of individual cars or seats around a central axis while traversing a course.
+Rotational movement of individual cars or seats around a central axis.
 {{% /details %}}
 
 ## T
