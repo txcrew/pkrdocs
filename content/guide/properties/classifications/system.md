@@ -145,6 +145,14 @@ Combines elements of traditional roller coasters with an electric propulsion sys
 
 ## R
 
+{{% details title="Rack and pinion" closed="true" %}}
+Toothed rack (a linear gear) engages with a pinion (a small gear) to convert rotational motion into linear motion, allowing trains to ascend steep inclines and create dynamic ride experiences.
+
+{{< badge "Coaster" >}}
+{{% /details %}}
+
+
+
 {{% details title="Raft slide" closed="true" %}}
 Type of water slide designed for 3 or more passengers, typically in an inflatable raft, allowing groups to ride together down a winding or steep chute.
 
@@ -185,6 +193,13 @@ Coaster track system with trains that run on a single, elevated track.
 
 {{% details title="Spinning" closed="true" %}}
 Rotational movement of individual cars or seats around a central axis.
+{{% /details %}}
+
+{{% details title="Switch track" closed="true" %}}
+Mechanism that quickly alters the direction of the track to allow trains to transition between different paths or layouts. Also has been used during load and dispatch of vehicles.
+
+### Examples
+* Hagrid's Magical Creatures Motorbike Adventure (Universal's Islands of Adventure, Florida, USA) 
 {{% /details %}}
 
 ## T

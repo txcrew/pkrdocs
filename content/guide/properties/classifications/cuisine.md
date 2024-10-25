@@ -56,8 +56,17 @@ Typically the first meal of the day, varying culturally across countries, often 
 
 ## C
 
-{{% details title="Cocktails" closed="true"%}}
+{{% details title="Cocktails" closed="true" %}}
 Mixed alcoholic drinks, typically combining spirits with flavors, juices, and garnishes.
+
+### Examples
+
+* Mojito
+* Margarita
+* Old Fashioned
+* Martini
+* Daiquiri
+
 {{% /details %}}
 
 ## E

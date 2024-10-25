@@ -13,10 +13,19 @@ Passengers are seated in rows facing forward or backward above the track.
 
 {{% details title="Floorless" closed="true" %}}
 Individual seats that do not have a floor directly beneath them, allowing passengers' legs to dangle freely above the track.
+
+### Examples
+* Medusa - Six Flags Discovery Kingdom (California, USA)
+* Kraken - SeaWorld Orlando (Florida, USA)
+* Scream! - Six Flags Magic Mountain (California, USA)
 {{% /details %}}
 
 {{% details title="Flying" closed="true" %}}
 Passengers lie down horizontally, parallel to the track, to simulate the sensation of flight.
+
+### Examples
+* Manta - SeaWorld Orlando, Florida
+* Tatsu - Six Flags Magic Mountain, California
 {{% /details %}}
 
 {{% details title="Fourth Dimension" closed="true" %}}
