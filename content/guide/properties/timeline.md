@@ -4,9 +4,17 @@ title: "Timeline"
 
 A chronological sequence of events that outlines significant milestones, developments, and changes related to a property. 
 
-Events on a timeline are represented as `points` with various types.
+Events on a timeline are represented as `points` with various types. Points are sorted by date going from oldest -> latest.
 
 ## Point types
+
+In additon to type specific fields, all point types include the following fields:
+
+| Field         | Summary                     		    |
+| ------------- | ------------------------------------- |
+| `date`   | Accepts `Year`, `Year + Month` or `Year + Month + day`        			        |
+| `notes`  	| Any relevant information to give context    |
+
 
 ### Start date
 The date [operation status]({{< ref "status" >}}) became `active`.
@@ -78,16 +86,17 @@ Record of the property that occupied the space prior to the current property.
 | ------------- | ------------------------------------- |
 | `properties`   | Reference any existing properties    |
 
+Similar to relocation, the reverse reference is automatically generated on the referenced property's timeline.
 
 
 ## Dates
 
-Dates per point are not required, but are most certainly helpful. 
+Dates per point are not required but offer helpful context.
 
-If a full date is unknown, a hazy date would also be acceptable as either:
+If a full `Year + Month + Date` is unknown, a hazy date would also be acceptable as either:
 
-* Year + Month
-* Year
+* `Year + Month`
+* `Year`
 
 ## Notes
 
