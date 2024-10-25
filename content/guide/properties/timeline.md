@@ -8,6 +8,8 @@ Events on a timeline are represented as `points` with various types. Points are 
 
 ## Point types
 
+### Global fields
+
 In additon to type specific fields, all point types include the following fields:
 
 | Field         | Summary                     		    |
@@ -17,7 +19,7 @@ In additon to type specific fields, all point types include the following fields
 
 
 ### Start date
-The date [operation status]({{< ref "status" >}}) became `active`.
+The date [operation status]({{< ref "status" >}}) _first_ became `active`.
 
 A timeline can have multiple `Start dates` if a property is replaced, and later the original property is brought back to replace the new one.
 
@@ -87,17 +89,3 @@ Record of the property that occupied the space prior to the current property.
 | `properties`   | Reference any existing properties    |
 
 Similar to relocation, the reverse reference is automatically generated on the referenced property's timeline.
-
-
-## Dates
-
-Dates per point are not required but offer helpful context.
-
-If a full `Year + Month + Date` is unknown, a hazy date would also be acceptable as either:
-
-* `Year + Month`
-* `Year`
-
-## Notes
-
-Each point on a timeline has a notes field. Notes can be anything related to the `point`.
