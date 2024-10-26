@@ -4,9 +4,9 @@ title: "Timeline"
 
 A chronological sequence of events that outlines significant milestones, developments, and changes related to a property. 
 
-Events on a timeline are represented as `points` with various types. Points are sorted by date going from oldest -> latest.
+## Points
 
-## Point types
+Events on a timeline are represented as `points` with various types. Points are sorted by date going from oldest -> latest.
 
 ### Global fields
 
@@ -45,7 +45,8 @@ Adds the following fields:
 
 Objective change in color palette, theme elements or story.
 
-Example
+**Example**
+
 * The track was repainted from black to yellow
 * Story setting changed from the woods to the city
 * Hundreds of LED Lights added to exterior facade
@@ -54,7 +55,8 @@ Example
 
 Record of a noteworthy event
 
-Example
+**Example**
+
 * A dedication ceremony
 * New on-ride photo feature was added
 * Restraints were modified to be more comfortable
