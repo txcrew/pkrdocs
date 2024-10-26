@@ -4,9 +4,9 @@ title: "Timeline"
 
 A chronological sequence of events that outlines significant milestones, developments, and changes related to a property. 
 
-Events on a timeline are represented as `points` with various types. Points are sorted by date going from oldest -> latest.
+## Points
 
-## Point types
+Events on a timeline are represented as `points` with various types. Points are sorted by date going from oldest -> latest.
 
 ### Global fields
 
