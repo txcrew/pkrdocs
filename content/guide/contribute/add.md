@@ -65,9 +65,14 @@ A detailed overview of a property's construction, features and associated lore.
 [Specs]({{< ref "guide/properties/specs" >}} "Specs") are quantitative assessments of a specific property, typically expressed in numerical values and units.
 
 ### Presentation
-[Presentation]({{< ref "presentation" >}} "Presentation") represent artistic delivery and storytelling of a fictional narrative, encompassing its themes, lore, and world-building elements to engage and immerse the audience in the property.
+[Presentation]({{< ref "presentation" >}} "Presentation") represent artistic delivery and storytelling of a fictional narrative encompassing its themes, lore, and world-building elements to engage and immerse the audience in the property.
 
-* Be conservative with theme selection
+#### Themes
+* Choose up to 5 themes that best fit the property
+* Keep your criteria for theme selection simple and straightforward
+* If you can’t find any suitable themes, it’s okay to leave that section blank—sometimes a property just doesn’t have a theme.
+
+
 
 ## History
 

@@ -6,6 +6,8 @@ The presentation of the property focuses on how the story is told and the underl
 
 ## Theme
 
+An overarching narrative and atmosphere that guides the design and experience of a property, encompassing visual aesthetics, architecture and storytelling.
+
 {{% details title="Adventure" closed="true" %}}
 typically focus on exploration, excitement, and the thrill of discovering new worlds or experiences.
 
@@ -110,7 +112,7 @@ Showcase of the traditions, customs, history, art, and values of different cultu
 Emphasizes characteristics and elements typically associated with desert environments. This includes vast arid landscapes, distinct geological formations, sandy dunes and a palette of warm colors.
 
 ### Examples
-* Big Thunder Mountain Railroad at Various Disney Parks
+* Big Thunder Mountain Railroad at various Disney Parks
 * Radiator Springs Racers at Disney California Adventure
 * Indiana Jones Adventure: Temple of the Forbidden Eye at Disneyland
 {{% /details %}}
@@ -130,7 +132,7 @@ Characterized by magical, imaginative, or supernatural elements that often take 
 ### Examples
 * Wizarding World of Harry Potter at Various Universal parks
 * Frozen Ever After Ride at EPCOT, Walt Disney World Resort, Florida
-* Dumbo The Flying Elephant at Various Disney Parks
+* Dumbo The Flying Elephant at various Disney Parks
 {{% /details %}}
 
 {{% details title="Flying creature" closed="true" %}}
@@ -452,6 +454,9 @@ Property features presented as a fictional theme, incorporating elements of the 
 | `Accessory` | Presented name of accessiories used   |
 
 ## Bio
+
+<br />
+
 {{< badge "Character" >}}
 
 Bio is a section of presentation that's used for `Characters`. Details are typically added for comedic value.
@@ -465,9 +470,13 @@ Bio is a section of presentation that's used for `Characters`. Details are typic
 | `Alias` | Presented title of operating crew members    |
 
 ## Color palette
+
+<br />
+
 {{< badge "Coaster" >}}
 
 Identifications of the primary color palette used in different components of a roller coaster.
+
 
 | Component        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
