@@ -136,10 +136,10 @@ Characterized by magical, imaginative, or supernatural elements that often take 
 {{% /details %}}
 
 {{% details title="Flying creature" closed="true" %}}
-Elements inspired by creatures capable of flight, such as birds, bats, butterflies, and mythical beings like dragons or fairies
+Elements inspired by creatures capable of flight, such as birds, bats and butterflies.
 
 ### Examples
-* Flight of Passage at Disney's Animal Kingdom, Walt Disney World Resort, Florida
+* Wild Eagle at Dollywood
 * Falcon's Fury at Busch Gardens Tampa, Florida
 * Raptor at Cedar Point, Ohio
 {{% /details %}}
@@ -313,7 +313,7 @@ Inspired by fictional beings from mythology, folklore, or fantasy literature. Th
 ### Examples
 * Valravn at Cedar Point, Ohio
 * Dueling Dragons at Universal's Islands of Adventure, Florida
-* Expedition Everest – Legend of the Forbidden Mountain at Disney's Animal Kingdom
+* Flight of Passage at Disney's Animal Kingdom, Walt Disney World Resort, Florida
 * Flight of the Hippogriff at Universal's Islands of Adventure, Florida
 {{% /details %}}
 
@@ -323,6 +323,7 @@ Inspired by myths, legends, and folklore from various cultures around the world.
 * Mexico pavilion at EPCOT
 * Poseidon's Fury at Universal's Islands of Adventure, Florida
 * Journey to Atlantis at SeaWorld, Florida
+* Expedition Everest – Legend of the Forbidden Mountain at Disney's Animal Kingdom
 {{% /details %}}
 
 {{% details title="Natural disaster" closed="true" %}}
