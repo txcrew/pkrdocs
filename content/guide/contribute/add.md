@@ -38,17 +38,14 @@ The [operation status]({{< ref "status" >}} "Operation status") refers to the cu
 ### Coordinates
 Use `search` to add coordinates by property name. 
 
-* If the property cannot be found, search for the closest neighboring property.
-* The point can be adjusted by relocating marker.
+* If the property cannot be found, search for the closest neighboring property
+* The point can be adjusted by relocating marker
+* Skip this for properties that travel (Ex: Cruise ships)
 
 ### Located within
 Set the _closest_ property that new property is [located within]({{< ref "location/#located-within" >}} "Located within"). 
 
 This can be done by using `search` across existing property names. If `coordinates` were entered, suggested properties will appear.
-
-{{< callout >}}
-Cruise ships and portable attractions don't have stationary locations.
-{{< /callout >}}
 
 
 ## Profile
@@ -69,8 +66,8 @@ The artistic delivery and storytelling of a fictional narrative encompassing its
 
 #### [Theme]({{< ref "guide/properties/themes" >}} "Theme")
 * Choose the theme(s) that best fit the property
-* Keep your criteria for theme selection simple and straightforward
-* Sometimes a property just doesn’t have a theme, it's okay to leave it blank
+* Keep criteria for theme selection simple and straightforward
+* Sometimes a property doesn’t have a theme, it's okay to leave it blank
 
 #### [Lore]({{< ref "guide/properties/lore" >}} "Lore")
 * Choose the themes that best fit the property
@@ -81,7 +78,8 @@ The artistic delivery and storytelling of a fictional narrative encompassing its
 
 #### [Colors]({{< ref "guide/properties/colors" >}} "Colors")
 * Applicable for `roller coaster` property types
-* Capture the most prominant colors used in each component
+* Record the main colors used in each part of the roller coaster
+* Focus on the overall color scheme rather than all individual colors
 
 
 ## History
