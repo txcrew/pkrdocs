@@ -1,6 +1,5 @@
 ---
 title: "Replaced"
-draft: true
 weight: 40
 ---
 

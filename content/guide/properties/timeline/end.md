@@ -1,7 +1,6 @@
 ---
 title: "End date"
 linkTitle: "End"
-draft: true
 weight: 40
 ---
 

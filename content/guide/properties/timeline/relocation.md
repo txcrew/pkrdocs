@@ -1,6 +1,5 @@
 ---
 title: "Relocation"
-draft: true
 weight: 60
 ---
 
