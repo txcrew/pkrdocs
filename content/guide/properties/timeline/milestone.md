@@ -1,6 +1,5 @@
 ---
 title: "Milestone"
-draft: true
 weight: 100
 ---
 

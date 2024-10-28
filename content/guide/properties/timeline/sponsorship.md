@@ -1,6 +1,5 @@
 ---
 title: "Sponsorship"
-draft: true
 weight: 70
 ---
 

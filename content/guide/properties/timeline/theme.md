@@ -1,7 +1,6 @@
 ---
 title: "Theme change"
 linkTitle: "Theme"
-draft: true
 weight: 55
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Name change"
 linkTitle: "Name"
-draft: true
 weight: 50
 ---
 
