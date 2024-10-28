@@ -5,8 +5,7 @@ weight: 75
 
 {{< badge "Coaster" >}}
 
-Identifications of the primary color palette used in different components of a roller coaster.
-
+The main color scheme used in different components of a roller coaster. This generally refers to overall color scheme rather than all individual colors.
 
 | Component        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |

@@ -3,7 +3,7 @@ title: "Properties"
 weight: 20
 ---
 
-A property is a point of interest that can refer to a physical location or an intellectual property.
+A `property` is essentially a point of interest, which can be a physical location or an intellectual asset, often accompanied by relevant metadata.
 
 {{< cards cols="2" >}}
 
@@ -21,14 +21,14 @@ A property is a point of interest that can refer to a physical location or an in
 
 {{< card icon="lore" link="lore"  title="Lore" subtitle="Fictional elements for backstory">}}
 
-{{< card icon="bio" link="bio"  title="Bio" subtitle="Fictional elements for backstory">}}
+{{< card icon="bio" link="bio"  title="Bio" subtitle="Fictional character summary">}}
 
-{{< card icon="colors" link="colors"  title="Colors" subtitle="Fictional elements for backstory">}}
+{{< card icon="colors" link="colors"  title="Colors" subtitle="Main color scheme">}}
 
 {{< card  icon="summary" link="summary"  title="Summary" subtitle="Anecdotes about a property">}}
 
-{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="Sequence of historical events">}}
-
 {{< card icon="creative" link="team"  title="Creative team" subtitle="Key staff on the property">}}
+
+{{< card  icon="timeline" link="timeline"  title="Timeline" subtitle="Sequence of historical events">}}
 
 {{< /cards >}}

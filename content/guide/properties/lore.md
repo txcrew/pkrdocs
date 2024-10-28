@@ -16,13 +16,14 @@ Property details presented as a fictional theme, incorporating elements of the b
 | `Staff role` | Presented title of operating crew members    |
 | `Guest role` | Title given to guests during an experience   |
 | `Vehicle` | The presented model of a ride vehicle   |
-| `Vehicle name` | The proper noun given to a vehicle(s)  |
+| `Vehicle name` | The proper noun given to vehicles  |
 | `Restraint` | Presented name of the restraining device used   |
 | `Accessory` | Presented name of accessiories used   |
 
 
 ## Example
 
-* The `vehicle` on The Haunted Mansion is presented as `Doom Buggy`
-* The `guest role` on Back to the Future: the ride was `Time Travel Volunteer`
-* The `restraint` on Space Shuttle America was called `G-Force Restraining Order`
+* `vehicle` on The Haunted Mansion is presented as `Doom Buggy`
+* `guest role` on Back to the Future: the ride was `Time Travel Volunteer`
+* `restraint` on Space Shuttle America was called `G-Force Restraining Order`
+* `Vehicle names` on `Steel Vengeance` are `Blackjack`, `Digger` and `Chess`
