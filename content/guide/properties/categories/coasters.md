@@ -4,7 +4,7 @@ title: "Roller coasters"
 toc: false
 ---
 
-# {{< icon "rollerCoaster" >}}
+<i class="bigIcon">{{< icon "rollerCoaster" >}}</i>
 
 A ride that uses gravity and inertial forces to propel a train along a track, allowing it to move through a series of elements.
 

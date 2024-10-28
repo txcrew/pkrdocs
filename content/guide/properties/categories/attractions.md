@@ -3,7 +3,7 @@ title: "Attractions"
 toc: false
 ---
 
-# {{< icon "attraction" >}}
+<i class="bigIcon">{{< icon "attraction" >}}</i>
 
 Place or activity that draws people in for its distinctive experience or entertainment appeal. Attractions can be natural or manufactured experiences that are often rooted in historical or cultural significance.
 

@@ -3,7 +3,7 @@ title: "Shops"
 toc: false
 ---
 
-# {{< icon "shop" >}}
+<i class="bigIcon">{{< icon "shop" >}}</i>
 
 Retail outlet where visitors can purchase food, beverages, souvenirs, or recreational items.
 

@@ -3,7 +3,7 @@ title: "Parks"
 toc: false
 ---
 
-# {{< icon "park" >}}
+<i class="bigIcon">{{< icon "park" >}}</i>
 
 A designated area for recreation and enjoyment often featuring natural landscapes, attractions and facilities. 
 

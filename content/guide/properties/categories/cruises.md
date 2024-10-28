@@ -4,7 +4,7 @@ title: "Cruise ships"
 toc: false
 ---
 
-# {{< icon "cruiseShip" >}}
+<i class="bigIcon">{{< icon "cruiseShip" >}}</i>
 
 A large passenger vessel designed for leisure travel, offering accommodations, dining, entertainment and various amenities while visiting multiple ports of call.
 

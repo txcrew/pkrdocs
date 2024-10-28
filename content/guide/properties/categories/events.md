@@ -3,7 +3,7 @@ title: "Events"
 toc: false
 ---
 
-# {{< icon "event" >}}
+<i class="bigIcon">{{< icon "event" >}}</i>
 
 Scheduled occasion or activity designed to enhance visitor experiences, often featuring special attractions, performances or themed celebrations beyond the park's regular offerings.
 

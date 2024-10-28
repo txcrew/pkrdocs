@@ -3,7 +3,7 @@ title: "Characters"
 toc: false
 ---
 
-# {{< icon "character" >}}
+<i class="bigIcon">{{< icon "character" >}}</i>
 
 
 A costumed performer who embodies a fictional persona, typically from a popular story, franchise or brand.

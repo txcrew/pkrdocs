@@ -3,7 +3,7 @@ title: "Resorts"
 toc: false
 ---
 
-# {{< icon "resort" >}}
+<i class="bigIcon">{{< icon "resort" >}}</i>
 
 A complete leisure destination featuring accommodations, dining and recreation typically connected to parks with rides and attractions.
 

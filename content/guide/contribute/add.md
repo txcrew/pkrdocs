@@ -65,13 +65,23 @@ A detailed overview of a property's construction, features and associated lore.
 [Specs]({{< ref "guide/properties/specs" >}} "Specs") are quantitative assessments of a specific property, typically expressed in numerical values and units.
 
 ### Presentation
-[Presentation]({{< ref "presentation" >}} "Presentation") represent artistic delivery and storytelling of a fictional narrative encompassing its themes, lore, and world-building elements to engage and immerse the audience in the property.
+The artistic delivery and storytelling of a fictional narrative encompassing its themes, lore, and world-building elements to engage and immerse the audience in the property.
 
-#### Themes
-* Choose up to 5 themes that best fit the property
+#### [Theme]({{< ref "guide/properties/themes" >}} "Theme")
+* Choose the theme(s) that best fit the property
 * Keep your criteria for theme selection simple and straightforward
-* If you can’t find any suitable themes, it’s okay to leave that section blank—sometimes a property just doesn’t have a theme.
+* Sometimes a property just doesn’t have a theme, it's okay to leave it blank
 
+#### [Lore]({{< ref "guide/properties/lore" >}} "Lore")
+* Choose the themes that best fit the property
+
+#### [Bio]({{< ref "guide/properties/bio" >}} "Bio")
+* Applicable for `character` property types
+* Details can be factual or made up - they're just for fun
+
+#### [Colors]({{< ref "guide/properties/colors" >}} "Colors")
+* Applicable for `roller coaster` property types
+* Capture the most prominant colors used in each component
 
 
 ## History
