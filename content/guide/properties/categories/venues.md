@@ -3,7 +3,7 @@ title: "Venues"
 toc: false
 ---
 
-# {{< icon "venue" >}}
+<i class="bigIcon">{{< icon "venue" >}}</i>
 
 Physical spaces that house one or more properties. They're often enclosed or semi-enclosed, but can also be completly open.
 

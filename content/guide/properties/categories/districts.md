@@ -3,7 +3,7 @@ title: "Districts"
 toc: false
 ---
 
-# {{< icon "district" >}}
+<i class="bigIcon">{{< icon "district" >}}</i>
 
 A designated area that combines various entertainment, dining, and retail experiences within a cohesive atmosphere, often themed or branded to create a vibrant social hub. 
 

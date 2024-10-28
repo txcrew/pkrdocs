@@ -3,7 +3,7 @@ title: "Dining"
 toc: false
 ---
 
-# {{< icon "dining" >}}
+<i class="bigIcon">{{< icon "dining" >}}</i>
 
 Food vendors in parks including restaurants, cafés, booths and carts that typically offer diverse culinary options.
 

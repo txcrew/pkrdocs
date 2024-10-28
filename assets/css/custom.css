@@ -2,3 +2,8 @@
   --primary-hue: 100deg;
   --primary-saturation: 90%;
 }
+
+
+.bigIcon{
+  font-size:2.5em; 
+}

@@ -3,7 +3,7 @@ title: "Hotels"
 toc: false
 ---
 
-# {{< icon "hotel" >}}
+<i class="bigIcon">{{< icon "hotel" >}}</i>
 
 Accommodations that are located on park property. Often themed to enhance the overall experience.
 

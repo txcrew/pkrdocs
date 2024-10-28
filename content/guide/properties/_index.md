@@ -17,7 +17,13 @@ A property is a point of interest that can refer to a physical location or an in
 
 {{< card icon="ruler" link="specs"  title="Specs" subtitle="Physical measurements">}}
 
-{{< card icon="brush" link="presentation"  title="Presentation" subtitle="Themes and lore">}}
+{{< card icon="themeChange" link="themes"  title="Themes" subtitle="Overarching narrative and atmosphere">}}
+
+{{< card icon="lore" link="lore"  title="Lore" subtitle="Fictional elements for backstory">}}
+
+{{< card icon="bio" link="bio"  title="Bio" subtitle="Fictional elements for backstory">}}
+
+{{< card icon="colors" link="colors"  title="Colors" subtitle="Fictional elements for backstory">}}
 
 {{< card  icon="summary" link="summary"  title="Summary" subtitle="Anecdotes about a property">}}
 

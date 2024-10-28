@@ -1,6 +1,5 @@
 ---
 title: "Categories"
-date: 2024-10-02T21:41:49-05:00
 weight: 15
 next: /guide/properties/status
 ---
