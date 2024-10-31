@@ -1,20 +1,24 @@
 ---
-title: "About"
-draft: true
+title: "About Park Ranger"
+linkTitle: "About"
+weight: 10
 ---
 
+Park Ranger is a tool crafted for exploring and documenting your activity at recreational destinations including theme parks, national parks, stadiums and beyond. It was designed and created by a couple of theme park enthusiasts with a natural curiosity and joy for discovering the details in an experience.
 
-Park Ranger is a paid service for documenting your activity at theme parks. Also National parks, State parks, and stadiums. 
+## Manifesto
 
+### Stay in the moment
+Every interaction in Park Ranger is thoughtfully crafted to minimize time-on-task. Afterall, the real joy of exploring lies in the experience itself.
 
-Manifesto
-* 
+### No social features
+No vanity metrics, clout or social pressures. Park Ranger was built with only essentials for indulging in park fandom.
 
+### Private by default
+Your activity in Park Ranger is never sold and it's private by default. Import it. Export it. Your data belongs to you. Park Ranger is supported through premium memberships or access to our API.
 
+### Available on all platforms
+Interact with Park Ranger on the platform that best fits your needs. Desktop, tablet, mobile, iOS or Android.
 
-
-Personal adventure companion for exploring theme parks, national parks, and stadiums worldwide. With Travlr, you can remember every exhilarating ride, breathtaking view, and delicious snack without the hassle of organizing every detail. 
-
-Our app empowers you to document your experiences—coasters, attractions, parks, cruises, hotels—simply and privately, creating a unique collection of memories just for you. In a world where data privacy is often compromised, Travlr stands apart. We don’t sell your information, include social features, or pressure you with vanity metrics or ads. Here, it’s all about you and your adventures, free from external influences. 
-
-Join us and reclaim your space—where every moment is yours to explore and remember. With Travlr, adventure is personal.
+### Data is clear and accessible
+Our evolving park data, both historical and current, is consistently presented and is available for integration into your own brand application via our API.
