@@ -6,8 +6,8 @@ weight: 10
 ---
 
 {{< cards  >}}
-  {{< card link="about"  title="About" subtitle="just a little background on Park Ranger" >}}
 
-  {{< card link="parks" title="Parks" subtitle="just some info">}}
+  {{< card link="about"  title="About Park Ranger" subtitle="Just a little background on what it is" >}}
+
 
 {{< /cards >}}
