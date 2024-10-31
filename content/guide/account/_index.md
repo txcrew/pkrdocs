@@ -1,6 +1,7 @@
 ---
 title: "Account"
 weight: 20
+draft: true
 ---
 
 Your account stores your preferences and settings.
