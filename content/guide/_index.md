@@ -6,7 +6,7 @@ cascade:
   type: docs
 ---
 
-Eventual index of things.
+Welcome to the official Park Ranger guide! This is your information resource to help with many of your questions and tasks. If you can't find what you're looking for here please get in touch.
 
 
 {{< cards cols="1" >}}
