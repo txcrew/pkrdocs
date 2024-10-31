@@ -21,8 +21,8 @@ menu:
     - name: Guide
       pageRef: /guide
       weight: 1
-    - name: Releases
-      pageRef: /releases
+    - name: Changelog
+      pageRef: /changelog
       weight: 2
     - name: Search
       weight: 4
