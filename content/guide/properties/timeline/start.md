@@ -4,6 +4,8 @@ linkTitle: "Start"
 weight: 30
 ---
 
+<i class="bigIcon">{{< icon "startDate" >}}</i>
+
 The date [operation status]({{< ref "status" >}}) became `active`.
 
 

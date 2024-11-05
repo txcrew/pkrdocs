@@ -3,6 +3,9 @@ title: "Milestone"
 weight: 100
 ---
 
+<i class="bigIcon">{{< icon "milestone" >}}</i>
+
+
 Record of a noteworthy event that does not fit a specific context.
 
 ## Fields

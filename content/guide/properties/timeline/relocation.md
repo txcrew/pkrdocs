@@ -3,6 +3,9 @@ title: "Relocation"
 weight: 60
 ---
 
+<i class="bigIcon">{{< icon "relocation" >}}</i>
+
+
 The record of a property moving to (or from) a new location and name.
 
 ## Fields

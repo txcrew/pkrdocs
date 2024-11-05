@@ -3,6 +3,8 @@ title: "Replaced"
 weight: 40
 ---
 
+<i class="bigIcon">{{< icon "replaced" >}}</i>
+
 Record of the property that occupied the space prior to the current property.
 
 ## Fields

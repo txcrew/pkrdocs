@@ -4,6 +4,8 @@ linkTitle: "Theme"
 weight: 55
 ---
 
+<i class="bigIcon">{{< icon "themeChange" >}}</i>
+
 Objective change in color palette, theme elements or story.
 
 ## Fields

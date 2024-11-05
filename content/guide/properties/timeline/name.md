@@ -4,6 +4,9 @@ linkTitle: "Name"
 weight: 50
 ---
 
+<i class="bigIcon">{{< icon "nameChange" >}}</i>
+
+
 Record of an official property `name` alterations.
 
 ## Fields
