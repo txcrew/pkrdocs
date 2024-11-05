@@ -16,5 +16,6 @@ Record of a noteworthy event that does not fit a specific context.
 ## Example
 
 * A dedication ceremony
+* Soft opening or previews
 * New on-ride photo feature was added
-* Restraints were modified to be more comfortable
+* Vehicle modifications

@@ -7,6 +7,8 @@ prev: /guide/properties/categories
 
 The operational status reflects the physical state of a property. An operational status is required for every property.
 
+## Types
+
 | Status        | Summary                                                |
 | ------------- | ------------------------------------------------------ |
 | `active`      | Physically exists; daily operation not withstanding                                      |
