@@ -15,6 +15,6 @@ Objective change in color palette, theme elements or story.
 
 ## Example
 
-* The track was repainted from black to yellow
+* Track was repainted from black to yellow
 * Story setting changed from the woods to the city
 * Hundreds of LED Lights added to exterior facade

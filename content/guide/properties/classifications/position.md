@@ -48,6 +48,14 @@ Individual seats designed to resemble the posture of a motorcycle rider, with pa
 Seats positioned beneath the track rather than above it. This design allows riders to swing freely side-to-side as the train traverses the course.
 {{% /details %}}
 
+{{% details title="Vis-à-vis" closed="true" %}}
+Seats positioned sit facing each other, typically in pairs or groups.
+{{% /details %}}
+
 {{% details title="Wing" closed="true" %}}
 Seats are stationary and positioned on either side of a central track allowing passengers to sit with their feet dangling freely.
 {{% /details %}}
+
+
+
+

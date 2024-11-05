@@ -25,9 +25,11 @@ Factual and quantitative assessments of a specific property, typically expressed
 
 ## Time
 
+
+
 | Spec        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
-| `Duration`     | Total length of experience							 |
+| `Duration`    | Total length of experience {{< badge "Concept: Ride" >}} {{< badge "Coaster"  >}} {{< badge "Entertainment" >}}|
 | `Sustained air time`  | longest moment of sustained air time           |
 | `Total air time`   | Aggregate sum of all air time moments     	     |
 | `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
