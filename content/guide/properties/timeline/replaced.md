@@ -13,8 +13,7 @@ Record of the property that occupied the space prior to the current property.
 | ------------- | ------------------------------------- |
 | `property`   | Reference property {{< badge content="Multi-value" type="info" >}}     |
 | `date`   | As `Year`, `Year + Month` or `Year + Month + day`     |
-| `note`  	| Any relevant information to give context    |
-
+| `note`  	| Any relevant information to give context    | 
 
 ## Example
 

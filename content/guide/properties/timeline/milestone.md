@@ -12,7 +12,7 @@ Record of a noteworthy event that does not fit a specific context.
 
 | Field         | Summary                     		    |
 | ------------- | ------------------------------------- |
-| `date`   | Accepts `Year`, `Year + Month` or `Year + Month + day`        			        |
+| `date`   | Accepts `Year`, `Year + Month` or `Year + Month + day`   |
 | `note`  	| Any relevant information to give context    |
 
 
