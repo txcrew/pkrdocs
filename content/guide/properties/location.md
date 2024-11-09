@@ -4,7 +4,7 @@ weight: 19
 next: /guide/properties/classifications
 ---
 
-Location refers to the specific coordinates that define a property’s position on a map, as well as its relationship to any encompassing parent property. 
+Location refers to the specific coordinates that define a property’s position on a map, as well as the nearest property its located within. 
 
 ## Coordinates
 

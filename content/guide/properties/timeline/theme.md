@@ -4,6 +4,8 @@ linkTitle: "Theme"
 weight: 55
 ---
 
+<i class="bigIcon">{{< icon "themeChange" >}}</i>
+
 Objective change in color palette, theme elements or story.
 
 ## Fields
@@ -12,6 +14,15 @@ Objective change in color palette, theme elements or story.
 | ------------- | ------------------------------------- |
 | `date`   | As `Year`, `Year + Month` or `Year + Month + day`     |
 | `note`  	| Any relevant information to give context    |
+
+## Usage
+When there's a noticeable change in the theme elements of a property, such as:
+
+* Scenery/sets
+* Soundtrack
+* Color palette
+* Story
+* Narraration
 
 ## Example
 

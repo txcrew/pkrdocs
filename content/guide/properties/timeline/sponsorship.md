@@ -3,6 +3,8 @@ title: "Sponsorship"
 weight: 70
 ---
 
+<i class="bigIcon">{{< icon "sponsorship" >}}</i>
+
 The start, change or end of an organization that sponsors a property.
 
 ## Fields
