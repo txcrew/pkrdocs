@@ -4,7 +4,7 @@ linkTitle: "About"
 weight: 5
 ---
 
-Park Ranger is a premium utility crafted for exploring and documenting your activity at recreational destinations such as theme parks, national parks and stadiums. It was designed by theme park enthusiasts with a natural curiosity and joy for discovering the details in an experience.
+Park Ranger® is a premium utility crafted for exploring and documenting your activity at recreational destinations such as theme parks, national parks and stadiums. It was designed by theme park enthusiasts with a natural curiosity and joy for discovering the details in an experience.
 
 ## Manifesto
 

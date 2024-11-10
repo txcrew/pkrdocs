@@ -28,7 +28,7 @@ Properties that are located within another property are displayed together in a 
 * `California Adventure` is located within `Disneyland Resort`
 * `Brooklyn` is located within `New York City`
 
-Example of a location tree:
+Example of a location tree for `Test Track`:
 
 {{< filetree/container >}}
   {{< filetree/folder name="Walt Disney World Resort (Resort)" >}}
