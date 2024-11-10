@@ -1,7 +1,7 @@
 ---
-title: "Theme"
-date: 2024-10-31T14:30:58-05:00
+title: "Preferences"
 draft: true
+weight: 10
 ---
 
 Select a preferred theme to better personalize your experience.

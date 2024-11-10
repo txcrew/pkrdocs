@@ -1,6 +1,7 @@
 ---
-title: "Edit property"
+title: "Modify property"
 linkTitle: "Edit"
+weight: 30
 ---
 
 Editing a property
