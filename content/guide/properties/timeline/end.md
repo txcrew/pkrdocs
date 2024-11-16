@@ -24,7 +24,7 @@ The date [operation status]({{< ref "status" >}}) became `defunct`.
 
 Start dates are used to communicate when a property `operational status` is changed to `defunct`.
 
-A timeline can have multiple `End dates` if a property is [replaced]({{< ref "replaced" >}}) by a new one, then the original property is brought back and later it gets replaced again by something completely different.
+A timeline can have multiple `End dates` if a property is replaced by a new one, then the original property is brought back and later it gets replaced again by something completely different.
 
 ### Replaced by
 
