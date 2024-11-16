@@ -1,6 +1,7 @@
 ---
 title: "Replaced"
 weight: 40
+draft: true
 ---
 
 <i class="bigIcon">{{< icon "replaced" >}}</i>

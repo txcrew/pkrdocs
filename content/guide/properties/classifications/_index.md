@@ -5,6 +5,8 @@ prev: /guide/properties/location
 next: activity
 ---
 
+Tags to breakdown property types according to specific criteria, simplifying identification. There are various classifications per property type.
+
 {{< cards  >}}
 
   {{< card link="activity"  title="Activity" subtitle="Recreational or leisure activities" >}}

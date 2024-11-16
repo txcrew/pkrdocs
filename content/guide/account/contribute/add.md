@@ -17,18 +17,27 @@ All of the basic info is required
 
 {{% steps %}}
 
-### Set the name
-
+### Set the name *
 This should be represented as the official, proper name of the property.
 
 
-### Pick a category
+### Pick a category *
 
 Select _one_ [category]({{< ref "../../properties/categories" >}} "Categories") that best describes the property type.
 
-### Set operation status
+### Set [operation status]({{< ref "../../properties/status" >}}) *
 
-The [operation status]({{< ref "../../properties/status" >}} "Operation status") refers to the current physical state.
+### Map Coordinates
+Use `search` to add coordinates by property name. 
+
+#### Tips
+* If the property cannot be found, search for the closest neighboring property
+* The point can be adjusted by relocating marker
+* Skip this for properties that travel (Ex: Cruise ships)
+
+### [located within]({{< ref "../../properties/location/#located-within" >}} "Located within")
+
+This can be done by using `search` across existing property names. If `coordinates` were entered, suggested properties will appear.
 
 {{% /steps %}}
 
