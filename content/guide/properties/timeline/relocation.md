@@ -1,6 +1,7 @@
 ---
 title: "Relocation"
 weight: 60
+draft: true
 ---
 
 <i class="bigIcon">{{< icon "relocation" >}}</i>

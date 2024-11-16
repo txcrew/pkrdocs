@@ -15,12 +15,24 @@ The date [operation status]({{< ref "status" >}}) became `active`.
 | ------------- | ------------------------------------- |
 | `date`   | As `Year`, `Year + Month` or `Year + Month + day`     |
 | `note`  	| Any relevant information to give context    |
+| `replaced`   | Property that previously occupied the space {{< badge content="Multi-value" type="info" >}}     |
+| `relocation`   |  Moved from a different location with same core experience    |
 
 ## Usage
 
-Start dates are used to communicate when a property `operational status` is changed to `active`.
+### Date
 
-A timeline can have multiple `Start dates` if a property is [replaced]({{< ref "replaced" >}}), and later the original property is brought back to replace the new one.
+Communicates the calendar date the `operational status` of a proeprty is changed to `active`.
+
+A timeline can have multiple `Start dates` if a property is replaced, and later the original property is brought back to replace the new one.
+
+### Replaced
+
+Property previously occupying the space. In some instances, there may be no prior tenants. The reverse reference ([Replaced by]({{< ref "end#replaced-by" >}})) is automatically generated.
+
+### Relocation
+
+Noted when a property moved from a previous location with the same base experience (excluding any theme alterations or ehancements). The reverse reference ([Relocated to]({{< ref "end#relocation" >}})) is automatically generated.
 
 ## Example
 
