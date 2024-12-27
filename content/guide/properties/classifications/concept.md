@@ -52,6 +52,11 @@ Designated area where guests can access self-serve fountains or refill stations 
 {{< badge "Dining" >}}
 {{% /details %}}
 
+{{% details title="Bounce House" closed="true" %}}
+Guests jump and bounce in an inflatable structure, providing a playful and safe experience.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
 {{% details title="Bowling alley" closed="true" %}}
 A recreational venue where guests can enjoy bowling games.
 {{< badge "Attraction" >}}
@@ -136,6 +141,12 @@ A fire pit is an outdoor feature designed for social gatherings, where people ca
 {{< badge "Attraction" >}}
 {{% /details %}}
 
+{{% details title="Fitness center" closed="true" %}}
+Afacility equipped for exercise and physical activities, often offering gym equipment and classes.
+{{< badge "Attraction" >}}
+{{% /details %}}
+
+
 {{% details title="Food hall" closed="true" %}}
 Designated area featuring a variety of food vendors offering diverse dining options in a communal setting.
 {{< badge "Dining" >}}
@@ -173,7 +184,7 @@ Dedicated space or facility designed for religious practices, reflection or spir
 ## L
 
 {{% details title="Lounge" closed="true" %}}
-This is the content of the details.
+Comfortable space for relaxation and socializing, often featuring seating and amenities.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -185,7 +196,7 @@ Skill-based arcade-style games where players can win prizes by completing challe
 {{% /details %}}
 
 {{% details title="Miniature golf course" closed="true" %}}
-This is the content of the details.
+Recreational venue featuring small, creatively designed holes for playing golf in a playful setting
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -203,12 +214,12 @@ Example
 ## N
 
 {{% details title="Nightclub" closed="true" %}}
-This is the content of the details.
+Venue for entertainment featuring music, dancing and often drinks in a lively atmosphere.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Nursery" closed="true" %}}
-This is the content of the details.
+A facility providing care and edutainment for young children, typically infants to preschool age.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -222,22 +233,22 @@ A temporary or permanent change made to an existing attraction or area, enhancin
 ## P
 
 {{% details title="Photobooth" closed="true" %}}
-This is the content of the details.
+A small, enclosed space where people can take instant photos, occasionally with props and backdrops.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Pizzeria" closed="true" %}}
-This is the content of the details.
+A restaurant specializing in making and serving pizza and related dishes.
 {{< badge "Dining" >}}
 {{% /details %}}
 
 {{% details title="Play area" closed="true" %}}
-This is the content of the details.
+A designated space with attractions and activities for children to enjoy safely.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Pool" closed="true" %}}
-This is the content of the details.
+Recreational water feature, providing guests a space for swimming, relaxation, and socializing.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -247,40 +258,58 @@ Temporary dining establishments that may offer unique menus, often in unconventi
 {{% /details %}}
 
 {{% details title="Preview center" closed="true" %}}
-This is the content of the details.
+A walk-through showcase of upcoming attractions offering insights through immersive displays.
 {{< badge "Attraction" >}}
+{{% /details %}}
+
+## Q
+
+{{% details title="Quick service" closed="true" %}}
+Speedy preparation and service.
+
+**Example:**
+* Food carts
+* Street food
+
+{{< badge "Dining" >}}
+
 {{% /details %}}
 
 ## R
 
 {{% details title="Ride" closed="true" %}}
-This is the content of the details.
+A themed attraction featuring moving vehicles on wheels.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Ropes course" closed="true" %}}
-This is the content of the details.
+An outdoor adventure facility featuring obstacles and challenges designed for teamwork, trust, and physical agility.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## S
 
 {{% details title="Scare zone" closed="true" %}}
-This is the content of the details.
+Themed area featuring props, actors and effects designed to create a frightening atmosphere.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Spa" closed="true" %}}
-This is the content of the details.
+Facility offering health and wellness treatments, including massages, facials, and relaxation therapies.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Sports court" closed="true" %}}
-This is the content of the details.
+Designated surface for playing various sports, typically featuring specific markings and dimensions.
+
+**Example:**
+* Basketball court
+* Tennis court
+
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-{{% details title="Steel coaster" closed="true" %}}
+{{% details title="Steel track" closed="true" %}}
 The metal framework that guides roller coasters along a designed path.
 {{< badge "Coaster" >}}
 {{% /details %}}
@@ -289,7 +318,7 @@ The metal framework that guides roller coasters along a designed path.
 ## T
 
 {{% details title="Theater" closed="true" %}}
-This is the content of the details.
+Venue for live performances, shows, or films designed to entertain guests.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
@@ -299,26 +328,26 @@ Guided journey or experience designed to showcase a variety of sights or activit
 {{% /details %}}
 
 {{% details title="Transport" closed="true" %}}
-This is the content of the details.
+Systems or vehicles used to move guests between parks and areas efficiently.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## V
 
 {{% details title="Virtual Reality" closed="true" %}}
-This is the content of the details.
+An experience that Immerses guests into digital environments, often enhanced with interactive experiences and sensory effects.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 ## W
 
 {{% details title="Walk-through" closed="true" %}}
-This is the content of the details.
+An immersive experience where visitors explore themed environments on foot.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
 {{% details title="Water coaster" closed="true" %}}
-This is the content of the details.
+Combines roller coaster elements with water slides, featuring uphill sections and rapid drops, often using water jets.
 {{< badge "Coaster" >}}
 {{% /details %}}
 
@@ -328,11 +357,11 @@ Passengers slide down a smooth, sloped surface to an end point; often featuring 
 {{% /details %}}
 
 {{% details title="Wave pool" closed="true" %}}
-This is the content of the details.
+A swimming pool that generates artificial waves for recreational activities, simulating ocean conditions.
 {{< badge "Attraction" >}}
 {{% /details %}}
 
-{{% details title="Wood coaster" closed="true" %}}
+{{% details title="Wood track" closed="true" %}}
 Roller coaster that features a track made primarily of wooden materials, known for providing a classic, often rougher ride experience compared to steel track coasters.
 {{< badge "Coaster" >}}
 {{% /details %}}
@@ -341,6 +370,6 @@ Roller coaster that features a track made primarily of wooden materials, known f
 ## Z
 
 {{% details title="Zip line" closed="true" %}}
-This is the content of the details.
+A suspended cable allowing a person to slide along it using gravity for fun or transport.
 {{< badge "Attraction" >}}
 {{% /details %}}

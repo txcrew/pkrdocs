@@ -2,21 +2,24 @@
 title: "System"
 ---
 
-{{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
+{{< badge "Concept: ride" >}}
+{{< badge "Concept: Water slide" >}}
+{{< badge "Concept: Tour" >}}
+{{< badge "Concept: Transport" >}}
 
 The network of components and technologies that work together to operate, control and enhance a ride experience.
 
 ## A
 
 {{% details title="Alpine Slide" closed="true" %}}
-A recreational slide where riders descend a narrow, winding track on sled-like vehicles, typically using gravity, often found on mountain resorts
+A recreational slide where riders descend a narrow, winding track on sled-like vehicles, typically using gravity, often found on mountain resorts.
 
 Example
 * Park City Alpine Slide in Utah
 * The Alpine Slide at Snow Valley in California
 * The Alpine Slide at the Great Escape in New York
-{{< badge "Attraction" >}}
+{{< badge "Concept: ride" >}}
 {{% /details %}}
 
 ## B
@@ -37,9 +40,16 @@ Coaster track that mimics the experience of a bobsled run, featuring a course th
 {{% /details %}}
 
 {{% details title="Body slide" closed="true" %}}
-something
+a slide system designed for a smooth, swift descent, typically featuring a straight or increasingly angled flume for riders to glide down directly.
 {{< badge "Concept: Water slide" >}}
 {{% /details %}}
+
+{{% details title="Bus" closed="true" %}}
+Transportation vehicle that shuttles guests around various areas of a property.
+{{< badge "Concept: Transport" >}}
+{{< badge "Concept: Tour" >}}
+{{% /details %}}
+
 
 ## C
 
@@ -48,16 +58,16 @@ Themed automotive vehicles that traverse a designated track or path, often featu
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
+{{% details title="Chairlift" closed="true" %}}
+An open air transport system featuring suspended seats that move along cables, typically used to transport people up mountains or hills.
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
+
 ## D
 
 {{% details title="Dark ride" closed="true" %}}
 Indoor ride through themed environments utilizing elaborate sets, animatronics and special effects, typlically in low-light settings.
 {{< badge "Concept: Ride" >}}
-{{% /details %}}
-
-{{% details title="Dive" closed="true" %}}
-Coaster system featuring a vertical drop preceded by a holding brake, creating for a momentary pause at the top before plunging down.
-{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## E
@@ -73,13 +83,19 @@ Example:
 
 ## F
 
+{{% details title="Ferry boat" closed="true" %}}
+A vessel used to transport passengers and vehicles across bodies of water, typically on a scheduled route.
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
+
 {{% details title="Flat ride" closed="true" %}}
 A ride operating on a mostly horizontal plane featuring various movements such as spinning, tilting or swinging without significant elevation changes.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Flume" closed="true" %}}
-something
+Featuring a water-filled channel, where vehicles travel through scenic drops and turns.
+{{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Flying theater" closed="true" %}}
@@ -99,6 +115,11 @@ Example:
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
+{{% details title="Gondola" closed="true" %}}
+Enclosed cabins that are suspended from a continuously moving cable that transports guests between areas while offering scenic views. (Also referred to as a "Cable Car")
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
+
 ## K
 
 {{% details title="KUKA arm" closed="true" %}}
@@ -112,6 +133,10 @@ Robotic arm manufactured by KUKA robotics commonly used in rides to create dynam
 A rapid acceleration system
 {{% /details %}}
 
+{{% details title="Lift" closed="true" %}}
+A mechanism that raises a vehicle or train to a peak height.
+{{% /details %}}
+
 ## M
 
 {{% details title="Mat slide" closed="true" %}}
@@ -119,15 +144,20 @@ A water slide designed for use with a flat, padded mat, typically accommodating 
 {{< badge "Concept: Water slide" >}}
 {{% /details %}}
 
+{{% details title="Monorail" closed="true" %}}
+Railway system that uses a single rail, typically elevated, to support and guide vehicles designed to travel along it.
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
+
 {{% details title="Moving walkway" closed="true" %}}
-Continuously moving conveyor system that transports passengers while standing or walking
+Continuously moving conveyor system that transports passengers while standing or walking/
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 ## O
 
 {{% details title="Omnimover" closed="true" %}}
-A type of continuously moving transportation system
+A type of continuously moving transportation system.
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -135,6 +165,12 @@ A type of continuously moving transportation system
 
 {{% details title="Pendulum ride" closed="true" %}}
 Swings riders back and forth on a large arm, resembling a pendulum.
+{{< badge "Concept: Ride" >}}
+{{% /details %}}
+
+{{% details title="People mover" closed="true" %}}
+A lightweight and continuous, automated transportation system.
+{{< badge "Concept: Transport" >}}
 {{< badge "Concept: Ride" >}}
 {{% /details %}}
 
@@ -146,12 +182,9 @@ Combines elements of traditional roller coasters with an electric propulsion sys
 ## R
 
 {{% details title="Rack and pinion" closed="true" %}}
-Toothed rack (a linear gear) engages with a pinion (a small gear) to convert rotational motion into linear motion, allowing trains to ascend steep inclines and create dynamic ride experiences.
-
+Toothed rack engages with a pinion to convert rotational motion into linear motion, allowing trains to ascend steep inclines and create dynamic ride experiences.
 {{< badge "Coaster" >}}
 {{% /details %}}
-
-
 
 {{% details title="Raft slide" closed="true" %}}
 Type of water slide designed for 3 or more passengers, typically in an inflatable raft, allowing groups to ride together down a winding or steep chute.
@@ -159,6 +192,12 @@ Type of water slide designed for 3 or more passengers, typically in an inflatabl
 Example
 * Teamboat Springs at Blizzard Beach
 {{< badge "Concept: Water slide" >}}
+{{% /details %}}
+
+{{% details title="Railway" closed="true" %}}
+something
+{{< badge "Concept: Transport" >}}
+{{< badge "Concept: Ride" >}}
 {{% /details %}}
 
 {{% details title="Rotating theater" closed="true" %}}
@@ -188,11 +227,16 @@ Coaster system that enables a back-and-forth motion along a fixed track, typical
 
 {{% details title="Single rail" closed="true" %}}
 Coaster track system with trains that run on a single, elevated track.
-{{< badge "Concept: Steel coaster" >}}
+{{< badge "Concept: Steel track" >}}
 {{% /details %}}
 
 {{% details title="Spinning" closed="true" %}}
 Rotational movement of individual cars or seats around a central axis.
+{{% /details %}}
+
+{{% details title="Station" closed="true" %}}
+Serves as the point where guests board and disembark a vehicle.
+{{< badge "Concept: Transport" >}}
 {{% /details %}}
 
 {{% details title="Switch track" closed="true" %}}
@@ -206,12 +250,7 @@ Mechanism that quickly alters the direction of the track to allow trains to tran
 
 {{% details title="Tilt track" closed="true" %}}
 A coaster component that features a section of track that tilts or shifts to create a thrilling drop or change in direction
-{{< badge "Concept: Steel coaster" >}}
-{{% /details %}}
-
-{{% details title="Tower ride" closed="true" %}}
-A vertically oriented ride that elevates and lowers; speeds vary based on [scope]({{< ref "scope" >}} "Scope").
-{{< badge "Concept: Ride" >}}
+{{< badge "Concept: Steel track" >}}
 {{% /details %}}
 
 {{% details title="Trackless" closed="true" %}}
@@ -221,15 +260,42 @@ Ride system that uses autonomous vehicle technology to navigate freely without f
 
 {{% details title="Tram" closed="true" %}}
 A train of motorized vehicles designed to transport guests along designated routes.
-{{< badge "Scope: Tour" >}}
+{{< badge "Concept: Tour" >}}
 {{% /details %}}
 
-{{% details title="Tube slide" closed="true" %}}
-Type of water slide designed for one or two passengers in an enclosed or open tube, typically features sharp turns and sudden drops.
+{{% details title="Trap door" closed="true" %}}
+A mechanism that releases riders from a standing position into the slide, typically by opening suddenly to create a thrilling drop.
 {{< badge "Concept: Water slide" >}}
 {{% /details %}}
 
+{{% details title="Trolley" closed="true" %}}
+Ride system simulating the experience of riding a streetcar or trolley, often featuring a scenic route or nostalgic elements reminiscent of early 20th-century trolley parks.
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
+
+{{% details title="Tube slide" closed="true" %}}
+Water slide system designed for one or two passengers in an enclosed or open tube, typically features sharp turns and sudden drops.
+{{< badge "Concept: Water slide" >}}
+{{% /details %}}
+
+{{% details title="Twin" closed="true" %}}
+A roller coaster features two individual tracks that share a similar route.
+{{< badge "Coaster" >}}
+{{% /details %}}
+
+## V
+
+{{% details title="Vertical ride" closed="true" %}}
+A vertically oriented ride that elevates and lowers.
+{{< badge "Concept: Ride" >}}
+{{% /details %}}
+
 ## W
+
+{{% details title="Water taxi" closed="true" %}}
+a small boat providing transport across water to various areas of a property.
+{{< badge "Concept: Transport" >}}
+{{% /details %}}
 
 {{% details title="Water ride" closed="true" %}}
 Water-based vehicles or mechanisms, often incorporating splashes, waves or other water features often resulting in wet socks; often located in a dry-park. 
