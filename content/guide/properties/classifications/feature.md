@@ -38,9 +38,8 @@ Robotic devices used to emulate living creatures
 ## E
 
 {{% details title="Enclosed" closed="true" %}}
-Track lives within a structure intended solely for the coaster adding elements such as darkness, theming, show scenes, or controlled environments that transition into intense coaster elements.
-
 An enclosed roller coaster is a coaster which is built inside a structure intended solely for the ride.
+
 Example
 * Flight of Fear at Kings Island 
 * Blazing Fury at Dollywood
@@ -48,10 +47,25 @@ Example
 {{< badge "Coaster" >}}
 {{% /details %}}
 
+## F
+
+{{% details title="Full Bar" closed="true" %}}
+something
+{{< badge "dining" >}}
+{{% /details %}}
+
+
 ## G
 
 {{% details title="Gluten-free" closed="true" %}}
 {{< badge "Dining" >}}
+{{% /details %}}
+
+## H
+
+{{% details title="Holding brake" closed="true" %}}
+A braking system at the top of a lift hill or peak height of track, which temporarily holds the train in place before it drops.
+{{< badge "Coaster" >}}
 {{% /details %}}
 
 ## I
@@ -61,6 +75,7 @@ Example
 {{% /details %}}
 
 {{% details title="Indoor" closed="true" %}}
+A property that was built inside a multi-use structure. Different than an [enclosure]({{< ref "#e" >}} "Enclosure").
 {{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{% /details %}}
@@ -133,6 +148,10 @@ Short presentation or entertainment segment that occurs toward the end of the qu
 {{% /details %}}
 
 {{% details title="Vegetarian" closed="true" %}}
+{{< badge "Dining" >}}
+{{% /details %}}
+
+{{% details title="Vertical lift" closed="true" %}}
 {{< badge "Dining" >}}
 {{% /details %}}
 

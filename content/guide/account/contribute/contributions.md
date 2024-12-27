@@ -1,6 +1,5 @@
 ---
 title: "Contributions"
-draft: true
 weight: 80
 ---
 
