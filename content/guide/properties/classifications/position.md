@@ -3,59 +3,33 @@ title: "Riding position"
 linkTitle: "Position"
 ---
 {{< badge "Coaster" >}}
-{{< badge "Concept: Ride" >}}
+{{< badge "Ride" >}}
 
-Passengers' seating arrangement, posture and position relative to the track.
+Riding position refers to the way in which riders are seated or positioned on a ride.
 
-{{% details title="Conventional" closed="true" %}}
-Passengers are seated in rows facing forward or backward above the track.
-{{% /details %}}
+## Conventional
+Riders are seated upright with their feet on the floor.
 
-{{% details title="Floorless" closed="true" %}}
-Individual seats that do not have a floor directly beneath them, allowing passengers' legs to dangle freely above the track.
+## Floorless
+Feet dangle in the air, providing a sense of freedom.
 
-### Examples
-* Medusa - Six Flags Discovery Kingdom (California, USA)
-* Kraken - SeaWorld Orlando (Florida, USA)
-* Scream! - Six Flags Magic Mountain (California, USA)
-{{% /details %}}
+## Flying
+Riders are positioned prone, parallel to the ground.
 
-{{% details title="Flying" closed="true" %}}
-Passengers lie down horizontally, parallel to the track, to simulate the sensation of flight.
+## Inverted
+Riders' feet are above their heads, creating a sense of weightlessness.
 
-### Examples
-* Manta - SeaWorld Orlando, Florida
-* Tatsu - Six Flags Magic Mountain, California
-{{% /details %}}
+## Standing
+Riders stand upright, often with a sense of control.
 
-{{% details title="Fourth Dimension" closed="true" %}}
-Seats positioned alongside a central track and can rotate independently on a horizontal axis.
-{{% /details %}}
+## Straddle
+Riders sit with their legs straddling a central console or seat.
 
-{{% details title="Inverted" closed="true" %}}
-Passengers are seated below the track rather than above it, with their legs dangling freely. This configuration allows passengers to experience an wide array of thrilling elements, including inversions.
-{{% /details %}}
+## Suspended
+Riders are seated in a suspended position, with their feet dangling in the air.
 
-{{% details title="Stand-up" closed="true" %}}
-Passengers ride standing upright, with their feet positioned on a platform.
-{{% /details %}}
+## Vis-á-vis
+Riders face each other, promoting interaction.
 
-{{% details title="Straddle" closed="true" %}}
-Individual seats designed to resemble the posture of a motorcycle rider, with passengers sitting in a forward-leaning position and knees bent riding above the track.
-{{% /details %}}
-
-{{% details title="Suspended" closed="true" %}}
-Seats positioned beneath the track rather than above it. This design allows riders to swing freely side-to-side as the train traverses the course.
-{{% /details %}}
-
-{{% details title="Vis-à-vis" closed="true" %}}
-Seats positioned sit facing each other, typically in pairs or groups.
-{{% /details %}}
-
-{{% details title="Wing" closed="true" %}}
-Seats are stationary and positioned on either side of a central track allowing passengers to sit with their feet dangling freely.
-{{% /details %}}
-
-
-
-
+## Wing
+Riders sit on either side of the track, providing a sense of freedom and exposure.

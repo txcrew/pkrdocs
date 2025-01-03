@@ -14,3 +14,11 @@ A variety of engaging, rehearsed performances typically featuring live actcors a
 * The Lion King Celebration - Disney’s Animal Kingdom
 * Sea Lion & Otter Stadium Show - SeaWorld Parks
 * Blue Man Group - Universal CityWalk
+
+## Relevant classifications
+
+{{< cards  >}}
+  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
+  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
+  {{< card link="dining" title="Dining" icon="dining" >}}
+{{< /cards >}}

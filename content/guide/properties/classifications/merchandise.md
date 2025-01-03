@@ -1,5 +1,6 @@
 ---
-title: "Merchandise"
+title: "Merchandise type"
+linkTitle: "Merchandise"
 ---
 
 <br />
@@ -7,72 +8,44 @@ title: "Merchandise"
 
 The category or class of goods available for sale, distinguishing items based on their characteristics, uses or markets.
 
-{{% details title="Apparel" closed="true" %}}
-T-Shirts, sweatshirts, headwear and footwear representing various intellectual properties or park branding.
-{{% /details %}}
+## Apparel
+Clothing and accessories featuring the park's logo or theme.
 
-{{% details title="Collectibles" closed="true" %}}
-something
-{{% /details %}}
+## Art and Collectibles
+Unique and limited-edition items showcasing the park's artistry and craftsmanship.
 
-{{% details title="Cosmetics" closed="true" %}}
-something
-{{% /details %}}
+## Cosmetics
+Beauty and personal care products inspired by the park's themes and characters.
 
-{{% details title="Currency exchange" closed="true" %}}
-something
-{{% /details %}}
+## Experiential Merchandise
+Items that allow guests to relive their park experiences, such as photo albums and customized phone cases.
 
-{{% details title="Experience-based" closed="true" %}}
-Collectible props that enhance immersive thematic experiences.
+## Home and Kitchen
+Products for the home and kitchen featuring the park's themes and characters.
 
-### Example
-* Wands
-* Light sabers
+## Jewelry
+Accessories and adornments featuring the park's themes and characters.
 
-{{% /details %}}
+## Novelties
+Fun and quirky items showcasing the park's sense of humor and whimsy.
 
+## Personal Care
+Essential items inspired by the park's themes and characters.
 
-{{% details title="Housewares" closed="true" %}}
-Mugs, plates, and other types utensils.
-{{% /details %}}
+## Seasonal items
+Products available only during specific times of the year, such as holiday-themed decorations.
 
-{{% details title="Home Décor" closed="true" %}}
-something
-{{% /details %}}
+## Souvenirs
+Traditional souvenirs commemorating a guest's visit to the park.
 
-{{% details title="Jewelry" closed="true" %}}
-something
-{{% /details %}}
+## Specialty items
+Unique and exclusive products, such as limited-edition collectibles and specialty foods.
 
-{{% details title="Seasonal items" closed="true" %}}
-Holiday-themed Items or limited-time promotions.
-{{% /details %}}
+## Stationery and Gifts
+Items for writing, drawing, and gift-giving featuring the park's themes and characters.
 
-{{% details title="Stationery" closed="true" %}}
-Materials like themed paper, envelopes, journals and writing instruments.
-{{% /details %}}
+## Tech and Gadgets
+Electronic devices and accessories featuring the park's themes and characters.
 
-{{% details title="Smoke shop" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Snacks and Treats" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Souvenirs" closed="true" %}}
-Small, easily transportable keepsakes like keychains and magnets. Or larger items like photo frames.
-{{% /details %}}
-
-{{% details title="Tattoo parlor" closed="true" %}}
-something
-{{% /details %}}
-
-{{% details title="Technology and gadgets" closed="true" %}}
-RFID wristbands, cameras, and phone accessories.
-{{% /details %}}
-
-{{% details title="Toys and Plush" closed="true" %}}
-Stuffed animals, action figures, playsets, games and puzzles.
-{{% /details %}}
+## Toys and Games
+Playful items inspired by the park's themes and characters.

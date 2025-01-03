@@ -1,18 +1,16 @@
 ---
-linkTitle: "Coasters"
-title: "Roller coasters"
+Title: "Ride"
 toc: false
 ---
 
 <i class="bigIcon">{{< icon "rollerCoaster" >}}</i>
 
-A ride that uses gravity and inertial forces to propel a train along a track, allowing it to move through a series of elements.
+A general term for any type of experience that involves a vehicle or motion.
 
 ## Example
-* Matterhorn at Disneyland Resort
-* Maverick at Cedar Point
-* Demon at Six Flags Great America
-
+* Carousel
+* Ferris Wheel
+* River Rapids
 
 ## Relevant classifications
 
