@@ -1,17 +1,17 @@
 ---
-title: "Characters"
+title: "Water slides"
+linkTitle: "Water slides"
 toc: false
 ---
 
-<i class="bigIcon">{{< icon "character" >}}</i>
+<i class="bigIcon">{{< icon "cruiseShip" >}}</i>
 
-
-A costumed performer who embodies a fictional persona, typically from a popular story, franchise or brand.
+A type of experience that involves sliding down a water-based surface.
 
 ## Example
-* Mickey Mouse
-* Disney princesses
-* Historical reenactor
+* Mat slide
+* Tube slide
+* Body slide
 
 ## Relevant classifications
 

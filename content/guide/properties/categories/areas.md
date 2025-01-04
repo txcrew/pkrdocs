@@ -10,9 +10,17 @@ A distinct section within a property that is themed around a specific concept or
 
 ## Example
 
-* Galaxy's Edge at Disney's Hollywood Studios
-* Hometown Square at Six Flags Great America
-* Frontier town at Cedar Point
+* Fantasyland
+* Hometown Square
+* Galaxy's edge
+
+
+## Relevant classifications
+
+{{< cards  >}}
+  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
+  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
+{{< /cards >}}
 
 ## Tracking
 Areas use inferred tracking based your activity within.

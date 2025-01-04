@@ -14,3 +14,12 @@ Retail outlet where visitors can purchase food, beverages, souvenirs, or recreat
 * Universal Studios Store - Universal Studios, Orlando, Florida, USA
 * Muggle-worthy Shop - The Wizarding World of Harry Potter, Universal Studios, Florida, USA
 * Main Street Confectionery - Magic Kingdom, Walt Disney World, Florida, USA
+
+
+## Relevant classifications
+
+{{< cards  >}}
+  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
+  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
+  {{< card link="dining" title="Dining" icon="dining" >}}
+{{< /cards >}}

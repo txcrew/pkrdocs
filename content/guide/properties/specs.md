@@ -7,95 +7,167 @@ Factual and quantitative assessments of a specific property, typically expressed
 
 ## Measurements
 
-| Spec        | Summary                                                |
-| ------------- | ------------------------------------------------------ |
-| `Elevation`  | Vertical distance from the base to the peak of the structure           |
-| `Drop`     | Longest sudden descent or vertical plunge |
-| `Descent angle`  | Steepness of a track or ride segment            |
-| `Length`   | Overall length of a track courrse            |
-| `Top speed`   | Maximum speed an experience reaches during operation             |
-| `G-force`   | Maximum sustained g-forces expereinced              |
-| `Inversions` | Total number of inversions    |
-| `Footprint` | Area of the base of a structure as it contacts the ground    |
-| `Throughput` | Number of passengers that can be accommodated per unit of time     |
-| `Capacity` | Number of passengers that can be accommodated at one time     |
-| `Rooms` | Space providing accommodations for guests    |
-| `Decks` | Number of decks on a Cruise ship    |
-| `Build cost` | The estimated cost of a build project    |
+### Elevation
+Vertical distance from base to peak
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Drop
+Longest sudden descent or vertical plunge
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Descent angle
+Steepness of a track or ride segment
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Length
+Overall length of a track course
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Top speed
+Maximum speed reached during operation
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### G-force
+Maximum sustained g-forces experienced
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Inversions
+Total number of inversions
+{{< badge "Coaster" >}}
+
+### Footprint
+Area of the base of a structure
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+{{< badge "Dining" >}}
+
+### Throughput
+Number of passengers accommodated per unit of time
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Capacity
+Number of passengers accommodated at one time
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+{{< badge "Venue" >}}
+{{< badge "Stadium" >}}
+{{< badge "Transportation" >}}
+
+### Rooms
+Space providing accommodations for guests
+{{< badge "Hotel" >}}
+{{< badge "Cruise ship" >}}
+
+### Decks
+Number of decks on a cruise ship
+{{< badge "Cruise ship" >}}
+
+### Build cost
+Estimated cost of a build project
+{{< badge "Area" >}}
+{{< badge "Attraction" >}}
+{{< badge "Coaster" >}}
+{{< badge "Cruise ship" >}}
+{{< badge "District" >}}
+{{< badge "Hotel" >}}
+{{< badge "Park" >}}
+{{< badge "Ride" >}}
+{{< badge "Stadium" >}}
+{{< badge "Venue" >}}
+{{< badge "Water slide" >}}
+
+
 
 ## Time
 
+Various metrics used to describe the time-related characteristics of a property.
 
+### Duration
+Total length of the ride experience
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+{{< badge "Entertainment" >}}
 
-| Spec        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `Duration`    | Total length of experience {{< badge "Concept: Ride" >}} {{< badge "Coaster"  >}} {{< badge "Entertainment" >}}|
-| `Sustained air time`  | longest moment of sustained air time           |
-| `Total air time`   | Aggregate sum of all air time moments     	     |
-| `Time to top speed` | For launches; Time it takes to go from 0 to top speed    |
-
-## Propulsion
-
-{{< badge "Concept: Ride" >}}
+### Time to top speed
+Time to reach top speed from a launch
+{{< badge "Ride" >}}
 {{< badge "Coaster" >}}
 
-| Type        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `Busbar`     | Metal strip that collects and distributes electrical power to multiple circuits	{{< badge "Concept: Ride" >}}					 |
-| `Cable lift`  | Cable and pulley mechanism instead a chain           |
-| `Catch car`   | Pulls a train using a connected car  {{< badge "Coaster" >}} 	     |
-| `Chain lift` | Pulls the train up an incline  {{< badge "Coaster" >}}  |
-| `Compressed air` | Pressurized air used to propel the vehicle  |
-| `Counterweight` | Stores energy by raising a heavy weight, which is then dropped to launch a train  {{< badge "Coaster" >}} |
-| `Electric lift` | Integrated electric motor pulling a train up an incline  {{< badge "Coaster" >}} |
-| `Elevator lift` | Raises the train vertically to a peak height, typically using a cable system, before allowing it to descend rapidly  {{< badge "Coaster" >}} |
-| `Ferris wheel lift` | raises a car like a gondola, with the car entering at the bottom and exiting at the top {{< badge "Coaster" >}}|
-| `Flywheel` | Stores energy from an electric motor for quick release, allowing trains to launch with minimal impact to power consumption    |
-| `Friction wheel` | Motorized component that adjusts speed by creating friction with the vehicle    |
-| `Hydraulic` | Acceleration using pressurized fluid chambers and a cable system connected to a powerful wheel-driven engine    |
-| `Magnetic` | Contactless electro-magnetic systems without moving parts    |
+### Sustained air time
+Longest period of weightlessness
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
+
+### Total air time
+Total time spent in weightlessness
+{{< badge "Ride" >}}
+{{< badge "Coaster" >}}
 
 
 ## Vehicle
 
-{{< badge "Concept: Ride" >}}
+{{< badge "Ride" >}}
 {{< badge "Coaster" >}}
 
-### Restraint system
+### Vehicle motion
 
-| Type        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `back`     | Over the passenger back			 |
-| `lap`  | Over passenger lap      |
-| `leg`   | Over passenger legs/shins    	     |
-| `over the shoulder` | Over the shoulders    |
-| `seat belt` | Seat belt buckle   |
+Type of movement or motion that a ride vehicle experiences during a ride.
+
+| Type | Description |
+| --- | --- |
+| `Dynamic` | Unpredictable, changing movements |
+| `Flipping` | Ride vehicle flips or rotates in a circle |
+| `Motion Simulation` | Simulates real vehicle motion |
+| `Spinning` | Ride vehicle rotates in a circular motion |
+| `Swinging` | Features a back-and-forth swinging motion |
+| `Tilting` | Ride vehicle tilts or leans to one side |
+
+### Restraint System
+The mechanisms used to secure riders in a ride vehicle.
+
+| System | Description |
+| --- | --- |
+| `Back restraint` | Supports the rider's back |
+| `Lap bar` | Secures the rider with a bar across the lap |
+| `Leg restraint` | Secures the rider's legs in place |
+| `Seat belt` | Secures the rider with a belt |
+| `Shoulder restraint` | Secures the rider's shoulders in place |
 
 ### Onboard features
 
-| Type        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `Audio`     | Onboard speaker system						 |
-| `Screen`  | Onboard display screen         |
-| `Lighting`   | Onboard exterior or interior lights	     |
-| `Effects` |    Sensory enhancing effects such as mist and scents |
-| `Ornaments` | Exterior decorative elements, badges or accessories   |
-| `Animatronics` | Onboard vehicle animatronics |
+Amenities and technologies that are integrated into a ride vehicle to enhance the rider experience.
+
+| Feature        | Description |
+| --- | --- |
+| `Animatronics` | Robotic characters or creatures |
+| `Audio` | Sound effects, music, or narration |
+| `Sensory effects` | Wind, water, scents, or other sensory effects |
+| `Lighting` | Special lighting effects such as strobes or lasers |
+| `Theming elements` | Decorative elements such as props or set dressing |
+| `Visual display` | Screens, projections, or other visual displays |
+| `Vibration` | Vibration or motion simulation effects |
 
 ### Configuration
 
-| Config        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `Train`     | Vehicles are linked together						 |
-| `Individual vehicles`  | Vehicles operate independently           |
+| Config        | Description |
+| --- | --- |
+| `Train` | Linked vehicles |
+| `Individual vehicles` | Vehicles operate independently |
 
 ### Arrangement
+| Spec        | Description |
+| --- | --- |
+| `Total trains` | Total number of trains |
+| `Total vehicles` | Total number of vehicles |
+| `Vehicles per train` | Number of vehicles per train |
+| `Rows per vehicle` | Number of rows per vehicle |
+| `Seats per row` | Number of seats in a row |
+| `Passengers per train` | Total capacity per train |
 
-| Spec        | Summary                                  	             |
-| ------------- | ------------------------------------------------------ |
-| `Total trains`   | Total number of trains						 |
-| `Total vehicles`  | Total number of vehicles          |
-| `Vehicles per train`   | Number of vehicles per train     	 |
-| `Rows per vehicle` | Number of rows per vehicle    |
-| `Seats per row` | Number of seats in a horizontal row    |
-| `Passengers per train` | Total capacity of passengers per train |

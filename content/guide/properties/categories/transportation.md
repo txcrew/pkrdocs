@@ -1,17 +1,16 @@
 ---
-title: "Characters"
+title: "Transportation"
 toc: false
 ---
 
-<i class="bigIcon">{{< icon "character" >}}</i>
+<i class="bigIcon">{{< icon "cruiseShip" >}}</i>
 
-
-A costumed performer who embodies a fictional persona, typically from a popular story, franchise or brand.
+A system or vehicle for moving guests around a park or resort.
 
 ## Example
-* Mickey Mouse
-* Disney princesses
-* Historical reenactor
+* Bus
+* Boat
+* Monorail
 
 ## Relevant classifications
 

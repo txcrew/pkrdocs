@@ -5,10 +5,18 @@ toc: false
 
 <i class="bigIcon">{{< icon "attraction" >}}</i>
 
-Place or activity that draws people in for its distinctive experience or entertainment appeal. Attractions can be natural or manufactured experiences that are often rooted in historical or cultural significance.
+A specific experience or activity that draws visitors to a park or resort, often featuring unique or interactive elements.
 
 ## Example
 
-* Spaceship Earth at EPCOT
-* London Eye in London, England
-* Hometown Fun Machine at Six Flags Great America
+* Haunted House
+* 4D Movie
+* Museum Exhibit
+
+## Relevant classifications
+
+{{< cards  >}}
+  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
+  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
+  {{< card link="dining" title="Dining" icon="dining" >}}
+{{< /cards >}}

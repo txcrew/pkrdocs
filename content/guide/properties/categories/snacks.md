@@ -5,9 +5,16 @@ toc: false
 
 <i class="bigIcon">{{< icon "snack" >}}</i>
 
-Small, easy-to-consume foods that reflect the park's unique culinary offerings, including themed treats and regional specialties.
+A unique or iconic food item that is exclusive to a specific park or resort.
 
 ## Example
-* Dole Whip at Disneyland
-* Cinnamon Bread at Dollywood
-* Butterbeer at Universal Studios Florida
+* Dole Whip
+* Cinnamon Bread
+* Butterbeer
+
+## Relevant classifications
+
+{{< cards  >}}
+  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
+  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
+{{< /cards >}}

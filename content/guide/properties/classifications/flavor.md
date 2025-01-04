@@ -2,43 +2,27 @@
 title: "Flavor profile"
 linkTitle: "Flavor"
 ---
-<br />
+
 {{< badge "Snack" >}}
+{{< badge content="Mult-select" type="info" >}}
 
-A combination of taste characteristics and aromatic elements that define the overall sensory experience of a food or beverage.
+The distinct taste characteristics of a food or drink.
 
-{{% details title="Bitter" closed="true" %}}
-Sharp and pungent flavor often considered unpleasant.
-{{% /details %}}
+## Bitter
+Sharp, unpleasant taste often associated with dark chocolate, coffee, and some vegetables.
 
-{{% details title="Salty" closed="true" %}}
-Savory taste that typically enhances flavor in foods.
-{{% /details %}}
+## Salty
+Savory taste often associated with foods high in sodium, such as pretzels, chips, and popcorn.
 
-{{% details title="Sour" closed="true" %}}
-something
-{{% /details %}}
+## Sour
+Sharp, acidic taste often associated with citrus fruits, such as lemons and limes.
 
-{{% details title="Spicy" closed="true" %}}
-something
-{{% /details %}}
+## Spicy
+Pungent, fiery taste often associated with foods containing chili peppers or other spicy ingredients.
 
-{{% details title="Sweet" closed="true" %}}
-something
-{{% /details %}}
+## Sweet
+Pleasant, sugary taste often associated with desserts, fruits, and sweet treats.
 
-{{% details title="Umami" closed="true" %}}
-something
-{{% /details %}}
-
-
-
-
-
-
-
-
-
-
-
+## Umami
+Savory, meaty taste often associated with foods high in glutamates, such as mushrooms, soy sauce, and fish.
 
