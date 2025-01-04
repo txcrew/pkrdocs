@@ -20,4 +20,5 @@ A type of experience that involves sliding down a water-based surface.
   {{< card link="../../classifications/slideconfig" title="Slide configuration" >}}
   {{< card link="../../classifications/slideenclosure" title="Slide enclosure" >}}
   {{< card link="../../classifications/slidelanding" title="Slide landing" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
 {{< /cards >}}
