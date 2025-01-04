@@ -16,7 +16,8 @@ A type of experience that involves sliding down a water-based surface.
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/slidetype" title="Slide type" >}}
+  {{< card link="../../classifications/slideconfig" title="Slide configuration" >}}
+  {{< card link="../../classifications/slideenclosure" title="Slide enclosure" >}}
+  {{< card link="../../classifications/slidelanding" title="Slide landing" >}}
 {{< /cards >}}

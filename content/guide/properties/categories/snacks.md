@@ -15,6 +15,7 @@ A unique or iconic food item that is exclusive to a specific park or resort.
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
-  {{< card link="../../classifications/cuisine" title="Cuisine" icon="rollerCoaster" >}}
+  {{< card link="../../classifications/cuisine" title="Cuisine" >}}
+  {{< card link="../../classifications/flavor" title="Flavor" >}}
+  {{< card link="../../classifications/snack" title="Snack type" >}}
 {{< /cards >}}

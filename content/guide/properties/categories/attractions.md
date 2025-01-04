@@ -16,7 +16,9 @@ A specific experience or activity that draws visitors to a park or resort, often
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/attraction" title="Attraction type" >}}
+  {{< card link="../../classifications/experience" title="Experience" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
+  {{< card link="../../classifications/accessibility" title="Accessibility" >}}
+  {{< card link="../../classifications/sensory" title="Sensory warning" >}}
 {{< /cards >}}

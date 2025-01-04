@@ -25,7 +25,3 @@ A park specific example: The `venue` for *Guardians of the Galaxy: Cosmic Rewind
      {{< /filetree/folder >}}
   {{< /filetree/folder >}}
 {{< /filetree/container >}}
-
-
-## Tracking
-Venues use inferred tracking based your activity within.

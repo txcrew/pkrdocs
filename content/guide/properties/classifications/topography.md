@@ -2,7 +2,7 @@
 title: "Ride Topography"
 linkTitle: "Topography"
 ---
-{{< badge "Coaster" >}}
+<br />
 {{< badge "Ride"  >}}
 
 Ride topography refers to the shape and layout of a ride's track or course.

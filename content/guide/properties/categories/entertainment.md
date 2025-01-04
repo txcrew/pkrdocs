@@ -18,7 +18,8 @@ A variety of engaging, rehearsed performances typically featuring live actcors a
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/entertainment" title="Entertainment type" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
+  {{< card link="../../classifications/accessibility" title="Accessibility" >}}
+  {{< card link="../../classifications/sensory" title="Sensory warning" >}}
 {{< /cards >}}

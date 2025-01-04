@@ -4,14 +4,8 @@ title: "Accessibility"
 
 {{< badge content="Attraction" >}}
 {{< badge content="Coaster" >}}
-{{< badge content="Cruise ship" >}}
-{{< badge content="Dining" >}}
 {{< badge content="Entertainment" >}}
-{{< badge content="Hotel" >}}
 {{< badge content="Ride" >}}
-{{< badge content="Shop" >}}
-{{< badge content="Stadium" >}}
-{{< badge content="Transportation" >}}
 {{< badge content="Mult-select" type="info" >}}
 
 Accommodations that make a ride or attraction accessible to guests who are differently abled.
