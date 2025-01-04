@@ -22,4 +22,5 @@ Food vendors in parks including restaurants, cafés, booths and carts that typic
   {{< card link="../../classifications/diningFormat" title="Dining format" >}}
   {{< card link="../../classifications/food" title="Food type" >}}
   {{< card link="../../classifications/drinkType" title="Drink type" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
 {{< /cards >}}

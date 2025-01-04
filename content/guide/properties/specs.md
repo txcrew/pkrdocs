@@ -7,114 +7,35 @@ Factual and quantitative assessments of a specific property, typically expressed
 
 ## Measurements
 
-### Elevation
-Vertical distance from base to peak
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Drop
-Longest sudden descent or vertical plunge
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Descent angle
-Steepness of a track or ride segment
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Length
-Overall length of a track course
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Top speed
-Maximum speed reached during operation
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### G-force
-Maximum sustained g-forces experienced
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Inversions
-Total number of inversions
-{{< badge "Coaster" >}}
-
-### Footprint
-Area of the base of a structure
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-{{< badge "Dining" >}}
-
-### Throughput
-Number of passengers accommodated per unit of time
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Capacity
-Number of passengers accommodated at one time
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-{{< badge "Venue" >}}
-{{< badge "Stadium" >}}
-{{< badge "Transportation" >}}
-
-### Rooms
-Space providing accommodations for guests
-{{< badge "Hotel" >}}
-{{< badge "Cruise ship" >}}
-
-### Decks
-Number of decks on a cruise ship
-{{< badge "Cruise ship" >}}
-
-### Build cost
-Estimated cost of a build project
-{{< badge "Area" >}}
-{{< badge "Attraction" >}}
-{{< badge "Coaster" >}}
-{{< badge "Cruise ship" >}}
-{{< badge "District" >}}
-{{< badge "Hotel" >}}
-{{< badge "Park" >}}
-{{< badge "Ride" >}}
-{{< badge "Stadium" >}}
-{{< badge "Venue" >}}
-{{< badge "Water slide" >}}
-
-
+| Measurement | Description |
+| --- | --- |
+| `Elevation` | Vertical distance from base to peak |
+| `Drop` | Longest sudden descent or vertical plunge |
+| `Descent angle` | Steepness of a track or ride segment |
+| `Length` | Overall length of a track course |
+| `Top speed` | Maximum speed reached during operation |
+| `G-force` | Maximum sustained g-forces experienced |
+| `Inversions` | Total number of inversions |
+| `Footprint` | Area of the base of a structure |
+| `Throughput` | Number of passengers accommodated per unit of time |
+| `Capacity` | Number of passengers accommodated at one time |
+| `Rooms` | Space providing accommodations for guests |
+| `Decks` | Number of decks on a cruise ship |
+| `Build cost` | Estimated cost of a build project |
 
 ## Time
 
 Various metrics used to describe the time-related characteristics of a property.
 
-### Duration
-Total length of the ride experience
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-{{< badge "Entertainment" >}}
-
-### Time to top speed
-Time to reach top speed from a launch
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Sustained air time
-Longest period of weightlessness
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
-
-### Total air time
-Total time spent in weightlessness
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
+| Measurement | Description |
+| --- | --- |
+| `Duration` | Total length of the ride experience |
+| `Time to top speed` | Time to reach top speed from a launch |
+| `Sustained air time` | Longest period of weightlessness |
+| `Total air time` | Total time spent in weightlessness |
 
 
 ## Vehicle
-
-{{< badge "Ride" >}}
-{{< badge "Coaster" >}}
 
 ### Vehicle motion
 

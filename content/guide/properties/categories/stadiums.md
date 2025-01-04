@@ -14,6 +14,3 @@ Outdoor or indoor venue designed for spectator sports, concerts, or other events
 * Fenway Park - Boston, USA
 * Maracanã Stadium - Rio de Janeiro, Brazil
 * Yankee Stadium - New York City, USA
-
-
-  {{< card link="../../classifications/merch" title="Cuisine" >}}
