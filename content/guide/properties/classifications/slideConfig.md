@@ -3,6 +3,7 @@ title: "Slide configuration"
 linkTitle: "Slide config"
 ---
 {{< badge "Water slide" >}}
+{{< badge content="Mult-select" type="info" >}}
 
 Slide configuration refers to the various shapes and designs of water slides.
 

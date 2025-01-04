@@ -2,8 +2,9 @@
 title: "Flavor profile"
 linkTitle: "Flavor"
 ---
-<br />
+
 {{< badge "Snack" >}}
+{{< badge content="Mult-select" type="info" >}}
 
 The distinct taste characteristics of a food or drink.
 
@@ -24,15 +25,4 @@ Pleasant, sugary taste often associated with desserts, fruits, and sweet treats.
 
 ## Umami
 Savory, meaty taste often associated with foods high in glutamates, such as mushrooms, soy sauce, and fish.
-
-
-
-
-
-
-
-
-
-
-
 

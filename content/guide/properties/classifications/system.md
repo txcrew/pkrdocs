@@ -2,14 +2,11 @@
 title: "Ride system"
 ---
 
+{{< badge content="Coaster" >}}
+{{< badge content="Ride" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 Ride system refers to the mechanical and technological components that power and control a ride.
-
-
-{{< cards  >}}
-  {{< card link="coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
-{{< /cards >}}
 
 ## Cable Lift
 Cable-based mechinism pulls vehicles up an incline.

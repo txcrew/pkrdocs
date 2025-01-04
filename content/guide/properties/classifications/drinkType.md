@@ -3,6 +3,9 @@ title: "Drink types"
 linkTitle: "Drinks"
 ---
 
+{{< badge content="Dining" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 The various categories of beverages that are served at a restaurant or bar.
 
 ## Beer

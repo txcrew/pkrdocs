@@ -1,6 +1,7 @@
 ---
 title: "Slide type"
 ---
+<br/>
 {{< badge "Water slide" >}}
 
 Slide type refers to the various categories of water slides.

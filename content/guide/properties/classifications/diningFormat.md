@@ -3,6 +3,9 @@ title: "Dining format"
 linkTitle: "Format"
 ---
 
+{{< badge content="Dining" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 The style or type of service that a dining property provides.
 
 ## Buffet

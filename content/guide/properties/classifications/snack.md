@@ -2,6 +2,7 @@
 title: "Snack type"
 linkTitle: "Snack"
 ---
+<br/>
 {{< badge "Snack" >}}
 
 Various categories of snacks, each with its own unique characteristics and features.

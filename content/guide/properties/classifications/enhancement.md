@@ -6,6 +6,10 @@ title: "Enhancement"
 {{< badge "Coaster" >}}
 {{< badge "Dining" >}}
 {{< badge "Entertainment" >}}
+{{< badge "Ride" >}}
+{{< badge "Water slide" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 
 Enhancements refer to the additional features or elements that are incorporated into a ride or attraction to enhance the overall experience.
 

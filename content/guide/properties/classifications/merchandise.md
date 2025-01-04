@@ -3,8 +3,8 @@ title: "Merchandise type"
 linkTitle: "Merchandise"
 ---
 
-<br />
 {{< badge "Shop" >}}
+{{< badge content="Mult-select" type="info" >}}
 
 The category or class of goods available for sale, distinguishing items based on their characteristics, uses or markets.
 

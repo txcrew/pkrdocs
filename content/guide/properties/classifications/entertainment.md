@@ -1,8 +1,10 @@
 ---
 title: "Entertainment type"
 ---
+<br/>
+{{< badge "Entertainment" >}}
 
-The style or genre of entertainment that a show provides.
+The primary style or genre of entertainment that a show provides.
 
 ## Aerial performance
 Features performers who fly or soar through the air.

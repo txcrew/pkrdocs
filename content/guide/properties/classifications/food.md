@@ -3,6 +3,9 @@ title: "Food types"
 linkTitle: "Food"
 ---
 
+{{< badge "Dining" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 The various genres of food that are served at a dining property.
 
 ## Appetizers

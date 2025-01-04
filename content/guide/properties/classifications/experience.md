@@ -2,8 +2,12 @@
 title: "Experience"
 linkTitle: "Experience"
 ---
+
+{{< badge "Attraction" >}}
 {{< badge "Coaster" >}}
 {{< badge "Ride" >}}
+{{< badge "Water slide" >}}
+{{< badge content="Mult-select" type="info" >}}
 
 Experience refers to the overall atmosphere and sensations that a ride provides to its riders.
 

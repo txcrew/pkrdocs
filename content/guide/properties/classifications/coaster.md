@@ -1,6 +1,8 @@
 ---
 title: "Coaster Type"
 ---
+<br/>
+{{< badge content="Coaster" >}}
 
 A classification of roller coasters based on their materials and construction.
 

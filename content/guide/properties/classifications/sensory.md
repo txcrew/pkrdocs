@@ -3,6 +3,13 @@ title: "Sensory warnings"
 linkTitle: "Sensory"
 ---
 
+{{< badge content="Attraction" >}}
+{{< badge content="Coaster" >}}
+{{< badge content="Entertainment" >}}
+{{< badge content="Ride" >}}
+{{< badge content="Water slide" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 Sensory warnings refer to notifications and alerts about potential sensory stimuli that may be encountered during a ride or attraction.
 
 ## Confined or Enclosed Spaces

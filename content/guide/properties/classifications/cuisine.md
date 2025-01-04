@@ -2,6 +2,9 @@
 title: "Cuisine"
 ---
 
+{{< badge content="Dining" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 Cuisine refers to the style or type of food that is served at a restaurant or eatery.
 
 ## Asian

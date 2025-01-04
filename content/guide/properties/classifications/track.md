@@ -1,6 +1,8 @@
 ---
 title: "Track Variation"
 ---
+<br/>
+{{< badge content="Coaster" >}}
 
 The unique design elements or features that distinguish a ride's track from others, focusing on the framework and structure of the track itself.
 

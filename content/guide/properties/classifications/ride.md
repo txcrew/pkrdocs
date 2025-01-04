@@ -1,6 +1,8 @@
 ---
 title: "Ride Type"
 ---
+<br/>
+{{< badge "Ride" >}}
 
 Ride type refers to the general category or classification of a ride based on its design and functionality.
 

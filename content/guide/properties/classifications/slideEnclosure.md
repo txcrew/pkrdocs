@@ -2,7 +2,9 @@
 title: "Slide Enclosure"
 linkTitle: "Snack"
 ---
+<br/>
 {{< badge "Water slide" >}}
+
 
 Slide enclosure refers to the various types of coverings or surroundings that water slides can have.
 

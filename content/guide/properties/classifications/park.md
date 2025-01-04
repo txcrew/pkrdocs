@@ -2,8 +2,7 @@
 title: "Park type"
 linkTitle: "Park"
 ---
-
-<br />
+<br/>
 {{< badge "Park" >}}
 
 Various categories of parks, each with its own unique characteristics and features.

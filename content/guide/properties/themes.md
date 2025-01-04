@@ -2,6 +2,23 @@
 title: "Themes"
 weight: 50
 ---
+<br />
+{{< badge content="Area" >}}
+{{< badge content="Attraction" >}}
+{{< badge content="Coaster" >}}
+{{< badge content="Cruise ship" >}}
+{{< badge content="Dining" >}}
+{{< badge content="District" >}}
+{{< badge content="Entertainment" >}}
+{{< badge content="Hotel" >}}
+{{< badge content="Park" >}}
+{{< badge content="Ride" >}}
+{{< badge content="Shop" >}}
+{{< badge content="Stadium" >}}
+{{< badge content="Transportation" >}}
+{{< badge content="Venue" >}}
+{{< badge content="Water slide" >}}
+{{< badge content="Mult-select (limit 4)" type="info" >}}
 
 An overarching narrative and atmosphere that guides the design and experience of a property, encompassing visual aesthetics, architecture and storytelling.
 

@@ -2,6 +2,9 @@
 title: "Attraction type"
 ---
 
+{{< badge content="Attraction" >}}
+{{< badge content="Mult-select" type="info" >}}
+
 A classification of attractions based on their design and purpose.
 
 ## Amenity

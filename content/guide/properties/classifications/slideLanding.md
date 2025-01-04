@@ -1,6 +1,7 @@
 ---
 title: "Slide landing"
 ---
+<br/>
 {{< badge "Water slide" >}}
 
 Slide landing refers to the various types of surfaces or areas that riders land on after sliding down a water slide.
