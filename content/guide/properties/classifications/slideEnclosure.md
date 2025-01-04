@@ -1,6 +1,5 @@
 ---
-title: "Slide Enclosure"
-linkTitle: "Snack"
+title: "Slide enclosure"
 ---
 <br/>
 {{< badge "Water slide" >}}

@@ -57,6 +57,8 @@ Tags to breakdown property types according to specific criteria, simplifying ide
 
   {{< card link="track" title="Track variation" subtitle="Unique coaster track features" >}}
 
+  {{< card link="transportation" title="Transportation type" subtitle="Moving guests around a park or resort." >}}
+
 
 {{< /cards >}}
 

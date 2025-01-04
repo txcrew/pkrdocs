@@ -19,7 +19,5 @@ Retail outlet where visitors can purchase food, beverages, souvenirs, or recreat
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/merch" title="Merchandise type" >}}
 {{< /cards >}}

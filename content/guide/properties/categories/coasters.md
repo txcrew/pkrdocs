@@ -17,7 +17,12 @@ A ride that uses gravity and inertial forces to propel a train along a track, al
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/coaster" title="Coaster type" >}}
+  {{< card link="../../classifications/track" title="Track variation" >}}
+  {{< card link="../../classifications/position" title="Riding position" >}}
+  {{< card link="../../classifications/experience" title="Experience" >}}
+  {{< card link="../../classifications/system" title="Ride system" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
+  {{< card link="../../classifications/accessibility" title="Accessibility" >}}
+  {{< card link="../../classifications/sensory" title="Sensory warning" >}}
 {{< /cards >}}

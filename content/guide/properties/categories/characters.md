@@ -12,11 +12,3 @@ A costumed performer who embodies a fictional persona, typically from a popular 
 * Mickey Mouse
 * Disney princesses
 * Historical reenactor
-
-## Relevant classifications
-
-{{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
-{{< /cards >}}

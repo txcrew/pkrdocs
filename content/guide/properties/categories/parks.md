@@ -15,7 +15,5 @@ A designated area for recreation and enjoyment often featuring natural landscape
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/park" title="Park type" >}}
 {{< /cards >}}

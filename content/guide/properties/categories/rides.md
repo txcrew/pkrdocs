@@ -15,7 +15,12 @@ A general term for any type of experience that involves a vehicle or motion.
 ## Relevant classifications
 
 {{< cards  >}}
-  {{< card link="../../categories/coasters" title="Coasters" icon="rollerCoaster" >}}
-  {{< card link="cruises" title="Cruise ships" icon="cruiseShip" >}}
-  {{< card link="dining" title="Dining" icon="dining" >}}
+  {{< card link="../../classifications/ride" title="Ride type" >}}
+  {{< card link="../../classifications/position" title="Riding position" >}}
+  {{< card link="../../classifications/experience" title="Experience" >}}
+  {{< card link="../../classifications/topography" title="Ride topography" >}}
+  {{< card link="../../classifications/system" title="Ride system" >}}
+  {{< card link="../../classifications/enhancement" title="Enhancement" >}}
+  {{< card link="../../classifications/accessibility" title="Accessibility" >}}
+  {{< card link="../../classifications/sensory" title="Sensory warning" >}}
 {{< /cards >}}
