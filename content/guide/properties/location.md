@@ -46,5 +46,3 @@ It can be inferred that `Test Track` is in `EPCOT` based on the closest proeprty
 * `Tomorrowland` is in located within `Magic Kingdom`
 * `California Adventure` is located within `Disneyland Resort`
 * `Brooklyn` is located within `New York City`
-
-

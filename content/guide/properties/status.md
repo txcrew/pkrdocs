@@ -11,11 +11,11 @@ The operational status reflects the physical state of a property. An operational
 
 | Status        | Summary                                                |
 | ------------- | ------------------------------------------------------ |
-| `active`      | Physically exists; daily operation not withstanding                                      |
-| `defunct`     | The property in the documented state no longer exists  |
-| `development` | Doesn’t exist just yet, but it's planned!     |
-| `seasonal`    | Operates a few months out of the year            |
-| `unknown`     | Not sure about the status                |
+| **Active**      | Physically exists; daily operation not withstanding                                      |
+| **Defunct**    | The property in the documented state no longer exists  |
+| **Development** | Doesn’t exist just yet, but it's planned!     |
+| **Seasonal**    | Operates a few months out of the year            |
+| **Unknown**     | Not sure about the status                |
 
 ## Example
 
@@ -31,7 +31,15 @@ The operational status reflects the physical state of a property. An operational
 ## Usage
 
 The operational status should be updated when a property is:
-* Announced - typically as `development` unless it's announced on the `start date`
-* Opens - as `active` usually coincides with `start date`
-* Closes - `defunct` usually coincides with `end date` but it can differ as properties can experience extended, or indefinite closures
-* Indefinite closure - `unknown`
+
+Announced
+: Typically as `development` unless it's announced on the `start date`
+
+Opens
+: as `active` usually coincides with `start date`
+
+Closes
+: `defunct` usually coincides with `end date` but it can differ as properties can experience extended, or indefinite closures
+
+Indefinite closure
+: `unknown`

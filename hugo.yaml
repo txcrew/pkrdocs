@@ -33,6 +33,9 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+    
+  page:
+    width: full
 
   footer:
     displayCopyright: true

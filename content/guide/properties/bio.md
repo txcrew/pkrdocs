@@ -3,19 +3,12 @@ title: "Bio"
 weight: 70
 ---
 
-<br />
+These metrics are typically used for comedic value and are not meant to be taken literally. They are often exaggerated, humorous, or entirely fictional, and are used to add to the character's personality and charm.
 
-{{< badge "Character" >}}
-
-Crafted narrative that outlines the character's imaginative backstory, traits and characteristics.
-
-{{< callout emoji="😆" >}}
-These details are typically made up and added for comedic value.
-{{< /callout >}}
 
 | Detail        | Summary                                  	             |
 | ------------- | ------------------------------------------------------ |
-| `Height`   | Measurement of a character's stature or presence |
-| `Weight`  | Fictional value or comparison    |
-| `Profession`   | Embodying skills, expertise and character-driven purpose   	     |
-| `Alias` | Assumed name or nickname    |
+| **Height**   | Measurement of a character's stature or presence |
+| **Weight**  | Fictional value or comparison    |
+| **Profession**   | Embodying skills, expertise and character-driven purpose   	     |
+| **Alias** | Assumed name or nickname    |
