@@ -6,59 +6,19 @@ weight: 60
 Property details presented as a fictional theme, incorporating elements of the backstory or lore.
 
 ## Types
-{{< badge content="Area" >}}
-{{< badge content="Attraction" >}}
-{{< badge content="Coaster" >}}
-{{< badge content="Cruise ship" >}}
-{{< badge content="Dining" >}}
-{{< badge content="District" >}}
-{{< badge content="Park" >}}
-{{< badge content="Ride" >}}
-{{< badge content="Shop" >}}
-{{< badge content="Venue" >}}
-{{< badge content="Water slide" >}}
 
-
-### Backstory
-Fictional narrative explaining origins and context
-
-### Corporate entity
-Organized group engaged in commercial activities
-
-### Proprietor
-Owner or manager of a fictional establishment
-
-### Slogan
-Memorable phrase enhancing the narrative
-
-### Staff role
-Presented title of operating crew members
-
-### Guest role
-Title given to guests during an experience
-
-### Vehicle
-The presented model of a ride vehicle
-{{< badge content="Coaster" >}}
-{{< badge content="Ride" >}}
-{{< badge content="Water slide" >}}
-
-### Vehicle name
-The proper noun given to vehicles
-{{< badge content="Coaster" >}}
-{{< badge content="Ride" >}}
-{{< badge content="Water slide" >}}
-
-### Restraint
-Presented name of the restraining device used
-{{< badge content="Coaster" >}}
-{{< badge content="Ride" >}}
-
-### Accessory
-Presented name of accessories used
-{{< badge content="Coaster" >}}
-{{< badge content="Ride" >}}
-
+| Term | Description |
+| --- | --- |
+| **Backstory** | Fictional history of the story |
+| **Corporate entity** | Fictional company or organization |
+| **Proprietor** | Fictional owner or manager |
+| **Slogan** | Catchphrase or motto within the story |
+| **Staff role** | Fictional job title for characters |
+| **Guest role** | Title given to visitors within the story |
+| **Vehicle** | Fictional design of a ride car |
+| **Vehicle name** | Name given to a vehicle within the story |
+| **Restraint** | Fictional safety device or harness |
+| **Accessory** | Item or feature within the story |
 
 
 ## Example
