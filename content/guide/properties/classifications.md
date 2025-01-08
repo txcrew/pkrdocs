@@ -694,9 +694,6 @@ Fresh Fruit
 Grilled Meats
 : Meats grilled over an open flame, such as hot dogs, burgers, and chicken breasts.
 
-International Cuisine
-: Snacks inspired by international cuisines, such as tacos, sushi, and falafel.
-
 Popcorn
 : A snack made from popped kernels of corn, often flavored with seasonings or toppings.
 
