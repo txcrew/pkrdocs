@@ -30,9 +30,10 @@ Various metrics used to describe the time-related characteristics of a property.
 | Metric | Description |
 | --- | --- |
 | **Duration** | Total length of the ride experience |
-| **Time to top speed** | Time to reach top speed from a launch |
+| **Acceleration time** | Time to reach top speed from a launch |
 | **Sustained air time** | Longest period of weightlessness |
 | **Total air time** | Total time spent in weightlessness |
+
 
 
 ## Vehicle
