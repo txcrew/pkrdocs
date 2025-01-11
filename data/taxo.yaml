@@ -1,0 +1,1018 @@
+Location:
+  Map:
+    type: Map
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Located within:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+Classifications:
+
+  Attraction type:
+    type: SelectAddable
+    values:
+      - Attraction
+
+  Park type:
+    type: Select
+    values:
+      - Park
+
+  Entertainment type:
+    type: SelectAddable
+    values:
+      - Entertainment
+
+  Slide type:
+    type: Select
+    values:
+      - Water slide
+
+  Merchandise type:
+    type: SelectAddable
+    values:
+      - Shop
+
+  Coaster type:
+    type: Select
+    values:
+      - Coaster
+
+  Track variation:
+    type: Select
+    values:
+      - Coaster
+
+  Character type:
+    type: Select
+    values:
+      - Character
+
+  Ride type:
+    type: Select
+    values:
+      - Ride
+
+  Experience:
+    type: SelectAddable
+    values:
+      - Attraction
+      - Coaster
+      - Entertainment
+      - Event
+      - Ride
+      - Water slide
+
+  Ride topography:
+    type: Select
+    values:
+      - Ride
+
+  Ride system:
+    type: SelectAddable
+    values:
+      - Coaster
+      - Ride
+
+  Cuisine:
+    type: SelectAddable
+    values:
+      - Dining
+      - Snack
+
+  Food type:
+    type: SelectAddable
+    values:
+      - Dining
+
+  Drink type:
+    type: SelectAddable
+    values:
+      - Dining
+
+  Dining format:
+    type: SelectAddable
+    values:
+      - Dining
+
+  Snack type:
+    type: Select
+    values:
+      - Snack
+
+  Flavor profile:
+    type: SelectAddable
+    values:
+      - Snack
+
+  Slide configuration:
+    type: SelectAddable
+    values:
+      - Water slide
+
+  Slide enclosure:
+    type: Select
+    values:
+      - Water slide
+
+  Slide landing:
+    type: Select
+    values:
+      - Water slide
+
+  Transit system:
+    type: Select
+    values:
+      - Transportation
+
+  Enhancements:
+    type: SelectAddable
+    values:
+      - Attraction
+      - Coaster
+      - Dining
+      - Entertainment
+      - Event
+      - Ride
+      - Transportation
+      - Water slide
+
+  Accessibility:
+    type: SelectAddable
+    values:
+      - Attraction
+      - Coaster
+      - Ride
+
+  Sensory Warnings:
+    type: SelectAddable
+    values:
+      - Attraction
+      - Coaster
+      - Ride
+      - Dining
+      - Entertainment
+      - Event
+      - Ride
+      - Water slide
+
+  Ticketed:
+    type: Boolean
+    values:
+      - Attraction
+      - Coaster
+      - District
+      - Entertainment
+      - Event
+      - Park
+      - Ride
+      - Water slide
+
+Measurements:
+  Height:
+    type: DoubleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Drop height:
+    type: DoubleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Descent angle:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Length:
+    type: DoubleString
+    values:
+      - Coaster
+      - Cruise ship
+      - Ride
+      - Water slide
+
+  Top speed:
+    type: DoubleString
+    values:
+      - Coaster
+      - Cruise ship
+      - Ride
+      - Water slide
+
+  G-force:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Inversions:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Footprint:
+    type: DoubleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Stadium
+      - Venue
+      - Water slide
+
+  Throughput:
+    type: DoubleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Capacity:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Stadium
+      - Transportation
+      - Venue
+
+  Tonnage:
+    type: DoubleString
+    values:
+      - Cruise ship
+
+  Rooms:
+    type: SingleString
+    values:
+      - Cruise ship
+      - Hotel
+
+  Decks:
+    type: SingleString
+    values:
+      - Cruise ship
+
+  Build cost:
+    type: DoubleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - District
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+Time:
+  Duration:
+    type: Time
+    values:
+      - Attraction
+      - Coaster
+      - Entertainment
+      - Ride
+      - Water slide
+
+  Acceleration time:
+    type: Time
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Sustained airtime:
+    type: Time
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Total airtime:
+    type: Time
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+Vehicle:
+  On-board features:
+    type: SelectAddable
+    values:
+      - Coaster
+      - Ride
+
+  Restraint system:
+    type: SelectAddable
+    values:
+      - Coaster
+      - Ride
+
+  Riding position:
+    type: Select
+    values:
+      - Coaster
+      - Ride
+
+  Vehicle motion:
+    type: SelectAddable
+    values:
+      - Coaster
+      - Ride
+
+  Height restriction:
+    type: DoubleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+Arrangement:
+  Configuration:
+    type: Select
+    values:
+      - Coaster
+      - Ride
+
+  Total vehicles:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Total trains:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Total trains:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Vehicles per train:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Vehicles per train:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Rows per vehicle:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Seats per row:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Passengers per train:
+    type: Sum
+    values:
+      - Coaster
+      - Ride
+
+  Passengers per vehicle:
+    type: Sum
+    values:
+      - Coaster
+      - Ride
+
+Lore:
+  Themes:
+    type: SelectAddable
+    values:
+      - Area
+      - Attraction
+      - Character
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Ride
+      - Shop
+      - Venue
+      - Water slide
+
+  Backstory:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Character
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+  Corporate entity:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+  Proprietor:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+  Slogan:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+  Staff role:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Venue
+      - Water slide
+
+  Guest role:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Venue
+      - Water slide
+
+  Vehicle:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+      - Water slide
+
+  Vehicle name:
+    type: SingleStringAddable
+    values:
+      - Coaster
+      - Ride
+
+  Restraint:
+    type: SingleString
+    values:
+      - Coaster
+      - Ride
+
+  Accessory:
+    type: SingleStringAddable
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Ride
+      - Water slide
+
+Bio:
+  Height:
+    type: SingleString
+    values:
+      - Character
+  Weight:
+    type: SingleString
+    values:
+      - Character
+
+  Profession:
+    type: SingleStringAddable
+    values:
+      - Character
+
+  Species:
+    type: SingleString
+    values:
+      - Character
+
+  Alias:
+    type: SingleStringAddable
+    values:
+      - Character
+Palette:
+  Supports:
+    type: ColorAddable
+    values:
+      - Coaster
+  Track:
+    type: ColorAddable
+    values:
+      - Coaster
+  Vehicles:
+    type: ColorAddable
+    values:
+      - Coaster
+  Seats:
+    type: ColorAddable
+    values:
+      - Coaster
+  Restraint:
+    type: ColorAddable
+    values:
+      - Coaster
+
+Summary:
+  Insights:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Character
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+Creative team:
+  Owner:
+    type: Reference
+    values:
+      - Cruise ship
+      - Hotel
+      - Park
+      - Resort
+      - Stadium
+
+  President:
+    type: Reference
+    values:
+      - Cruise ship
+      - District
+      - Hotel
+      - Park
+      - Resort
+      - Stadium
+
+  Executive chef:
+    type: Reference
+    values:
+      - Cruise ship
+      - Dining
+      - Hotel
+      - Park
+      - Snack
+
+  Director:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Character
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Ride
+      - Shop
+      - Stadium
+      - Venue
+      - Water slide
+
+  Composer:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - District
+      - Entertainment
+      - Event
+      - Park
+      - Ride
+      - Water slide
+
+  Manufacturer:
+    type: Reference
+    values:
+      - Coaster
+      - Cruise ship
+      - District
+      - Park
+      - Ride
+      - Stadium
+      - Transportation
+      - Water slide
+
+  Designer:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Character
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Project manager:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Ride
+      - Shop
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+Point:
+  Type:
+    type: Select
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Replaced:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Replaced by:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Relocation:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - Entertainment
+      - Event
+      - Ride
+      - Shop
+      - Snack
+      - Transportation
+      - Venue
+      - Water slide
+
+  End date:
+    type: Option
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Name change:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Theme change:
+    type: Option
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Sponsorship:
+    type: Reference
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Date:
+    type: Date
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide
+
+  Notes:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Cruise ship
+      - Dining
+      - District
+      - Entertainment
+      - Event
+      - Hotel
+      - Park
+      - Resort
+      - Ride
+      - Shop
+      - Snack
+      - Stadium
+      - Transportation
+      - Venue
+      - Water slide

@@ -1,0 +1,10 @@
+{{ $category := .Get "category" }}
+{{ $taxonomy := (resources.Get "taxonomy.yaml").Value.taxonomy }}
+
+{{ range $taxonomy }}
+  {{ if eq $category .key }}
+    {{ range .value }}
+      {{ . }}
+    {{ end }}
+  {{ end }}
+{{ end }}

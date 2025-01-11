@@ -28,19 +28,3 @@ menu:
       weight: 4
       params:
         type: search
-
-params:
-  navbar:
-    displayTitle: true
-    displayLogo: false
-    
-  page:
-    width: full
-
-  footer:
-    displayCopyright: true
-    displayPoweredBy: false
-
-  editURL:
-    enable: false
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
