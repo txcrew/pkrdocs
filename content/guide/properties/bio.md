@@ -3,6 +3,8 @@ title: "Bio"
 weight: 70
 ---
 
+{{< options section="Bio" >}}
+
 These metrics are typically used for comedic value and are not meant to be taken literally. They are often exaggerated, humorous, or entirely fictional, and are used to add to the character's personality and charm.
 
 

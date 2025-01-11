@@ -1,0 +1,34 @@
+{{/* options.html */}}
+{{ $section := .Get "section" | lower }}
+{{ $option := .Get "option" | lower }}
+{{ $categories := slice }}
+{{ range $key, $value := .Site.Data.taxo }}
+  {{ if or (eq (lower $key) $section) }}
+    {{ if $option }}
+      {{ range $k, $v := $value }}
+        {{ if eq (lower $k) $option }}
+          {{ range $v.values }}
+            {{ $categories = $categories | append . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ range $k, $v := $value }}
+        {{ range $v.values }}
+          {{ $categories = $categories | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ else if $option }}
+    {{ range $k, $v := $value }}
+      {{ if eq (lower $k) $option }}
+        {{ range $v.values }}
+          {{ $categories = $categories | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if $categories }}
+   <em class="hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark">Applies to: {{ delimit ($categories | uniq) " • " }}</em>
+{{ end }}

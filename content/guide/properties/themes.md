@@ -2,6 +2,7 @@
 title: "Themes"
 weight: 50
 ---
+{{< options option="Themes" >}}
 
 An overarching narrative and atmosphere that guides the design and experience of a property, encompassing visual aesthetics, architecture and storytelling.
 

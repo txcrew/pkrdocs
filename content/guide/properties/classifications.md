@@ -7,6 +7,7 @@ weight: 20
 Tags to breakdown property types according to specific criteria, simplifying identification. There are various classifications per property type.
 
 ## Accessibility
+{{< options option="Accessibility" >}}
 
 Accommodations that make a ride or attraction accessible to guests who are differently abled.
 
@@ -29,6 +30,7 @@ Wheelchair Accessible
 : Allows guests with wheelchairs or mobility devices to access the ride or attraction.
 
 ## Attraction type
+{{< options option="Attraction type" >}}
 
 A classification of attractions based on their design and purpose.
 
@@ -54,6 +56,7 @@ Recreational Activity
 : Provides a recreational or leisure activity, such as games or sports.
 
 ## Character type
+{{< options option="Character type" >}}
 
 Costumed character
 : A person wearing a costume to portray a character.
@@ -65,6 +68,7 @@ Robotic character
 : A mechanical or animatronic representation of a character.
 
 ## Coaster type
+{{< options option="Coaster type" >}}
 
 A classification of roller coasters based on their materials and construction.
 
@@ -81,6 +85,7 @@ Wood
 : Wooden track and support structure.
 
 ## Cuisine
+{{< options option="Cuisine" >}}
 
 Cuisine refers to the style or type of food that is served at a restaurant or eatery.
 
@@ -106,6 +111,7 @@ Pacific
 : Features dishes and flavors from countries such as Hawaii, Australia, and New Zealand.
 
 ## Dining format
+{{< options option="Dining format" >}}
 
 The style or type of service that a dining property provides.
 
@@ -135,6 +141,7 @@ Tasting menu
 
 
 ## Drink type
+{{< options option="Drink type" >}}
 
 The various categories of beverages that are served at a restaurant or bar.
 
@@ -164,6 +171,7 @@ Wine
 
 
 ## Enhancement
+{{< options option="Enhancements" >}}
 
 Enhancements refer to the additional features or elements that are incorporated into a ride or attraction to enhance the overall experience.
 
@@ -219,6 +227,7 @@ Water Interaction
 : Features water effects, such as splashes, sprays, and geysers.
 
 ## Entertainment type
+{{< options option="Entertainment type" >}}
 
 The primary style or genre of entertainment that a show provides.
 
@@ -238,8 +247,9 @@ Streetmosphere
 : Roaming performers and characters who interact with guests in a designated area.
 
 ## Experience
+{{< options option="Experience" >}}
 
-overall atmosphere and sensations that a ride provides to its riders.
+Overall atmosphere and sensations that a ride provides to its riders.
 
 Dark
 : Takes place in a dimly lit or completely dark environment.
@@ -281,6 +291,7 @@ Tactile
 : Incorporates interactive elements that riders can touch or manipulate, influencing the ride experience.
 
 ## Flavor profile
+{{< options option="Flavor profile" >}}
 
 The distinct taste characteristics of a food or drink.
 
@@ -303,6 +314,7 @@ Umami
 : Savory, meaty taste often associated with foods high in glutamates, such as mushrooms, soy sauce, and fish.
 
 ## Food type
+{{< options option="Food type" >}}
 
 The various genres of food that are served at a dining property.
 
@@ -344,6 +356,7 @@ Vegetarian
 
 
 ## Merchandise type
+{{< options option="Merchandise type" >}}
 
 The category or class of goods available for sale, distinguishing items based on their characteristics, uses or markets.
 
@@ -390,6 +403,7 @@ Toys and Games
 : Playful items inspired by the park's themes and characters.
 
 ## Park type
+{{< options option="Park type" >}}
 
 Various categories of parks, each with its own unique characteristics and features.
 
@@ -409,6 +423,7 @@ Water Park
 : Features water-based attractions, such as pools, water slides, and wave pools, often with a focus on summer fun and recreation.
 
 ## Riding position
+{{< options option="Riding position" >}}
 
 Riding position refers to the way in which riders are seated or positioned on a ride.
 
@@ -441,6 +456,7 @@ Wing
 
 
 ## Ride system
+{{< options option="Ride system" >}}
 
 Ride system refers to the mechanical and technological components that power and control a ride.
 
@@ -499,6 +515,7 @@ Weight Propulsion
 : Weights or gravity are used to propel the vehicles.
 
 ## Ride topography
+{{< options option="Ride topography" >}}
 
 Ride topography refers to the shape and layout of a ride's track or course.
 
@@ -512,6 +529,7 @@ Vertical
 : Involves a vertical structure, such as a tower, with a focus on upward or downward movement.
 
 ## Ride type
+{{< options option="Ride type" >}}
 
 Ride type refers to the general category or classification of a ride based on its design and functionality.
 
@@ -547,6 +565,7 @@ Tracked Ride
 
 
 ## Sensory warnings
+{{< options option="Sensory warnings" >}}
 
 Sensory warnings refer to notifications and alerts about potential sensory stimuli that may be encountered during a ride or attraction.
 
@@ -581,6 +600,7 @@ Water Spray or Interaction
 : Exposes guests to water spray or interaction that can be uncomfortable.
 
 ## Slide configuration
+{{< options option="Slide configuration" >}}
 
 Slide configuration refers to the various shapes and designs of water slides.
 
@@ -619,6 +639,7 @@ Other
 
 
 ## Slide enclosure
+{{< options option="Slide enclosure" >}}
 
 Types of coverings or surroundings that water slides can have.
 
@@ -639,6 +660,7 @@ Partially Enclosed
 
 
 ## Slide landing
+{{< options option="Slide landing" >}}
 
 Slide landing refers to the various types of surfaces or areas that riders land on after sliding down a water slide.
 
@@ -656,6 +678,7 @@ Beach Entry
 
 
 ## Slide type
+{{< options option="Slide type" >}}
 
 Body Slide
 : Riders go down on their stomach or back.
@@ -670,6 +693,7 @@ Mat Slide
 : Riders go down on a small inflatable mat.
 
 ## Snack type
+{{< options option="Snack type" >}}
 
 Various categories of snacks, each with its own unique characteristics and features.
 
@@ -704,6 +728,7 @@ Sweets and Desserts
 : Sweet treats often eaten as a dessert, such as ice cream, cakes, and pastries.
 
 ## Track variation
+{{< options option="Track variation" >}}
 
 The unique design elements or features that distinguish a ride's track from others, focusing on the framework and structure of the track itself.
 
@@ -730,6 +755,7 @@ Standard
 
 
 ## Transportation system
+{{< options option="Sensory warnings" >}}
 
 Types of transportation for moving guests around a park or resort.
 

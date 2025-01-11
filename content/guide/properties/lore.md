@@ -5,25 +5,46 @@ weight: 60
 
 Property details presented as a fictional theme, incorporating elements of the backstory or lore.
 
-## Types
+Backstory
+: Fictional history of the property
+: {{< options option="Backstory" >}}
 
-| Detail | Description |
-| --- | --- |
-| **Backstory** | Fictional history of the property |
-| **Corporate entity** | Fictional company or organization |
-| **Proprietor** | Fictional owner or manager |
-| **Slogan** | Catchphrase or motto within the story |
-| **Staff role** | Fictional job title for characters |
-| **Guest role** | Title given to visitors within the story |
-| **Vehicle concept** | Fictional type of ride vehicle |
-| **Vehicle name** | Proper noun given to a vehicle or train |
-| **Restraint** | Fictional name safety device or harness |
-| **Accessory** | Item used within the story |
+Corporate entity
+: Fictional company or organization
+: {{< options option="corporate entity" >}}
 
+Proprietor
+: Fictional owner or manager
+: {{< options option="proprietor" >}}
 
-## Example
+Slogan
+: Catchphrase or motto within the story
+: {{< options option="slogan" >}}
 
-* `vehicle concept` on The Haunted Mansion is presented as `Doom Buggy`
-* `guest role` on Back to the Future: the ride was `Time Travel Volunteer`
-* `restraint` on Space Shuttle America was called `G-Force Restraining Order`
-* `Vehicle names` on `Steel Vengeance` are `Blackjack`, `Digger` and `Chess`
+Staff role
+: Fictional job title for characters
+: {{< options option="Staff role" >}}
+
+Guest role
+: Title given to visitors within the story
+: Ex: `guest role` on Back to the Future: the ride was `Time Travel Volunteer`
+: {{< options option="Vehicle name" >}}
+
+Vehicle concept
+: Fictional type of ride vehicle
+: Example: `vehicle concept` on The Haunted Mansion is presented as `Doom Buggy`
+: {{< options option="Vehicle" >}}
+
+Vehicle name
+: Proper noun given to a vehicle or train
+: Ex: `Vehicle names` on `Steel Vengeance` are `Blackjack`, `Digger` and `Chess`
+: {{< options option="Vehicle name" >}}
+
+Restraint
+: Fictional name safety device or harness
+: Ex: `restraint` on Space Shuttle America was called `G-Force Restraining Order`
+: {{< options option="Restraint" >}}
+
+Accessory
+: Item used within the story
+: {{< options option="Accessory" >}}

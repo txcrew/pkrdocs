@@ -3,6 +3,8 @@ title: "Colors"
 weight: 75
 ---
 
+{{< options section="Palette" >}}
+
 The main color scheme used in different components of a `roller coaster`. This generally refers to overall color scheme rather than all individual colors.
 
 | Component | Summary |
