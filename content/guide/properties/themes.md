@@ -80,6 +80,10 @@ Natural Disasters
 Nature and Conservation
 : The natural world and conservation efforts, often featuring wildlife and the environment.
 
+## P
+Prehistoric
+: Ancient times before written history, characterized by dinosaurs and primordial landscapes.
+
 ## R
 Rural
 : Rural life and culture, often featuring farming, agriculture, and country living.
