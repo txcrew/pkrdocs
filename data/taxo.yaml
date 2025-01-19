@@ -38,7 +38,6 @@ Location:
       - Transportation
       - Venue
       - Water slide
-
 Classifications:
 
   Attraction type:
@@ -200,7 +199,6 @@ Classifications:
       - Park
       - Ride
       - Water slide
-
 Measurements:
   Height:
     type: DoubleString
@@ -326,7 +324,6 @@ Measurements:
       - Transportation
       - Venue
       - Water slide
-
 Time:
   Duration:
     type: Time
@@ -357,7 +354,6 @@ Time:
       - Coaster
       - Ride
       - Water slide
-
 Vehicle:
   On-board features:
     type: SelectAddable
@@ -389,7 +385,6 @@ Vehicle:
       - Coaster
       - Ride
       - Water slide
-
 Arrangement:
   Configuration:
     type: Select
@@ -450,7 +445,6 @@ Arrangement:
     values:
       - Coaster
       - Ride
-
 Lore:
   Themes:
     type: SelectAddable
@@ -617,7 +611,6 @@ Lore:
       - Coaster
       - Ride
       - Water slide
-
 Bio:
   Height:
     type: SingleString
@@ -663,7 +656,6 @@ Palette:
     type: ColorAddable
     values:
       - Coaster
-
 Summary:
   Insights:
     type: SingleString
@@ -687,7 +679,6 @@ Summary:
       - Transportation
       - Venue
       - Water slide
-
 Creative team:
   Owner:
     type: Reference
@@ -803,7 +794,6 @@ Creative team:
       - Transportation
       - Venue
       - Water slide
-
 Point:
   Type:
     type: Select
