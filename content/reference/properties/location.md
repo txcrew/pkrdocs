@@ -16,10 +16,9 @@ Numerical values that specify a precise location on a map, visualized with a pin
 * `Spaceship Earth` at `EPCOT` is at coordinates `28.3755,-81.5494`
 * `California Adventure` is at coordinates `33.8062,-117.9199`
 
-{{< callout type="info" >}}
-Properties that travel (Ex: Cruise ships) do not have stationary coordinates.
-{{< /callout >}}
 
+> [!NOTE]
+> Properties that travel (Ex: Cruise ships) do not have stationary coordinates.
 
 ## Located within
 

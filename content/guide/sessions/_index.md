@@ -9,7 +9,6 @@ Sessions are cumulative records of visits over a period of time.
 
 {{< card link="overview"  title="Overview" subtitle="Breif overview of sessions">}}
 
-{{< card link="trackers"  title="Trackers" subtitle="something about a tracker">}}
 
 
 {{< /cards >}}

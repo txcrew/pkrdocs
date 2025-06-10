@@ -5,18 +5,24 @@
 
 
 :root {
-  --primary-hue: 100deg;
-  --primary-saturation: 90%;
-  --primary-lightness: 50%;
+  --primary-hue: 120deg;
+  --primary-saturation: 60%;
+  --primary-lightness: 25%;
 }
 
 .bigIcon{
   font-size:2.5em; 
 }
 
+p a {
+  text-decoration: underline solid currentColor 1px;
+  text-underline-offset: 6px;
+  text-decoration-skip-ink: none;
+}
+
 html{
-  font-size: 1.1rem;
-  font-weight: 300;
+
+  font-weight: 400;
   font-family: 'Karla', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
