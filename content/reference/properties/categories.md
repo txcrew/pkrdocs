@@ -6,6 +6,8 @@ next: /guide/properties/status
 
 Distinct groupings of properties based on type. Every property has 1 category.
 
+Certain categories feature enhanced tracking by inferring visits from attractions within, eliminating the need for redundant manual tracking.
+
 ## Area
  Themed park section (e.g. Fantasy Land)
 

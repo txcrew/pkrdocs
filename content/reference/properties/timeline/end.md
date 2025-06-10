@@ -6,7 +6,7 @@ weight: 40
 
 <i class="bigIcon">{{< icon "endDate" >}}</i>
 
-The date [operation status]({{< ref "status" >}}) became `defunct`.
+The date [operation status]({{< ref "op-state" >}}) became `defunct`.
 
 
 ## Fields
