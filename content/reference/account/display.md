@@ -7,7 +7,7 @@ The following settings can be adjusted to tailor the app according to your prefe
 
 ## Measure system
 
-Setting your preferred unit of measurement will always translate [specs]({{< ref "../properties/specs" >}}) to your preference when they are displayed.
+Setting your preferred unit of measurement will always translate [specs]({{< ref "#" >}}) to your preference when they are displayed.
 
 It will also be the default unit when making property contributions.
 

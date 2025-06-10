@@ -1,6 +1,7 @@
 ---
-title: "Operational status"
-linkTitle: "Status"
+title: "Operational state"
+linkTitle: "State
+"
 weight: 17
 prev: /guide/properties/categories
 ---

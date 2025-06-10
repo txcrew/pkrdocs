@@ -6,7 +6,7 @@ weight: 30
 
 <i class="bigIcon">{{< icon "startDate" >}}</i>
 
-The date [operation status]({{< ref "status" >}}) became `active`.
+The date [operation status]({{< ref "op-state" >}}) became `active`.
 
 
 ## Fields

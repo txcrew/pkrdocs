@@ -1,6 +1,6 @@
 ---
-title: "About Park Ranger"
-linkTitle: "About"
+title: "Introduction"
+linkTitle: "Introduction"
 weight: 5
 ---
 
