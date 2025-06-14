@@ -466,6 +466,9 @@ Shuttle
 Theater
 : A stationary, flying or rotating theater to display scenes or environments.
 
+Tilt track
+: Track that rotates or tilts to change vehicle orientation.
+
 Tire Propulsion
 : Friction tires are used to propel the vehicles.
 
