@@ -23,7 +23,7 @@ p a {
 html{
 
   font-weight: 400;
-  font-family: 'Karla', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Karla', ui-sans-serif, system-ui, sans-serif !important;
 }
 
 
