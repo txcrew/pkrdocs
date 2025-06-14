@@ -20,7 +20,7 @@ p a {
   text-decoration-skip-ink: none;
 }
 
-html{
+:host html, body{
 
   font-weight: 400;
   font-family: 'Karla', ui-sans-serif, system-ui, sans-serif !important;
