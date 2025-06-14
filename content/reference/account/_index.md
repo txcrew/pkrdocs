@@ -9,11 +9,9 @@ Your account stores your preferences and settings.
 
 <!--- {{< card link="prefs"  title="Preferences" subtitle="Setting your personal taste and interests">}} -->
 
-{{< card link="display"  title="Display" subtitle="User interface settings" >}}
+{{< card link="profile"  title="Profile" subtitle="Settings and preferences" >}}
 
 {{< card link="contribute"  title="Contribute" subtitle="Add new property data" >}}
-
-{{< card link="delete"  title="Delete account" subtitle="Danger zone" >}}
 
 
 {{< /cards >}}
