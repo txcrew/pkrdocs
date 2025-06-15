@@ -2,6 +2,7 @@
 title: "Modify property"
 linkTitle: "Edit"
 weight: 30
+draft: true
 ---
 
 Editing a property

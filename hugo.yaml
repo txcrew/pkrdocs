@@ -24,8 +24,11 @@ menu:
     - name: Reference
       pageRef: /reference
       weight: 2
-    - name: Search
+    - name: Changelog
+      pageRef: /changelog
       weight: 4
+    - name: Search
+      weight: 10
       params:
         type: search
 

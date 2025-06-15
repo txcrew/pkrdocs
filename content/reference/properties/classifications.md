@@ -9,7 +9,7 @@ Tags to breakdown property types according to specific criteria, simplifying ide
 ## Accessibility
 {{< options option="Accessibility" >}}
 
-Accommodations that make a ride or attraction accessible to guests who are differently abled.
+Accommodations that ensure rides or attractions are accessible to guests with disabilities.
 
 Audio Description Available
 : Provides verbal descriptions for guests who are blind or have low vision.
