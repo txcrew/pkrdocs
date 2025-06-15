@@ -11,104 +11,89 @@ You may choose to:
 * **Start from scratch** - Enter data on a blank canvas
 * **Clone an existing property** - Use a similar property as a template
 
-## Basic info
+## Contribution form
 
 All of the basic info is required
 
 {{% steps %}}
 
-### Set the name *
-This should be represented as the official, proper name of the property.
+### Basic info
+
+All of the basic info is required
 
 
-### Pick a category *
+Name
+: This should be represented as the official, proper name of the property.
 
-Select _one_ [category]({{< ref "#" >}} "Categories") that best describes the property type.
+Category
+: Select _one_ [category]({{< ref "reference/properties/categories" >}} "Categories") that best describes the property type.
 
-### Set [operation status]({{< ref "#" >}}) *
+Operation state
+: Reflects the physical state of a property.
 
-### Map Coordinates
-Use `search` to add coordinates by property name. 
+### Location
 
-#### Tips
-* If the property cannot be found, search for the closest neighboring property
-* The point can be adjusted by relocating marker
-* Skip this for properties that travel (Ex: Cruise ships)
+Coordinates
+: Use `search` to add coordinates by property name. 
 
-### [located within]({{< ref "#" >}} "Located within")
+> [!TIP]
+> * If the property cannot be found, search for the closest neighboring property
+> * Reposition the map to adjust the coordinates
 
-This can be done by using `search` across existing property names. If `coordinates` were entered, suggested properties will appear.
-
-{{% /steps %}}
-
-
-## Location
-[Location]({{< ref "#" >}} "Location") refers to the specific coordinates that define a property's position on a map, as well as its relationship to any encompassing parent property.
-
-### Coordinates
-Use `search` to add coordinates by property name. 
-
-* If the property cannot be found, search for the closest neighboring property
-* The point can be adjusted by relocating marker
-* Skip this for properties that travel (Ex: Cruise ships)
-
-### Located within
-Set the _closest_ property that new property is [located within]({{< ref "#" >}} "Located within"). 
-
-This can be done by using `search` across existing property names. If `coordinates` were entered, suggested properties will appear.
-
-
-## Profile
-A detailed overview of a property's construction, features and associated lore.
+Located Within
+: Identify the single _closest_ property that a property is located within.
 
 ### Classifications
-[Classifications]({{< ref "#" >}} "Classifications") are systematic tags used to breakdown property types according to specific criteria, simplifying identification. There are various classifications per property type.
 
-* Select only the classifications that apply to the property. 
-* Some classifications allow multiple values while others are single select.
-* Complete as many as possible
+ Systematic tags used to breakdown property types according to specific criteria, simplifying identification. There are various [classifications]({{< ref "reference/properties/classifications" >}} "classifications") per property type.
+
+> [!TIP]
+> * Some classifications allow multiple values while others are single select
+> * Select only the classifications that apply to the property
 
 ### Specs
-[Specs]({{< ref "#" >}} "Specs") are quantitative assessments of a specific property, typically expressed in numerical values and units.
+[Specs]({{< ref "reference/properties/specs" >}} "Specs") are quantitative assessments of a specific property, typically expressed in numerical values and units.
 
-### Presentation
-The artistic delivery and storytelling of a fictional narrative encompassing its themes, lore, and world-building elements to engage and immerse the audience in the property.
+### Themeing & Lore
 
-#### [Theme]({{< ref "#" >}} "Theme")
-* Choose the theme(s) that best fit the property
-* Keep criteria for theme selection simple and straightforward
-* Sometimes a property doesn’t have a theme, it's okay to leave it blank
+Property details presented as a fictional theme, incorporating elements of the backstory or lore.
 
-#### [Lore]({{< ref "#" >}} "Lore")
-* Choose the themes that best fit the property
+Theme
+: Choose the theme(s) that best fit the property
 
-#### [Bio]({{< ref "#" >}} "Bio")
-* Applicable for `character` property types
-* Details can be factual or made up - they're just for fun
+> [!TIP]
+> * Keep criteria for theme selection simple and straightforward
+> * Leave it blank if there are no applicable themes
 
-#### [Colors]({{< ref "#" >}} "Colors")
-* Applicable for `roller coaster` property types
-* Record the main colors used in each part of the roller coaster
-* Focus on the overall color scheme rather than all individual colors
+Lore
+: Add any noteable property lore
 
+Bio
+: Applicable for `character` property types, details can be factual or made up - they're just for fun
 
-## History
+Colors
+: The main colors used in each part of a `Roller Coaster` property type
 
-### Summary
-The [Summary]({{< ref ".#" >}} "summary") is the catch-all for any property anecdotes that didn't fit anywhere else. Anything presented in the summary should be written complete sentences and paragraphs.
+> [!TIP]
+> Focus on the overall color scheme rather than all individual colors
 
-* Write in complete sentences
-* Cite any sources, as needed
+### Creative Development
+
+Summary
+: The summary is a collection of anecdotes about a property
+
+> [!TIP]
+> * Write in complete sentences
+> * Cite any sources, as needed
+
+Creative team
+: Key members of the [creative team]({{< ref "#" >}} "Team") can be credited for their contributions in creating a property.
 
 ### Timeline
-Add relevant and notable [points]({{< ref "#" >}} "Points")  to a properties timeline. Points vary in nature and should match the context being presented.
 
-* Timeline sorts by least to most recent
-* Dates are not required
-* When entering dates, year is required
+Add relevant and notable [points]({{< ref "reference/properties/timeline" >}} "Points")  to a properties timeline. Points vary in nature and should match the context being presented.
 
-### Team
-Key members of the [creative team]({{< ref "#" >}} "Team") can be credited for their contributions in creating a property.
+> [!TIP]
+> If recording a date, `year` is required
 
-* Credit the team that was active in the current property
-* Add the credit within the proper role
+{{% /steps %}}

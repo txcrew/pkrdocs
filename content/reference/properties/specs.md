@@ -20,7 +20,7 @@ Descent angle
 : {{< options option="Descent angle" >}}
 
 Length
-: Overall length of a track course
+: The total distance from a start point to an endpoint
 : {{< options option="Length" >}}
 
 Top speed
@@ -65,7 +65,7 @@ Build cost
 Various metrics used to describe the time-related characteristics of a property.
 
 Duration
-: Total length of the ride experience
+: Total time of the ride experience
 
 Acceleration time
 : Time to reach top speed from a launch

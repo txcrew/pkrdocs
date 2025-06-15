@@ -27,6 +27,18 @@ Properties that are located within another property are displayed together in a 
 ### Usage
 Identifying the single _closest_ property that a property is located within.
 
+{{< tips >}}
+
+Brooklyn is located in New York City
+---
+Brooklyn is located in the USA
+{{< /tips >}}
+
+It can be inferred that `Brooklyn` is in the `USA`, as it is located within New York City, NY, USA.
+
+
+### Examples
+
 In the following location tree example, `Test Track` is located within `Sim Track`.
 
 {{< filetree/container >}}
@@ -41,9 +53,9 @@ In the following location tree example, `Test Track` is located within `Sim Trac
   {{< /filetree/folder >}}
 {{< /filetree/container >}}
 
-It can be inferred that `Test Track` is in `EPCOT` based on the closest proeprty it's located within.
 
-### Examples
+Other examples:
+
 * `Tomorrowland` is in located within `Magic Kingdom`
 * `California Adventure` is located within `Disneyland Resort`
 * `Brooklyn` is located within `New York City`

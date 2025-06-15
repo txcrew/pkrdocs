@@ -18,29 +18,18 @@ The operational status reflects the physical state of a property. An operational
 | **Seasonal**    | Operates a few months out of the year            |
 | **Unknown**     | Not sure about the status                |
 
-## Example
-
-`Horizons` loacted within `Future World` in `EPCOT` at `Walt Disney World Resort` is `Defunct`
-
-
-1. `Horizons` is the `Attraction`
-2. `Future world` is the `Area`
-3. `EPCOT` is the `Park`
-4. `Walt Disney World Resort` is the resort
-5. `Defunct` is the Operational status
-
 ## Usage
 
-The operational status should be updated when a property is:
+Update the state when there are significant changes in operations.
 
-Announced
-: Typically as `development` unless it's announced on the `start date`
-
-Opens
-: as `active` usually coincides with `start date`
-
-Closes
-: `defunct` usually coincides with `end date` but it can differ as properties can experience extended, or indefinite closures
-
-Indefinite closure
-: `unknown`
+{{< tips >}}
+* Announced
+* Starts
+* Ends
+* Indefinite downtime
+---
+* Downtime
+* Weather related closure
+* Event based closure
+* Rumors
+{{< /tips >}}
