@@ -69,7 +69,7 @@ Lore
 : Add any noteable property lore
 
 Bio
-: Applicable for `character` property types, details can be factual or made up - they're just for fun
+: Applicable for `character` properties, details can be factual or made up - they're just for fun
 
 Colors
 : The main colors used in each part of a `Roller Coaster` property type
