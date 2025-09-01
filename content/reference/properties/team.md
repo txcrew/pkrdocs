@@ -10,6 +10,10 @@ Owner
 : Person or entity that owns a property
 : {{< options option="Owner" >}}
 
+Operator
+: Person or entity that runs a property
+: {{< options option="Operator" >}}
+
 President
 : Head of a park or resort's operations
 : {{< options option="president" >}}

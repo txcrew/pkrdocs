@@ -707,6 +707,15 @@ Creative team:
       - Resort
       - Stadium
 
+  Operator:
+    type: Reference
+    values:
+      - Cruise ship
+      - Hotel
+      - Park
+      - Resort
+      - Stadium
+
   President:
     type: Reference
     values:
