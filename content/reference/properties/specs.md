@@ -27,6 +27,22 @@ Top speed
 : Maximum speed reached during operation
 : {{< options option="Top speed" >}}
 
+Cruising speed
+: Normal operating speed maintained during voyages, measured in knots
+: {{< options option="Cruising speed" >}} 
+
+Passenger Capacity
+: Maximum number of guests accommodated under standard double-occupancy conditions
+: {{< options option="Passenger Capacity" >}}
+
+Crew Capacity
+: Official number of officers and crew serving aboard.
+: {{< options option="Crew Capacity" >}}
+
+Gross Tonnage
+: Volume measure of ship’s enclosed spaces, indicating overall internal size
+: {{< options option="Gross Tonnage" >}}
+
 G-force
 : Maximum sustained g-forces experienced
 : {{< options option="G-force" >}}
