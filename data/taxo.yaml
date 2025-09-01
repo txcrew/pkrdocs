@@ -238,7 +238,6 @@ Measurements:
     type: DoubleString
     values:
       - Coaster
-      - Cruise ship
       - Ride
       - Water slide
 
@@ -286,7 +285,6 @@ Measurements:
       - Area
       - Attraction
       - Coaster
-      - Cruise ship
       - Dining
       - District
       - Park
@@ -309,6 +307,21 @@ Measurements:
       - Hotel
 
   Decks:
+    type: SingleString
+    values:
+      - Cruise ship
+
+  Cruising Speed:
+    type: SingleString
+    values:
+      - Cruise ship
+
+  Passenger Capacity:
+    type: SingleString
+    values:
+      - Cruise ship
+
+  Crew Capacity:
     type: SingleString
     values:
       - Cruise ship
