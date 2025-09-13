@@ -152,10 +152,10 @@ Classifications:
     values:
       - Water slide
 
-   Playing surface:
-     type: SelectAddable
-     values:
-       - Stadium
+  Playing surface:
+    type: SelectAddable
+    values:
+      - Stadium
 
   Transit system:
     type: Select
