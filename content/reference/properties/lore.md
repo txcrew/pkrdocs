@@ -13,6 +13,11 @@ Corporate entity
 : Fictional company or organization
 : {{< options option="corporate entity" >}}
 
+Framing location
+: A named, story-based place that frames or contextualizes a single attraction
+: `Institute of Future Technology` on Back to the Future: The Ride
+: {{< options option="place" >}}
+
 Proprietor
 : Fictional owner or manager
 : {{< options option="proprietor" >}}

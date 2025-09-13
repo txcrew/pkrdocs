@@ -152,10 +152,10 @@ Classifications:
     values:
       - Water slide
 
-  # Playing surface:
-  #   type: SelectAddable
-  #   values:
-  #     - Stadium
+   Playing surface:
+     type: SelectAddable
+     values:
+       - Stadium
 
   Transit system:
     type: Select
@@ -521,6 +521,20 @@ Lore:
       - Snack
       - Transportation
       - Venue
+      - Water slide
+
+  Place:
+    type: SingleString
+    values:
+      - Area
+      - Attraction
+      - Coaster
+      - Dining
+      - District
+      - Entertainment
+      - Park
+      - Ride
+      - Shop
       - Water slide
 
   Proprietor:
